@@ -361,7 +361,9 @@ Look down to the next lower platform and you'll see an Imp spawn: you can kill i
 
 Stand on ledge that has a suit of armor on it.  Look down below into the Main Pit Area, and soon you'll see 2 Mancubi lumbering around that you can carefully attack with the Rocket Launcher (preferably with Lock-On modification).
 
-Quickly jump down the Pit area, to trigger the generation of about 10 Imps, 2 Hell Knights; ... TODO replay for exact info...
+Quickly jump down the Pit area, to trigger two waves: 
+* a bunch of Imps (and HR?) ending with a Hell Knight
+* a bunch of Imps and a few Hell Razers, ending with 2 Hell Knights
 
 ## Mission 6:  Accessing and Using the Yellow Skull
 The game's waypoint will lead you to a switch (only accessible once all the above demons are killed).  After actuating the switch, walk across the pit to a newly opened area with armor and the Yellow Skull.
@@ -382,7 +384,7 @@ Another Summoner spawns on the left side of the lower area.
 
 2 Hell Knights soon spawn, along with a mess of Hell Razers (etc???).
 
-## Mission 6: Getting back up to the Start of the Level
+## Mission 6: Getting the Blue Skull
 Follow the game's marker to a Chainsaw and Shotgun Ammo.
 Continue down a passage to watch a series of islands appear, in the large cavern where the first fight began.
 
@@ -396,15 +398,173 @@ Head through the teleporter.
 You'll find a Blue Skull.  Upon taking it, a gate will open leading you back to the overlook of the Main Pit Area.
 
 ## Mission 6: Fight: Main Pit Area, part 2
-Before you can do anything, 3 Imps will spawn up here.
+Before you can do anything, 4 Imps will spawn up here.
 
-## Mission 6: Fight: ???
+Imps should start spawning below: carefully take them out with grenades or whatever.
+
+A few Cacodaemons will spawn.  Two blasts with the Lock-On Rocket Launcher will kill them, or you can target their eye with the Assault Rifle, or Gauss Cannon works.  You'll also need to keep lobbing grenades to kill the Imps that like to hang out in the area to the right of the base of the long stairs.
+
+At some point, to trigger more demons, you'll have to descend to the floor.  Take the Quad Powerup as needed (if you have 2 Power Upgrades, you'll refresh your health at this point, so it can be best to wait until you are damaged.
+There is a wave of Revenants and a Hell Knight, another Cacodaemon, more Revenants, a Mancubus, and a number of Imps.
+
+## Mission 6: Rune Challenge and Using the Blue Skull
+/PONR/ WARNING:  This Rune Challenge is only accessible for a short while.  The protective gates around it are closed until you get the Blue Skull, and after ...  (XXX: is the Rune accessible during the above Fight??)
+
+Accessing the Rune Challenge requires jumping onto the central Rock that held the Quad Powerup.  Jump onto the smaller upper island (there are two: jump toward the one closer to the Blue Door?).  Then you should see a man-made (or demon-made) ledge to your right, with a few small Healths.
+Jump, and turn around and look up to see a higher island.  Jump to it - then continue the same direction to an upper ledge.  Climb a short ledge to a tunnel leading left to the Savagery Rune Challenge.
+
+After finishing it, go back to the main rock (where the Quad Powerup was), and jump to the "balcony" with the Blue Skull Door.  Interact, and you'll be in a pale green stone hallway: immediately on your right is an alcove containing Gas and an Argent Cell.  Further down, is rockets.
+
+## Mission 6: Fight: Misc Small Fights in the Cliff Area
+First up, is 4 Unwilling (good Weapon Upgrade fodder for Super Shotgun or Heat Blast) with a Mancubus, and a second Mancubus that jumps up with the first dies.
+
+Now is not a bad time to use the Invulnerability which is on a lower level near where you exit the tunnel.
+
+Walking along the ledge, some Imps, 2 Lost Souls, a Revenant spawn.
+
+Island-Jump across to be surprised by 2 Lost Souls, and a Hell Razer.  The HR can be used to work on the Combat Challenge.
+
+Walk through the tunnel behind the Hell Razer, and you'll be on a new cliff, with a fire and a Elite Guard.  Look left and down and you'll see the first Cacodaemon.  There is second one, probably behind that rocky pinnacle.  Lock-On Rocket Launcher is a fool-proof way to deal with these guys.
+
+Visit the Elite Guard.
+
+Detour for Secret:  Jump to the Island with the Armor and jump across to a lower ledge.  Turn right, and a Hell Knight will spawn.  Behind him (to the left) is a small cave with the Chaingun (as a Secret).  Retrace your steps to the Elite Guard across the cavern.
+
+Island-Hop using the upper chain of islands.  At the end of this sequence of 5? Islands is a Skull Switch:  you will see the Iron Gate to the next part of the level raise when you actuate it.
+
+You won't get a Checkpoint until everything is cleared (except the Hell Knight)- usually that occurs after the pair of Cacodaemons.
+
+## Mission 6: Fight: Second Pit
+
+Enter to find yourself in yet another large arena centered around a "pit" with bloody floors.  To your left is a balcony from which you can deal with a few demons, most notably 2 Lost Souls.  There's a lot of Hell Razers, Imps, and Revenants, as well as 2 Hell Knights and a Mancubus at the end of the fight (the Mancubus only spawns as you approach the waypoint).
+
+In the pit, there's a tunnel with many small armor and a Haste Powerup.
+
+## Mission 6:  Rune Challenge: "Seek and Destroy"
+After the fight a tunnel opens to the second Rune Challenge.
+
+## Mission 6:  Extracurricular Activities around the second pit
+You can continue up the stairs for the main campaign path, or you can return to the levels entrance and look for two small adjacent caves that opened up.
+
+The right-hand cave has a suit of armor and an Automap.
+
+The left-hand cave has a teleporter to a treasure room of sorts with a recording.
+You could teleport back, but instead look for the exit corridor and find a Codex Entry and an Elite Guard.
+
+Finish the detour by following the corridor and using the yellow lift to cross the chasm.  If you go straight, then left, you should see the stairs leading down to the Rune Challenge (and likely a suit of armor on them).
+
+Descend the stairs about halfway (above the decorative gate) and look for a ledge to the left you can jump onto to find a secret:  the Mancubus Model Redguy.
+
+Back at the top of the stairs, find a Field Drone (nows time to get the Gauss Cannon's Siege Mode) and a Codex Entry "Artifacts / Doom Marine".
+
+A few stray small armor mark the top of a steep staircase.  Descend it to see a holographic replay of Dr Hayden and some guards.
+
+/PONR/: Once you go through the gate ahead, you will no longer to able to get back to the earlier parts of the level.
+
+Pass through the gate (it'll open for you), into a fight scene.
+
+## Mission 6:  Fight: Hell Barons in Arena with two Subarenas
+
+The fight is already underway between the first Hell Baron and a bunch of the Possessed and 6? Imps.  By far, the Gauss Cannon in Siege Mode is the easiest way to deal with the Hell Baron, then deal with the stragglers however you want.
+
+At some point, a Summoner appears.  I usually use the Rocket Launcher, but Gauss Cannon or even Chainsaw works.
+
+Another Hell Baron and some Imps arrive.
+
+After that's all gone 6? Lost Souls spawn.  It is good to take shelter in the more protected subarena and pick them off with the Assault Rifle or Shotgun or whatever.
+
+Finally, 2 Hell Barons spawn.  I use the Quad Powerup and the Super Shotgun.  If you already used the Quad Powerup, just keep moving and dodging their shots (they move fast, though) and use either the Gauss Cannon (you need to move fast, so no Siege Mode) or Super Shotgun.
+
+# Mission 6:  Onward, after a short Secret Detour
+
+OK, go back to the large main arena from the last fight.  There is a big cave.
+Inside the cave (which can be a bit dark) is a lever: an Original Doom Level trigger.  The location of the level itself is on the lower floor closer to where you entered the arena, or simple walk off the ledge between the two subarenas, and drop down.
+
+Or use the map: it looks quite distinct with a visible arrow drawn into the map in the Dossier.  Once there, the arrow marks the correct switch to press (ie the Left switch).  It accesses a Mega Health Bonus (although crudely rendered, it is just as effective as a modern-looking one).
+
+Go back to the subarena that once held the Quad Powerup, and now should be decorated with a glowing green circular symbol.  When you approach the door, it will open.
+
+# Mission 6: Fight: some small easy fights
+First, there's about 6 Unwilling in this corridor... they are useful for Weapon Upgrade Challenges (eg Tactical Scope, Heat Blast, Super Shotgun, Pistol).
+And 2 Lost Souls to watch out for.
+
+Instead of charging out island-hopping, turn right, and go up some stairs to overlook a Mancubus and 2 Revenants fighting.  Help them kill each other with a suitable weapon (ie Rocket Launch or Gauss Cannon).
+
+Go ahead and island-hop over to the largest platform which should have some shotgun ammo.  Turning left, 2 Cacodaemons will appear: kill them (using e.g. the rocket launcher).  Go to the edge where the Cacodaemons appeared, and look across the chasm to see that a few islands connect you to another dilapidated staircase across the way.  Make your way over.  The landing hand a few small health, a Codex Entry "Monsters / Mancubus" and Gas.
+
+3 Unwilling and a Mancubus guard another tunnel: you should get a Checkpoint here.
+
+Continue up some stairs, to find 4 more Unwilling wandering around some armor:
+good target fodder.
+
+A Codex Entry "Artifacts: Slayers Testament 3" is found.
+
+The last easy fight is about 5 Imps fighting 10 Unwilling.  (I like to work on the Savagery Rune and the Seek and Destroy Rune for this easy fight).
+
+Don't miss the Elite Guard here!
+
+Enter a well-stocked tunnel ending with a Codex Entry "UAC Personnel / Olivia Pierce" for a Checkpoint preceding the final fight of the mission.
+
+# Mission 6:  Fight: Finale
+
+It comes in unseparated waves:
+* 4? Imps and 3? Hell Razers
+* 2 Hell Knights
+* 4 Revenants
+* 3 Mancubi
+* 2 Hell Barons and 1 Mancubus
+
+I tend to save the Quad Powerup and for the end; get the Armor on the toplevel (a sometimes overlooked location) early on to make it easier.  Keep on the move and kill quickly.
+
+Walk up the hill to a holographic replay of some sort of ritual with a casket???
+
+Interact with the screen ??? to exit the level.
 
 # Mission 7:  Argent Facility (Destroyed)
 
-# Mission 8:  Advanced Resource Complex
+## Mission 7: Introduction
 
-# Mission 9:  Lazarus Labs
+Pick up a Codex Entry "Monsters / Barons of Hell"
+
+Go ahead and exit to the outdoor walkway, turning right (since left is blocked by fire).
+
+## Mission 7: Fight: One Cacodaemon on Walkway
+Be surprised by a Cacodaemon; it's a bit annoying on this narrow walkway- with timing you can get it in one Gauss Siege Cannon, but one have space to dodge it as well.
+
+## Mission 7: Getting back into Argent Facility 
+At the end of the walkway, turn around and look for a walkway to jump up to.  Next, jump across to a train and follow it to a small landing with two tarp-covered crates.  Behind these crates is a lever for the Original Doom Level.
+After actuating the lever, drop down to another walkway/landing with a grated floor, and turn around to see a large octagonal pillar with a large "1" on it.  Behind this pillar is Secret #6, "Classic Level / Doom 2: Underhalls".
+
+Immediately upon exiting this area, turn right, to see a right-dirt floored alcove with some crates.  There is Secret #4, "Cacodaemon Model / Rageguy".  There's also some armor and Gas.
+
+Now, jump your way up to the highest accessible walkway.
+
+You'll get a checkpoint shortly before a long double-jump.  It's not really difficult though.  Continue until you are looking into a damaged corridor which crosses the chasm.
+
+Drop into the hallway through the gaping hole in its roof.  Turn around to find an Elite Guard (along with some armor and shotgun ammo).
+
+Go forward to the computer area.  Find a Codex Entry "Environments / Argent Facility".
+
+Interact with the computer for a 48 second cut scene, whose immediate consequence is that you need a yellow keycard.  A marker will take you to the airlock, which has a screen you can interact with.
+
+# Mission 7: Fight: Side Cargo Bay Exterior
+While you may not see monsters immediately, they are just to the right:  a Hell Razer, a Possessed Engineer, and 6? The Possessed.  You can take care of many by shooting the barrel.  Expect 2 more Revenants, Imps, Possessed Soldiers, 2 Cacodaemons, and a Hell Knight.
+
+# Mission 7: Fight: Maintenance Exterior
+Drop down to another former gore nest location, near the large Union Aerospace tank, on a ground area with lots of fire, to get another small fight with Imps, Hell Razers and a Hell Knight.
+
+Look down into the next area.  This is the area that used to have a blue Force Field, but now just has some fires.  You should see the pale-orange glow of a Beserk Powerup.  Drop down.
+
+# Mission 7: Fight: Main Cargo Bay
+First to appear will be 2 Cacodaemons and 1 Imp.  One Cacodaemon often starts very low and can be chainsawed to solve several problems at once.
+
+After that, Imps, ...
+
+# Mission 7: Fight: Security Station
+
+# Mission 8: Advanced Resource Complex
+
+# Mission 9: Lazarus Labs
 
 # Mission 10: Titan's Realm
 
@@ -425,7 +585,7 @@ Abbreviations for Demons:
 * mc, mcs: Mancubi
 * cm, cms: Cyber-Mancubi
 * hb, hbs: Hell Barons
-* pink, pinks: Pinkies
+* pnk, pnks: Pinkies
 * sp, sps: Spectres
 
 Modifiers:
