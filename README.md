@@ -9,12 +9,19 @@
 ## Weapon Use Summary
 
 ### Pistol
+To state the obvious, what the Pistol lacks in power it makes up for by having unlimited ammo.
+
+The lack of power can be an advantage if you are trying to stun a demon in order to Glory Kill it, if you are trying to extract more stuff from the kill.
+
+My upgrade strategy: save the upgrades for the end, or maybe induldge in the first 1 point upgrade.
+There are more important ways to spend one's upgrade points.
+
 ### Shotgun (available Mission 0)
-### Plasma Gun (available Mission ???)
-### Assault Rifle (available Mission ???)
+### Plasma Gun (available Mission 2)
+### Assault Rifle (available Mission 2)
 ### Super Shotgun (available Mission ???)
-### Chain Gun (available Mission ???)
-### Gauss Cannon (available Mission ???)
+### Chain Gun (available Mission 6)
+### Gauss Cannon (available Mission 5)
 ### BFG (available Mission ???)
 
 # Mission 0:  Pre-UAC
@@ -553,14 +560,100 @@ While you may not see monsters immediately, they are just to the right:  a Hell 
 # Mission 7: Fight: Maintenance Exterior
 Drop down to another former gore nest location, near the large Union Aerospace tank, on a ground area with lots of fire, to get another small fight with Imps, Hell Razers and a Hell Knight.
 
+There is a Hologram device near some ammo.
+
 Look down into the next area.  This is the area that used to have a blue Force Field, but now just has some fires.  You should see the pale-orange glow of a Beserk Powerup.  Drop down.
 
 # Mission 7: Fight: Main Cargo Bay
 First to appear will be 2 Cacodaemons and 1 Imp.  One Cacodaemon often starts very low and can be chainsawed to solve several problems at once.
 
-After that, Imps, ...
+After that, Imps, 3? Revenants, and a Summoner appear.
+
+In fact, the Beserk may outlast the fight: you can perhaps even you it to kill some stuff in an adjacent area.
+
+# Mission 7: Fight: Main Cargo Bay Adjacent: old platform area
+This area is easily skipped.
+
+There's a Hell Knight and a few Imps.
+
+# Mission 7: Fight: Main Cargo Bay Adjacent: through tunnel
+This area is easily skipped.
+
+A Hell Knight, a Hell Razer and at least 1 Imp.
+
+This is the area that had the Lever for the classic doom secret in Mission 4.
+
+
+# Mission 7: Accessing Rune Challenge "In-Flight Mobility"
+From the Old Platform Area, there's a blue lift that'll drop you on the rock for this Rune.
+
+Or, you can jump across from the cargo crates in front of the Security Station Doors.
+
+NOTE: This challenge is frustrating for many people, since it has little margin for error.  However, it is worth the practice, because the Rune is critical for some of the bosses.  See Rune Challenges Section for specific advice.
 
 # Mission 7: Fight: Security Station
+To get here, from the Main Cargo Bay, look for a pile of 3 crates to climb on.  The door should have a marker on it (an in-game destination) and there should be Gas here.
+
+Entering, there's even more supplies littered throughout a gory hallway.
+
+Interact with the door to get a short cut-scene introducing us to the Pinky.
+
+The fight begins with 2 Pinkies and at least 1 Possessed Soldier (and a hard-to-count number of The Possessed in the peripheries- most of these get killed by other demons!).
+
+After killing those Pinkies, another way of 4? Pinkies (etc???) is triggered.
+
+After the fight, visit the Auto-Map, and get the Codex Entry "UAC Personnel / Dr Samuel Hayden 2".
+
+There's also a Health Station here.
+
+After triggering and watching a holographic replay, you'll be allowed out the Security Station's second door.
+
+# Mission 7: Fight: Exiting Security Station
+Opening the door, you'll see a Pinky:  but there's actually 2 Pinkies.  As well as 2 Revenants, 2 Imps.   You can use the Quad Power-Up but I usually save it for the more tough fight coming up.  Once you kill all these guys you'll get a Checkpoint.
+
+There's an Elite Guard on the top level.
+
+Interact with the Munitions Crate in the far corner of the lower-level.
+Unfortunately you'll need to re-do this each time you die:  on the positive side, this Munitions Crate refills between most battles.
+
+# Mission 7: Fight: Exiting Security Station and Entering ???
+This fight is triggered when you take the stairs across the chasm after killing everyone.
+
+Initially there just a lot of The Possesseds staggering around, but a Revenant, an Imp, and a Cacodaemon are the first wave of guests to this party.
+
+A second wave (somewhat indistinct), is another Revenant, Cacodaemon and a few Imps.
+
+The third wave is different: two Pinkies and a Mancubus.   These guys come out of the hangar ahead of you, and if you time it right, you can take them out with a single satisfying Quad-Damage Siege Cannon on the bridge.
+
+The Munitions Crate below is refreshed (???).
+
+# Mission 7: Fight: Indoor Gore Nest
+Enter the building picking up supplies.
+
+Almost the entire pre-fight can be handled with a single Gauss Cannon Siege Mode shot.
+Except you may have to deal with a pernicious Hell Razer, plus a lurking Shielded Guard (use the Gauss Cannon on this fool, who hides on the left as you approach the Nest).
+
+Before destroying the Gore Nest:
+* Consider taking the Megahealth Powerup on the crate above.
+* You'll probably want to use your chainsaw, so find Gas where the Shielded Soldier hides (to the left as you initially walk toward the Gore Nest).
+* The two Pinkies spawn in reliable locations, one near the entrance
+* I usually retreat toward the entrance to minimize complications and environmental risks: your mileage may vary.
+
+In addition to 2 Pinkies, a Hell Knight and a few Hell Razers spawn.
+
+The finale is a Hell Baron, who starts on the far side of the room (with the Health Station and chainsaw).  I like to use the chainsaw on it, but the Gauss Cannon/Siege Mode is also quite effective.
+
+## Mission 7: Post-Fight ??? Cleanup
+
+Pickup all you can.  There should be a screen to access near the bridge over the electrically charged floor.  Actuating the Crane will cause a large suspended block to move within jumping range.  Jump onto it, then jump right onto a catwalk.  The game should let you know you found a secret: this is Section #???.
+
+Access the Field Drone, selecting ???.
+
+Exit through the door near the Health Station.
+
+...
+
+## Mission 7: ..
 
 # Mission 8: Advanced Resource Complex
 
@@ -576,17 +669,17 @@ After that, Imps, ...
 
 # Ultra-Nightmare Practice Sheet
 Abbreviations for Demons:
-* tp, tps: The Possessed
-* ps, pss: Possessed Soldiers
-* hk, hks: Hell Knight
-* imp, imps: Imps
-* ls, lss: Lost Souls
-* cd, cds: Cacodaemons
-* mc, mcs: Mancubi
-* cm, cms: Cyber-Mancubi
-* hb, hbs: Hell Barons
-* pnk, pnks: Pinkies
-* sp, sps: Spectres
+* tp: The Possessed
+* ps: Possessed Soldiers
+* hk: Hell Knight
+* imp: Imps
+* ls: Lost Souls
+* cd: Cacodaemons
+* mc: Mancubi
+* cm: Cyber-Mancubi
+* hb: Hell Barons
+* pnk: Pinkies
+* sp: Spectres
 
 Modifiers:
 * immed: Immediate (w/i a few seconds) death from Checkpoint
