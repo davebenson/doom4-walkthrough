@@ -802,11 +802,49 @@ Proceed toward the in-game waypoint, to a lobby.  This area has TWO green door: 
 
 ## Mission 8: Fight:  The BFG Labs Access Hallway
 
-Now, go forward into the ring of labs in the BFG complex.  Get a big gun out and shoot 5 Possessed Soldiers, 1 Shielded Soldier, and 1 Mancubus. (???)
+Now, go forward into the ring of labs in the BFG complex.  Get a big gun out and shoot 5 Possessed Soldiers, 2 Shielded Soldier, and 1 Cyber-Mancubus.
 
-## Mission 8: The BFG Labs (Details)
+I usually use a super-shotgun to start, then a mix of rockets and gauss cannon to finish the Cyber-Mancubus.
 
-## Mission 8: Acquiring the BFG
+## Mission 8: Notes on the BFG Labs 
+Let's look at the labs on the outside of the hallway-ring.
+
+I'm going to go clockwise (as seen from above) starting at the Yellow Door.
+
+* Yellow Door: find a Torso whose retina will grant you access to the BFG itself
+* Bluish Door "Prototype Lab 02".  4 The Possesseds.
+* Red-lit Door-ish area: there's a corpse, a Gauss Cannon and some plasma fuel.
+* Bluish Door "Prototype Lab 01".  4 The Possesseds.
+Once these guys are dead, stand on the machinery and look for an open duct.  Secret #2: "Pinky Model: Pinkguy" ???  Follow the duct to drop into a room with a The Possessed, plus a Codex Entry "Weapons / BFG-9000".  Go out this door into the main circular hall
+
+That's it: now go to the in-game waypoint and interact with it.
+
+You can probably figure out how to get the BFG from here... but the next section will spare no details.
+
+## Mission 8: Accessing the BFG (Defeating the Security Measure)
+Enter the chamber; the alarm will sound, i guess it noticed that the retina was attached to a corpse.  Anyways, jump onto any of the symmetric metal platforms, and watch the crazy security apparatus.
+
+After about 10 seconds, a sequence of lamps will light up and ypu can to shoot the obvious cells (you need to shoot 4 of the 6 cells).  Do so, and the security system collapses and you can claim the BFG for your arsenal.
+
+Watch the cut-scene.
+
+## Mission 8: Fight: Test The BFG
+
+This fight is designed to be a nice place to use the BFG, for casual players.
+But it's probably better to work on all kinds of Weapon Upgrades (Super Shotgun, Gauss Cannon-Siege Mode, Chain Gun-Mobile Turret).
+
+## Mission 8: Before heading out ???: Rune Challenge "Intimacy is Best"
+
+Watch the holographic replay.
+
+Before going ahead, go right through a newly green-lit door; turn left into a yellow-gold-lit narrow opening to Secret #???, Rune Challenge "Intimacy is Best"
+
+## Mission 8: Gore Nest 2
+Now, charge forward into a battle designed to showcase the BFG (and you may as well use it, since you can only store 3 charges.
+
+Prefight: use a few Siege Mode/Gauss Cannons to kill the incoming hordes from the Checkpoint.  After that, coming into this area, 3 Lost Souls will spawn: one straight in front, one left, one right.  After you learn where they spawn they are easy to deal with - and since you have to re-kill them every time you die in this battle, you'll probably learn where they spawn too.
+
+Now, destroy the Gore Nest.  Use the most powerful weapons available.
 
 # Mission 9: Lazarus Labs
 
