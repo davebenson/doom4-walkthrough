@@ -316,11 +316,11 @@ Unmanned trains run around it's exterior, and you'll encounter them a few times.
 You should see such an unmanned train going right every 5 seconds or so.  Follow it, and drop into an unused track.  Keep going, and you should see an entrance to a human-sized passageway on your left.
 
 Upon entering the passageway, look back to find an Elite Guard.
-Continue to find a Health Station and Codex Page.
+Continue to find a Health Station and Codex Page "???".
 
 At some point, the passage becomes narrower and darker, and we can make a detour to get the Collectible doll.
 
-To get the XXX Model, re-enter the unused Train corridor at this point (by veering right).  Continuing down the corridor, you'll arrive at an unused, stationary train car.  Get onto it, by double-jumping onto the ledge to your right, then double-jumping onto the train car (don't worry: the upper-train won't hit you).
+To get Secret #???: "??? Model / ???", re-enter the unused Train corridor at this point (by veering right).  Continuing down the corridor, you'll arrive at an unused, stationary train car.  Get onto it, by double-jumping onto the ledge to your right, then double-jumping onto the train car (don't worry: the upper-train won't hit you).
 You should be able to see another dimly-lit ledge near where the upper train cars keep entering.
 I found this jump to be quite tricky... but the trick is that you must be facing at the ledge (ie facing perpendicular to it / straight at it), which mean you must jump almost sideways, which in turn makes dodging the train above more difficult.
 Once you are on this ledge, turn left and go up (parallel to train), then turn around and jump into the hole that the train is entering.
@@ -643,15 +643,61 @@ The finale is a Hell Baron, who starts on the far side of the room (with the Hea
 
 ## Mission 7: Post-Fight ??? Cleanup
 
-Pickup all you can.  There should be a screen to access near the bridge over the electrically charged floor.  Actuating the Crane will cause a large suspended block to move within jumping range.  Jump onto it, then jump right onto a catwalk.  The game should let you know you found a secret: this is Section #???.
+Pickup all you can.  There should be a screen prompting "Reset Crane to Base?" to access near the bridge over the electrically charged floor.  Actuating the Crane will cause a large suspended block to move within jumping range.  Jump onto it, then jump right onto a catwalk.  The game should let you know you found a secret: this is Secret #5.
 
-Access the Field Drone, selecting ???.
+Access the Field Drone: I tend to choose Chain Gun / Mobile Turret here.
 
 Exit through the door near the Health Station.
 
 ...
 
-## Mission 7: ..
+## Mission 7: Accessing Rune Challenge: Armored Offensive
+Exit the building and turn left, killing an Imp and Revenant.
+
+Jump across to the right and follow the walkway to the end to find the Rune Challenge "Armored Offensive".
+
+This is a useful Rune for hard fights, since getting more armor is the same as more health, for the most part.
+
+Now, turn around, and run back toward the waypoint.
+To the left you'll find a Munitions Crate on a plateau.
+Often there are The Possesseds stumbling around and even a Cacodaemon at times.
+After killing all that, you should find a Checkpoint.
+
+## Mission 7: Fight: Upper Gore Nest
+
+Continue along the ledge, jumping around to the green-lit ledges.
+At the top, you'll find an airship with some loot - including a Codex Entry "Monsters / Cacodaemon", a Hell Knight, a few Imps, and a bunch of Possessed worshipping the Nest.
+
+Kill the Hell Knight and the Imps, and use the Possesseds for target practice.
+
+When ready, destroy the Gore Nest.
+
+Immediately a Hell Knight will spawn behind you, and some Imps and Hell Razers.
+
+There will be 3 Cacodaemons and 3 Revenants over the course of the battle as well.
+
+Toward the end of the battle, a Mancubus will emerge.
+
+Use the Haste Powerup in the corner whenever you need a boost: this fight isn't too tough.
+
+## Mission 7: Post Upper Gore Nest
+
+Argent Cell:  Looking back the way you came, you should see a plateau at your elevation: it is easy to get to.  Once there, look down at see the Argent Cell: drop down to it and choose your powerup.
+
+Go back to the site of the Gore Nest, and enter the door.
+
+There is a Pinkie Corpse holding the Yellow Guard Corpse.  You can interact with it to get the Keycard.
+
+There's also a secret here.  Look up for a bloody ledge in the ceiling at the left of the room on entry.  Find Secret #???, "Baron of Hell Model, Patriotguy".
+
+Return to get the Yellow Keycard, watch the holographic replay, and use the Yellow Door.
+
+Drop down the elevator shaft.  Before exiting the obvious way, turn around and look up to find a square duct: jump into it and find Elite Guard #4.
+
+Exit the elevator shaft: you should recognize this as the site of an earlier Gore Nest battle.  Make a hairpin turn to the right and go in the Yellow Keycard Door.
+
+## Mission 7: Fight: Tram Access
+A few Possessed Soldiers and a number of The Possessed lurk here, useful for some Weapon Upgrade tasks.  When ready, interact with the Tram console to finish the level.
 
 # Mission 8: Advanced Resource Complex
 
