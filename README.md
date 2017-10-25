@@ -482,7 +482,7 @@ After that's all gone 6? Lost Souls spawn.  It is good to take shelter in the mo
 
 Finally, 2 Hell Barons spawn.  I use the Quad Powerup and the Super Shotgun.  If you already used the Quad Powerup, just keep moving and dodging their shots (they move fast, though) and use either the Gauss Cannon (you need to move fast, so no Siege Mode) or Super Shotgun.
 
-# Mission 6:  Onward, after a short Secret Detour
+## Mission 6:  Onward, after a short Secret Detour
 
 OK, go back to the large main arena from the last fight.  There is a big cave.
 Inside the cave (which can be a bit dark) is a lever: an Original Doom Level trigger.  The location of the level itself is on the lower floor closer to where you entered the arena, or simple walk off the ledge between the two subarenas, and drop down.
@@ -491,7 +491,7 @@ Or use the map: it looks quite distinct with a visible arrow drawn into the map 
 
 Go back to the subarena that once held the Quad Powerup, and now should be decorated with a glowing green circular symbol.  When you approach the door, it will open.
 
-# Mission 6: Fight: some small easy fights
+## Mission 6: Fight: some small easy fights
 First, there's about 6 Unwilling in this corridor... they are useful for Weapon Upgrade Challenges (eg Tactical Scope, Heat Blast, Super Shotgun, Pistol).
 And 2 Lost Souls to watch out for.
 
@@ -512,7 +512,7 @@ Don't miss the Elite Guard here!
 
 Enter a well-stocked tunnel ending with a Codex Entry "UAC Personnel / Olivia Pierce" for a Checkpoint preceding the final fight of the mission.
 
-# Mission 6:  Fight: Finale
+## Mission 6:  Fight: Finale
 
 It comes in unseparated waves:
 * 4? Imps and 3? Hell Razers
@@ -554,29 +554,29 @@ Go forward to the computer area.  Find a Codex Entry "Environments / Argent Faci
 
 Interact with the computer for a 48 second cut scene, whose immediate consequence is that you need a yellow keycard.  A marker will take you to the airlock, which has a screen you can interact with.
 
-# Mission 7: Fight: Side Cargo Bay Exterior
+## Mission 7: Fight: Side Cargo Bay Exterior
 While you may not see monsters immediately, they are just to the right:  a Hell Razer, a Possessed Engineer, and 6? The Possessed.  You can take care of many by shooting the barrel.  Expect 2 more Revenants, Imps, Possessed Soldiers, 2 Cacodaemons, and a Hell Knight.
 
-# Mission 7: Fight: Maintenance Exterior
+## Mission 7: Fight: Maintenance Exterior
 Drop down to another former gore nest location, near the large Union Aerospace tank, on a ground area with lots of fire, to get another small fight with Imps, Hell Razers and a Hell Knight.
 
 There is a Hologram device near some ammo.
 
 Look down into the next area.  This is the area that used to have a blue Force Field, but now just has some fires.  You should see the pale-orange glow of a Beserk Powerup.  Drop down.
 
-# Mission 7: Fight: Main Cargo Bay
+## Mission 7: Fight: Main Cargo Bay
 First to appear will be 2 Cacodaemons and 1 Imp.  One Cacodaemon often starts very low and can be chainsawed to solve several problems at once.
 
 After that, Imps, 3? Revenants, and a Summoner appear.
 
 In fact, the Beserk may outlast the fight: you can perhaps even you it to kill some stuff in an adjacent area.
 
-# Mission 7: Fight: Main Cargo Bay Adjacent: old platform area
+## Mission 7: Fight: Main Cargo Bay Adjacent: old platform area
 This area is easily skipped.
 
 There's a Hell Knight and a few Imps.
 
-# Mission 7: Fight: Main Cargo Bay Adjacent: through tunnel
+## Mission 7: Fight: Main Cargo Bay Adjacent: through tunnel
 This area is easily skipped.
 
 A Hell Knight, a Hell Razer and at least 1 Imp.
@@ -584,14 +584,14 @@ A Hell Knight, a Hell Razer and at least 1 Imp.
 This is the area that had the Lever for the classic doom secret in Mission 4.
 
 
-# Mission 7: Accessing Rune Challenge "In-Flight Mobility"
+## Mission 7: Accessing Rune Challenge "In-Flight Mobility"
 From the Old Platform Area, there's a blue lift that'll drop you on the rock for this Rune.
 
 Or, you can jump across from the cargo crates in front of the Security Station Doors.
 
 NOTE: This challenge is frustrating for many people, since it has little margin for error.  However, it is worth the practice, because the Rune is critical for some of the bosses.  See Rune Challenges Section for specific advice.
 
-# Mission 7: Fight: Security Station
+## Mission 7: Fight: Security Station
 To get here, from the Main Cargo Bay, look for a pile of 3 crates to climb on.  The door should have a marker on it (an in-game destination) and there should be Gas here.
 
 Entering, there's even more supplies littered throughout a gory hallway.
@@ -608,7 +608,7 @@ There's also a Health Station here.
 
 After triggering and watching a holographic replay, you'll be allowed out the Security Station's second door.
 
-# Mission 7: Fight: Exiting Security Station
+## Mission 7: Fight: Exiting Security Station
 Opening the door, you'll see a Pinky:  but there's actually 2 Pinkies.  As well as 2 Revenants, 2 Imps.   You can use the Quad Power-Up but I usually save it for the more tough fight coming up.  Once you kill all these guys you'll get a Checkpoint.
 
 There's an Elite Guard on the top level.
@@ -616,7 +616,7 @@ There's an Elite Guard on the top level.
 Interact with the Munitions Crate in the far corner of the lower-level.
 Unfortunately you'll need to re-do this each time you die:  on the positive side, this Munitions Crate refills between most battles.
 
-# Mission 7: Fight: Exiting Security Station and Entering ???
+## Mission 7: Fight: Exiting Security Station and Entering ???
 This fight is triggered when you take the stairs across the chasm after killing everyone.
 
 Initially there just a lot of The Possesseds staggering around, but a Revenant, an Imp, and a Cacodaemon are the first wave of guests to this party.
@@ -625,10 +625,8 @@ A second wave (somewhat indistinct), is another Revenant, Cacodaemon and a few I
 
 The third wave is different: two Pinkies and a Mancubus.   These guys come out of the hangar ahead of you, and if you time it right, you can take them out with a single satisfying Quad-Damage Siege Cannon on the bridge.
 
-The Munitions Crate below is refreshed (???).
-
-# Mission 7: Fight: Indoor Gore Nest
-Enter the building picking up supplies.
+## Mission 7: Fight: Indoor Gore Nest
+Enter the building picking up health, Gas, Plasma, and Codex Entry "Monsters / Mancubus 3".
 
 Almost the entire pre-fight can be handled with a single Gauss Cannon Siege Mode shot.
 Except you may have to deal with a pernicious Hell Razer, plus a lurking Shielded Guard (use the Gauss Cannon on this fool, who hides on the left as you approach the Nest).
@@ -670,16 +668,17 @@ Exit through the door near the Health Station.
 # Ultra-Nightmare Practice Sheet
 Abbreviations for Demons:
 * tp: The Possessed
-* ps: Possessed Soldiers
+* tu: The Unwilling
+* ps: Possessed Soldier
 * hk: Hell Knight
-* imp: Imps
-* ls: Lost Souls
-* cd: Cacodaemons
-* mc: Mancubi
-* cm: Cyber-Mancubi
-* hb: Hell Barons
-* pnk: Pinkies
-* sp: Spectres
+* imp: Imp
+* ls: Lost Soul
+* cd: Cacodaemon
+* mc: Mancubus (plural: Mancubi)
+* cm: Cyber-Mancubus
+* hb: Hell Baron
+* pnk: Pinkie
+* sp: Spectre
 
 Modifiers:
 * immed: Immediate (w/i a few seconds) death from Checkpoint
