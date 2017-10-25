@@ -45,7 +45,7 @@ Fuel to kill various demons:
 At the beginning of the game, you wake up chained to an operating table
 As you break out of your bonds, four demons surround you, your first encounter with *The Possessed*.
 
-Before you have control, you kill one by hand, and grab a piston.
+Before you have control, you kill one by hand, and grab a pistol.
 
 Shoot the remaining three.
 
@@ -71,7 +71,7 @@ Grab all stray stuff before entering the elevator *Checkpoint*.
 
 # Mission 1:  UAC
 
-The mission starts with you exciting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find a Info Entry: ???
+The mission starts with you exiting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find a Info Entry: ???
 
 As you approach another tall cliff, you can see Imps running off into the horizon: these can be shot but it's not worth the effort.  You can also shoot The Possesseds below, but it's better to use them as walking health bonuses.
 
@@ -451,7 +451,7 @@ Walk through the tunnel behind the Hell Razer, and you'll be on a new cliff, wit
 
 Visit the Elite Guard.
 
-Detour for Secret:  Jump to the Island with the Armor and jump across to a lower ledge.  Turn right, and a Hell Knight will spawn.  Behind him (to the left) is a small cave with the Chaingun (as a Secret).  Retrace your steps to the Elite Guard across the cavern.
+Detour for Secret #???:  Jump to the Island with the Armor and jump across to a lower ledge.  Turn right, and a Hell Knight will spawn.  Behind him (to the left) is a small cave with the Chaingun (the cave is the Secret).  Retrace your steps to the spent Elite Guard across the cavern.
 
 Island-Hop using the upper chain of islands.  At the end of this sequence of 5? Islands is a Skull Switch:  you will see the Iron Gate to the next part of the level raise when you actuate it.
 
@@ -845,6 +845,15 @@ Now, charge forward into a battle designed to showcase the BFG (and you may as w
 Prefight: use a few Siege Mode/Gauss Cannons to kill the incoming hordes from the Checkpoint.  After that, coming into this area, 3 Lost Souls will spawn: one straight in front, one left, one right.  After you learn where they spawn they are easy to deal with - and since you have to re-kill them every time you die in this battle, you'll probably learn where they spawn too.
 
 Now, destroy the Gore Nest.  Use the most powerful weapons available.
+
+When you think you are done, it's a bit of a trap.  You have NOT gotten to a Checkpoint until you kill the 2 Hell Barons that follow.
+
+A robotic voice will announce that the demonic threat level is reduced,
+but that is just a temporary reprieve: not a Checkpoint.
+
+However, one easy BFG blast will take care of both Hell Barons.
+
+To conclude the level, enter the elevator and "Exit Facility".
 
 # Mission 9: Lazarus Labs
 
