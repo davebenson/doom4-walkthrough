@@ -23,6 +23,22 @@ There are more important ways to spend one's upgrade points.
 ### Chain Gun (available Mission 6)
 ### Gauss Cannon (available Mission 5)
 ### BFG (available Mission ???)
+### Chainsaw (available Mission ???)
+
+Fuel to kill various demons:
+* Imp: 1
+* The Possessed: 1
+* Unwilling: 1
+* Possessed Guard: 1 ?
+* Shielded Guard: 1 ?
+* Hell Knight: ???
+* Hell Razer: ???
+* Mancubus: ???
+* Cyber-Mancubus: ???
+* Cacodaemon: ???
+* Pinkie: ???
+* Spectre: ???
+* Revenant: 3
 
 # Mission 0:  Pre-UAC
 
@@ -697,9 +713,100 @@ Drop down the elevator shaft.  Before exiting the obvious way, turn around and l
 Exit the elevator shaft: you should recognize this as the site of an earlier Gore Nest battle.  Make a hairpin turn to the right and go in the Yellow Keycard Door.
 
 ## Mission 7: Fight: Tram Access
-A few Possessed Soldiers and a number of The Possessed lurk here, useful for some Weapon Upgrade tasks.  When ready, interact with the Tram console to finish the level.
+A few Possessed Soldiers and a number of The Possessed lurk here, useful for some Weapon Upgrade tasks.  When ready, interact with the Tram Console to "Resume Route" to finish the level.
 
 # Mission 8: Advanced Resource Complex
+
+## Mission 8: Introductory Lobby (with small Fight)
+Enter a large lobby area, finding a Mancubus killing some The Possesseds.
+After killing these, look for a pair of restrooms.  In the Men's Restroom is some armor you can save for later maybe.
+
+In the Woman's Restroom is a hatch allowing access to a secret area.  Climb onto the sinks and look around for the bloody hatch: jump to it and follow the duct (there's Gas) to drop into a room (Secret #7) with an Auto-Map and an Elite Guard.  The screen next to the door will open it.
+
+After exiting the Secret Room, you'll enter a Security Area with 6? The Possesseds, a Health Station, an Argent Cell, a Plasma Gun, and a terminal to Release the Safety Lockdown:  do that.
+
+## Mission 8: Fight: Main Lobby
+Exiting the security area, there's a handful of The Possessed to dispatch.  Then a Possessed Soldier or two, and finally a Shielded Guard and a Hell Knight in the main lobby area.  Keep moving and focus on the meaner demons.
+
+Watch a holographic replay of Dr Hayden and Olivia Pierce arguing about her research.  Meanwhile, pick up a Codex Entry "Environments / Advanced Research Complex 2" from the main desk.  Before you interact with the panel to open the main building, there will be a Checkpoint.
+
+## Mission 8:  Fight: Central Area of ARC
+The entryway contains 6 Imps worshipping or something.  Use a grenade or whatever you need for weapon or rune upgrades.
+
+Drop down to the lower central area, where you'll find 6-8? The Possesseds worshipping a Gore Nest.  Often, an Imp for above will escape and find you as you are down here: watch out!
+
+My strategy for the start of this fight:  Destroy the Gore Nest;  lob a grenade into the center where Imps are forming in front of you (this tends to be quite effective), do a U-Turn to find 2 Imps to blow away with Super Shotgun.  A Mancubus has formed in the tunnel to your left:  kill it with whatever means, including Chainsaw (there's more fuel in the central area near the Gore Nest's location).
+
+Once the Summoner comes into existence, grab the Beserk Powerup.  In a mad rage you'll likely be able to kill nearly all the remaining demons, but focus on the hard to kill demons just in case, as possible.
+
+## Mission 8: Meeting Dr Hayden
+
+All the bad guys being dispatched, follow the in-game waypoint to Dr Samuel Hayden's office.  
+
+/PONR/: You can't come back here, so if you are missing the Auto-Map or the Elite Guard, get them now.  (??? check that they're even still available post-fight?)
+
+Dr Hayden will resupply you to a large extent (he could really use a Mega Health but whatever).
+He will also explain about the "Helix Stone" and Dr Pierce's private lab "across the chasm".
+Finally he directs you to the service elevator: classy.
+
+The Dr is in no mood for futher conversation, so take the service elevator.
+When the door opens, find Codex Entry "UAC Personnel / Dr Samuel Hayden 3".
+
+## Mission 8: Moxim Service Bay
+The olive green area has 4? The Possesseds.
+Kill them and find Elite Guard #2 in this area.
+
+Continue along to get charged by a Possessed Engineer.
+
+## Mission 8: Fight: Gore Nest 1
+This fight takes place in a small-ish pit area.  There's a Haste Powerup.
+
+The pre-fight is all Possessed Engineers and is unlikely to be a problem.  Often they materialize rather late anyways. ???
+
+The initially a Cyber-Mancubus appears in front of you; then 2 Mancubi; then another Cyber-Mancubus; along with 6? Imps.
+
+## Mission 8: After Gore Nest 1: Secrets Galore
+Go to the marker indicated by the game, and interact with the screen
+to "Lower Security Field".
+
+First, there's the Rune Trial.
+Look out onto the big chasm and turn 90 degrees left to find an airlock.  Use it to access Rune Trial "Blood Fueled" (I personally don't use this one).  There also a suit of armor.
+
+Second, there's the Classic Doom Level.  This jump to the lever is pretty tricky.  
+Jump across to the immediate platform, and turn left and drop onto the platform below the Gas can.  Turn around and look to the left to see a green light-bar, indicating a platform you can jump to.  Keep going around this rock and jumping up:  the top has a suit of armor on it.  From this top, look directly opposite from the entrance area.
+You should see some pipes and a lever at your exact elevation:  you need to jump there.  The trick is that there is an invisible ledge about 12' (4 meters) below the level.  If you land on that it is confusing:  but if you have the In-Flight Mobility Rune you should easily be able to jump from this awkward position to the Lever.
+
+Third, from the Lever, face the piping and jump onto the pipe.  Duck and turn into the cave, and search around into you find Secret #6? "Supershotgun Model / Phobosguy"
+
+From there, look out for Lost Souls, and jump around until you get where they suit of armor was (on top of the rock).  From there, jump back toward the entrance, and keep going that direction to find the Classic Doom Level (Secret #???).
+
+Fourth, go, yet again, to the high point where the suit of armor was.  Look for a lower pinnacle and jump there.  From there, it is about a 45-degree right-turn to the Mega Health Powerup, Secret #5???
+Once you get this powerup, a Cacodaemon will rise to attack you.
+
+Fifth, from where the Cacodaemon appeared, look for a bay opening.  It contains an Argent Cell #1, Secret #4.
+
+Finally, look for a hatch that is opening and closing (the in-game waypoint should lead you here).  Jump down onto it for an irreversible Checkpoint.
+
+## Mission 8: Twin Intake Area
+Here we are in a pair of air intakes.  If you look around you should see a Field Drone behind a grate: it is actually in the space directly in between the twin intakes.  But it must be accessed from the other side.  Jump onto one of the rectangular panels, and jump onto the only walkway.  You should see a green-lit hatch to jump to.   We want to get to the top of the air intake: we could do it here, but we should access the Field Drone first.
+
+So, walk through the tunnel: an Imp will jump out.
+
+Keep going: you'll get to the other intake.  Turn it off using the panel, and jump down the hatch (just like the one you came up).  You should find a shaft with the Field Drone in it.
+
+Reverse your steps, and turn the air intake back on.  Step in, and even the ride up!
+
+Climbing up you'll get to a 4-way shaft intersection:  directly in front and in back of you are each of the twin intakes.  The in-game waypoint points you toward BFG Labs Lobby.  The other direction has some armor if you need it.
+
+Proceed toward the in-game waypoint, to a lobby.  This area has TWO green door: the big one directly in front of you with the waypoint, and a smaller door to the left housing Secret #3: Elite Guard #3.
+
+## Mission 8: Fight:  The BFG Labs Access Hallway
+
+Now, go forward into the ring of labs in the BFG complex.  Get a big gun out and shoot 5 Possessed Soldiers, 1 Shielded Soldier, and 1 Mancubus. (???)
+
+## Mission 8: The BFG Labs (Details)
+
+## Mission 8: Acquiring the BFG
 
 # Mission 9: Lazarus Labs
 
