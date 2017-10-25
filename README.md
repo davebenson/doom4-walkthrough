@@ -857,9 +857,381 @@ To conclude the level, enter the elevator and "Exit Facility".
 
 # Mission 9: Lazarus Labs
 
+## Mission 9: Intro
+Grab Gas, the Codex Entry "Environments / Lazarus Labs", and recharge your health (you can't get back here).  In the next room you can get the rarely used Siphon Grenade.  Then jump down the chute.
+
+Following the waypoint, you'll remove a corpse-chunk that's blocking the elevator, and 3 Imps will jump out.  Kill them, then use the Munitions Crate.  The non-Secret flow is to jump into the shaft and open a grate.  Instead, look behind the crates behind the Munitions Crate.  There's a duct (Secret #1):  follow it to a Mega Health that'll drop you into the next fight.
+
+## Mission 9: Fight: First Warehouse
+A big fight, with many Hell Knights and Revenants.
+
+Kill all these guys, and enter the green-lit doorway.
+
+## Mission 9: More Secrets
+
+Go up some stairs in a red-lit area.  Before continuing on, turn away to see a duct with shotgun ammo.  Jump into the duct, and follow it to a grate, that you must interact with.  Enter Secret #5.  Here is Elite Guard #1 and Codex Entry "??? / Elite Guard 2".
+
+Now, continue toward the in-game waypoint.  You'll pass through a transparent walkway while Dr Hayden tries to explain things.  There's lots of activity outside.
+
+At the end of this walkway, find a Field Drone (probably unnecessary if you have used more of the Field Drones up to this point).
+
+You'll find yourself in a curving hallway with 4 The Possesseds, and a Codex Entry "Monsters / Cyberdaemon 2".
+
+Continue down the hall to a few Possessed Soldiers and a Hell Knight.
+
+Continue up a short flight of stairs and look for a white hatch in the floor right in front of you.  Interact with it to drop with for Secret #2.  Climb up to find Rune Challenge #1 "Rich Get Richer".
+
+When done, actuate the screen near the door to exit - you'll be back at the hatch.
+
+# Mission 9: Fight: Miscellaneous Hallway Guards
+The first room has a few Shielded Guards and many The Possesseds and a couple of Possessed Engineers.
+
+The second room has a Checkpoint (used for the next fight) and 4 Possessed Soldiers and a Hell-Razer.  The next room has a bunch of ammo and a Health Station, then drop down the hatch to enter the next fight.
+
+/PONR/ Once you finish the next fight, you cannot get back to this tunnel area (so make sure you interacts with Rich Get Richer, even if you didn't solve it)
+
+# Mission 9: Fight: Mancubus Operating Room
+Many Shielded Guards, The Possessed, Hell Razers, Possessed Solders, 3 Mancubi will spawn.  Toward the end of the fight is 2 Hell Knights.  I like using the Plasma Rifle Heat Wave with the Quad Damage to plow through the bad guys - but your mileage may vary.
+
+After the fight look at the empty mancubus bed at the back of the room, between the two exit doors.  Behind this, is a screen you can actuate to find Elite Guard #2 in Secret #1/2/4/5???.
+
+# Mission 9: Fight: Stone Tablet Exhibit Hall
+There's a Munitions Crate in the entrance hallway to this area.  Once you've looted the area, look through the door to see if you're going to be ambushed by a Possessed Soldier right next to the entrance.  Open the door.
+
+This fight begins with 3? Possessed Soldiers (one is close-by and needs to be dealt with urgently) and a large number of The Possesseds (use a grenade or two maybe).  Shortly, 2 Pinkies spawn at the back of the room.
+
+Killing those Pinkies will cause the spawning of 4 more Pinkies and a bevy of Imps.  Use the BFG, Chainsaw, and general evasive maneuvering.
+
+Cheap Strategy:  After killing the Possessed Soldiers, go into the tunnels behind the stone artifacts.  The monsters (most conveniently, the Pinkies) cannot go back there, but Imps can still fireball you.  You may need to chainsaw someone for ammo: the second Pinkie can be a good choice.
+
+Post-Fight:  Going back to the entrance door of the room, and look at the stone tablet to your left.  There is a gap you can use to enter some access tunnels: this is Secret #3.  In the back, find "... Model, ???guy".
+
+There's also a Mega-Health you should take before leaving the backstage area.  (Hint: equip Rich Get Richer before taking the health to get one of the Upgrades)
+
+Press the screen as indicated by the in-game waypoint.
+Enter what looks like an elevator to transfer you to the Lazarus Archives.
+
+# Mission 9: Accessing the Helix Stone
+This really just involves interacting with a few screens, in all cases, the in-game waypoint takes you there.
+
+Secret #6 "Samuel Hayden Model, Toxicguy" is found in the circular archive room.  Look on the upper floor for a red display screen (there's another similar display in a cyan color: ignore it).  Behind it, a single archive cell's light is red -- all the other lights are yellow.  Interact with this to obtain the doll.
+
+The anteroom to Olivia's Lab holds a Codex Entry "UAC Personnel / Olivia Pierce".
+
+After a few screens, you be in Olivia's Private Lab: there's a central hologram of a stone coffin-like thing being guarded.  There's BFG Ammo, a Munitions Crate, an Argent Cell #..., and a screen to interact with.  On the left is a lone dilapidated computer where Demon Destruction can be "played": just interact with the running computer on the side and exit to get the Combat Challenge.
+
+The final screen is back in the circular archive room: be ready for a fight after Dr Hayden rambles on a while.
+
+# Mission 9: Fight: Circular Archive Room
+Be prepared for a endless Imps and a long sequence of Hell Knights.  An Mancubus will spawn; and toward the end, 2? Cacodaemons.
+
+After dispensing with all the demons, a circular stairway drops down from the center of the room.
+
+# Mission 9: Fight: Small fight in Bloody Temple / Pew Area
+A few Shielded Guards and a bunch of The Possesseds linger about this gory area.
+
+When cleared, there will be a hologram of Olivia watching over a ritualistic sacrifice.
+
+There's armor behind you as you stand in the entranceway to this area.
+
+# Mission 9: ???
+Exit to the right to a blood-strewn corridor with books and candles.
+
+You will get to a circular room with a pit in the center.  Looking in, you can see an Elite Guard, but before that, look right for a Lever to access a Classic Map.
+
+Now, jump in (Secret #7) and get Elite Guard #3 and Secret #8 "Classic Map / Tower of Babel".
+
+Jump back out, and go to the screen with the waypoint:  "Cycle Hatch".
+
+Do this, and jump onto the platform while is plugging the hole.  Wait for it to lift you up, like an elevator.
+
+Drop down, and keep going and you'll get to a yellow-lit door labeled "Maintenance Only".  Enter for a fight.
+
+# Mission 9: Fight: Server Hall
+You catch a few Shielded Soldiers off-guard, use grenades etc.  There's also a Pinkie ahead of you in the hallway.  And a few more The Possesseds - including some that may surprise you by popping up.
+
+# Mission 9: Server Hall
+The hallway become increasingly bloody, and you finally open a door onto a console area.  A hologram with Olivia is playing, and you must interact with a terminal at the waypoint here, the energy refractor control.  It opens the twin doors.
+
+# Mission 9: Fight: ...
+
+Two identical hallways take you to a symmetric 2-level area strewn with Imps, Possessed Soldiers but mostly The Possessed.
+
+Once cleared, from the entry, go to the lounge on the right on the upper-floor.  Look around for a bloody duct at approximately head-height.
+It takes you to Secret #9, Rune Trial #2, "Saving Throw".
+
+There's also Elite Guard #4. Outside the door, in the non-secret area, is a Munitions Crate.
+
+Then go to the waypoint: a large silo with green concentric circles surrounding the waypoint itself.
+
+# Mission 9: Portal Area Fight
+The robotic voice announces demonic presence, but you won't see much.  You have to enter the narrow hallway and go through the teleporter.
+
+Before doing so, equip In-Flight Mobility.  Then enter the teleporter and jump back.  You should land on a shelf instead of falling to the ground.  This is the perfect place to use the BFG to get the Thread The Needle Combat Challenge: it'll make the fight much easier too.
+
+This is a good fight to use the Plasma Gun / Heat Blast - fight everyone - grabbing the Haste Powerup whenever you need health.
+Use another BFG if helpful - there's a few lying around.
+When the Pinkie or Hell Knights show up, grab the Quad Powerup: it (along with Heat Blast) should be easy work of the remaining heaps of demons.
+
+# Mission 9: Prepare for Boss fight
+Follow waypoints, grabbing supplies, along with Codex Entry "Monsters / Cyberdemon".
+
+Dr Hayden explains that this fight will have two parts.  The first part is the easier one.
+
+# Mission 9: Boss Fight, part 1: Mars
+Here's the most notable Cyberdemon moves for the first part:
+* the Rockets: he'll launch a volley of horizontal rockets; so long as you keep moving you should be ok.
+* the Charge: things will slow as he prepares to charge, so get ready to jump away.
+* the Jumpable Laser Shot: this thing does a lot of damage so you really need to jump over it.
+* the Charged Laser: this multiple beam laser shoot from his arm.  It starts red and intensifies to whitish-yellow before firing.  You really benefit from the In-Flight Mobility Rune for dodging this - upgraded is better.
+* the Mortar Volley: he will launch a bunch of rockets upward; their projected landing spots will be on the ground - find a place in between them to stand.  This attack is combined with a Charge, a Jumpable Laser Shot, or a Changed Laser.
+* the Sidejump: he will sometimes take a big jump to the side.  This is his (pretty effective) move against slow Gauss Cannon and BFG enthusiasts:  don't waste your ammo if you detect it.
+
+Recommended Runes: Vacuum, Ammo Boost, In-Flight Mobility.
+(notes: Armored Offensive is useless since he doesn't drop armor.  Saving Throw is marginal.  Rich Get Richer is good if you have 100 armor (unlikely).  He stays staggered for a while, so Dazed and Confused isn't really helpful.)
+
+# Mission 9: Boss Fight, part 2: Hell
+A small cut-scene transports you to Hell; the Cyberdemon gives you the claw, and is reborn.  You will also be pretty well charged up.
+
+He adds two new attacks to his repetoire:
+* the Triple Jumpable Laser Shot.  The first shot will be low; the second high; and the third low.  It just takes practice.  Easy mistake: double-jumping the first laser and getting hit by the second.
+* the Double Wall.  He makes a temporary corridor, which'll be combined with a Triple Jumpable Laser Shot or Rockets.  To deal with the Double Wall with Rockets, move in a circular pattern using In-Flight Mobility.
+
+Same Rune Notes apply as above.
+
+Feel free to use all of your BFG ammo.
+
+When the fight is over, jump into the red teleporter.
+
 # Mission 10: Titan's Realm
 
+## Mission 10: Introduction
+From the walkway, find Codex Entry "Artifacts / Slayer's Testament: IV".
+
+## Mission 10: First Fight
+Jump far down to a bloody pit to be immediately attacked by 3 Cacodaemons.
+As proceed up the stairs to be attacked by another Cacodaemon and a Cyber-Mancubus.
+
+Continue up the hellish path to a yellowish cave guarded by 4 Lost Souls and 2 Cacodaemons.
+
+Checkpoint.
+
+Enter this room: you should see a bridge over a pool of toxic sludge.  If you look under the bridge, you can see a Skull Switch.  Actuate it and get out of the sludge.
+Facing into the room from the entrance, this caused an alcove to open up on the toxic floor, right next to a green torch.
+Inside this alcove is Secret #3.
+Elite Guard #1.  And some armor.
+
+## Mission 10: Fight: Entrance Hallway
+Proceed, triggering the creation of some Lost Souls, some Hell Razers and a Pinkie.
+
+Proceed to the right.  When you grab the suit of armor, it'll trigger 2 Hell Knights to instantly appear.  There are also 4 Unwilling in the next room, along with a Skull Switch: press it.
+
+This'll trigger the spawning of a Cyber-Mancubus, which will end this fight.
+
+Checkpoint.
+
+Now, pick up loot and search around for the Field Drone (it was visible before so it may be on the map).
+
+Proceed to the next fight:  the target will be a gated-off green teleporter, but some demons will distract you en-route.
+
+## Mission 10:  Fight: First Teleporter
+Upon entry to this complicated arena, a Cyber-Mancubus will spawn off to your left, and a Mancubus will spawn in the area in front of you.  Polish them off however is convenient.
+
+A gaggle of other daemons come along as well.  A few Imps, few Revenants, 2 Pinkies.
+
+Use the Haste since this is the only fight in this area - use it to work on the Dominator Combat Challenge.
+
+Once you get the Checkpoint, approach the Teleporter and the bars will lift.  Enter for an iconic fight.
+
+## Mission 10: Fight: Bloody Cave
+Dave's Opening: I usually turn right coming out of the Teleporter, picking up shutgun ammo and a suit of armor.  Look left into a cave before a Yellow Lift: there should be Rockets on the ground and a Quad Powerup in the background.  In a few seconds, a Mancubus will appear right on the rockets:  lob some grenades and go up the stairs right past the Yellow Lift.  You should find a Gas can, and down the hallway, the only Pinkie in this fight.  Kill it and then run and fight as usual.
+
+The finale is 2 Hell Barons.  I often save the Quad Powerup for them (note that 4 Imps spawn when you take the Powerup).
+
+Post Fight: the map may have a doll on it:  Secret #1, "BFG-9000 Model / Keenguy".  If not, it's in an alcove of the entrance wall.
+
+Follow the in-game waypoint to the teleporter.  You'll arrive at the Auto-Map, use it.
+
+## Mission 10: Fight: Rectangular Pit
+After 6 Lost Souls, deal with 4? Hell Razers and a bunch of Imps.  They can be mostly killed just by shooting barrels.
+Use the Rocket Launcher on the Lost Souls to get the Trick Shot award or kill them however you want.
+
+
+## Mission 10: The Yellow Skull and its Door
+Post fight: look for a Yellow Lift near the red door to get you onto the rafters.
+Across the way is a yellow pyre:  jump to it for Secret #4: "Cyberdemon Model, Silverguy". Jump back.
+
+Now jump over to the landing with the green suit of armor and a wood-grid-patterned door.  It'll open and you can take the Yellow Skull.
+
+But!  It's a trap.  A very easy obvious trap.  I think you'll figure it out.
+
+Continue through the hall (in the direction of the greenish area with the gibbet - the area you haven't been to yet).
+
+A grate will appear to block access to the yellow door.
+
+So, you must go left into a toxic area with a bunch of Unwilling staggering around.  You will see an Invulnerability Powerup here, and at the end of the corridor, an Elite Guard #2 and a Skull Switch.  Activate the Skull Switch.
+
+## Mission 10: Fight: Toxic Sludge Area
+On return, two hatches will open exposing 2 Mancubi.  You can use the Invulnerability on them, or fight more carefully and save it for a minute.
+
+Once they are gone, take the Invulnerability if you haven't and run up the stairs to fight 3 Pinkies.
+
+After that, the Yellow Skull Door is accessible, and a Checkpoint.
+
+Before going through the Yellow Door, though, note that another passage has opened and get the Argent Cell and Codex Entry "Monster / Pinky".
+
+## Mission 10: Fight: Pounding Rock Area
+The Yellow Skull Door opens to reveal what appears to be a red skull switch, but it's a trap: the floor drops out and suddenly you are fighting a Mancubus, then 2 Revenants with some Imps in the background.
+
+At some point, 2 more Mancubi and a Cyber-Mancubus spawn as well.
+
+Note that there's BFG ammo here, so if you are full, feel free to use it!
+
+## Mission 10: Pounding Rock Area
+When the pounding rock is down, quickly climb onto it.  It'll lift you up to a Skull Switch: press it, and drop down.
+
+Before continuing, to toward the Yellow Door, which is currently gated off.  Look for a small alcove continuing the Classic Doom Map Lever.  Pull it.  The gate to the Yellow Skull Door will open: go that way and go back to the lower Toxic Sludge room (where the Mancubi appeared with the Elite Guard), and you'll find the Classic Map "Phobos Anomaly": Secret #5.
+
+Go back to the Pounding Rock Area.
+Go toward a gated off green teleporter.  Look left to see a large room with 2 Yellow Lifts and a Suit of Armor in the middle.
+
+Go in to what I call the Treasure Room, and pick up some loot and a Blue Skull, a fight is triggered on the way out.
+
+## Mission 10: Fight: Treasure Room
+It starts right near the entrance/exit with 3 Spectres.  This is quickly followed by some Imps and 4 Lost Souls.  Then 2 Cacodaemons and 3 Mancubi.  Finally, a Hell Baron.
+
+Checkpoint.
+
+## Mission 10: Segue
+
+Now, after checking for stray supplies, enter the green teleporter (the bars will disappear as you approach).
+
+You'll be in a fiery yellow lit area.
+
+Grab Codex Entry "Artifacts / Slayer's Testament V".  Turn left for Secret #6: a Mega Health (don't forget Rich Get Richer upgrade).
+
+Continuing along, you'll be back at the Rectangular Pit.
+
+## Mission 10: Fight: Rectangular Pit, Blue Skull Door Fight
+A Beserk Powerup has been placed for this fight.
+It starts with many Imps and also include a 3 Hell Knights, 2 Summoners, a Mancubus.  It ends with a Hell Baron.
+
+Use the Blue Skull and jump into the red teleporter.
+
 # Mission 11: The Necropolis
+
+You find yourself in a central area of this level with the Yellow and Blue Skull doors adjacent.
+
+## Mission 11: Yellow Skull
+To your left at ground level is a teleporter.  Jump into it.
+
+Find a Codex Entry, "Monsters / Cyber-Mancubus".
+
+## Mission 11: Fight: Yellow Skull Prefight
+Continue along to a barrel at the top of the stairs, if you kick it down you can shoot it to kill some demons, for the Challenge.
+
+Descend the stairs and quickly look back to shoot 2 Lost Souls.  A Mancubus appears at the top of the stairs:  he's a good one to use for the Pin Pops a Balloon Challenge.  If you climb the stairs, 2 more Lost Souls appear.
+
+## Mission 11: Treats
+A Codex Entry "Artifacts / Slayer's Testament VI", Gas, and an Argent Cell (the last) are found by continuing down the corridor.
+
+## Mission 11: Fight: Traps
+Go back up the stairs to where a gate has opened:  you should see a Skull Switch straight ahead in the next room, but as you approach it, a bunch of Unwilling and a Spectre spawn.
+
+Kill them and actuate the switch, causing 2 Hell Knights to spawn as you return.  Go back down the stairs and kill a Cyber-Mancubus.
+
+Checkpoint.
+
+## Mission 11: Fight: Square Arena
+This is a square torchlit bloody room with 4 big pillars.
+
+Prefight: there a bunch of Unwilling roaming about and barrels: use them to work on the Wait for It Challenge.  It's your best opportunity.
+
+After pressing the switch, the fight proper begins.
+
+3 Cacodaemons spawn, 2 Hell Razers and some Imps and 2 Spectres in quick succession.
+Then 2? Hell Knights and a Summoner.
+
+Grab the Auto-Map, pull the Classic Map Doom Lever, and grab the Yellow Skull.
+
+This will trigger the teleporter to open, and you can take it to return to the central room you started in.
+
+On the opposite side, a new Teleporter has opened.  This one will get you the Blue Skull.
+
+Go through the teleport for the next fight.
+
+## Mission 11: Fight: Four Platform Arena
+Soon upon entering, 2 Mancubi form on 2 of the platforms (two Gauss Cannon Siege Mode blasts will take both of them).  Then 3 Cacodaemons and Imps.  Then some Revenants and a Hell Knight ends this wave.
+
+The gates surrounding the Quad Powerup lift and 4 Revenants spawn, one on each side of the square.  Then 2 Cyber-Mancubi and 2 Mancubi spawn:  the end of the fight.
+
+Take the Blue Skull.  Teleport back to the Central Room.
+
+## Mission 11: Fight: Central Room
+Use both Skulls, an interact with the knobs behind each door to trigger the next battle.
+
+3 Imps spawn in reliable location.
+
+2 Pinkies are next.
+
+2 Revenants, a Hell Knight and ? Spectre make up the next wave.
+
+The final wave is 2 Hell Barons.
+
+After the fight, two stair cases open up below the main area (see map), go there and drop into a small hallway with some health and another drop.
+
+## Mission 11: Fight: Cacodaemons in Air
+When you stand up from the jump, there will be 3 Cacodaemons lurking around.
+
+Use BFG or (better) Gauss Cannon Siege Mode to get the "Two Mouths to Feed" Challenge.
+
+Jump onto the next platform, which has two large unlit torch/pillars on it.
+
+The next platform has just one torch/pillar.  Peer carefully down from the edge to see a small island.  Sometimes you can catch sight of it from above, but often you cannot, but there is a doll on it.  In-Flight Mobility helps (but is not necessary) to jump down there.  This is Secret #2, "Chainsaw Model, Tealguy".
+
+Continue hopping to the cave, where you will be greated by a Mancubus.
+
+Don't forget to get Elite Guard #1, and there's some armor too.
+
+Continue along to some shotgun ammo and the last Field Drone.
+
+## Mission 11: Fight: Big Battle In-Progress
+Go up the stairs so where some big demons are duking it out: 2 Mancubi, some Revenants, Imps, and a Cacodaemon.  Help them kill eachother and kill the Hell Razers, 2 Cyber-Mancubi and whatever else spawns.  There's a BFG and a Haste Powerup.
+
+You'll want to get in good shape for the next fight.
+
+## Mission 11: Fight: Paired Hallway
+The same demons will spawn on each end of this hall.  I'll give total numbers:
+* 2 Hell Barons
+* 2 Mancubi
+* 4 Spectres
+
+There's quite a bit of ammo around, and Elite Guard #2.
+
+## Mission 11: Fight: Last Non-Boss Fight
+Exiting, 2 Cacodaemons will immediately stalk you:  kill them with the rocket launcher: there's ammo around.
+
+Walk down to the treasure trove with a big armor.  This will trigger 2 Mancubi to spawn.  Retreat back to the original area and use Rockets, Gauss Cannon.  Once you kill a Mancubi, 2 Hell Barons will spawn.  Gauss Cannon or BFG is recommended: it won't take long for them to get to you.
+
+Now, you can get an obscure secret, Secret #1.  Look at the large statue / structure that is shaped like the head of a horned screaming demon.  In its forehead, is a glowing pink rune symbol.  Shoot it (with Gauss Cannon or Rocket Launcher, since you need range), and a weird cubic capsule will spit out of it and land next to you.  This is "Gauss Cannon Model, Hazmatguy".
+
+Stock up, there are two Boss Fights coming up.
+
+## Mission 11: Boss Fight 1: Hell Guard
+This fellow has a force field (the transparent green sphere) that'll protect him from everything, even BFGs, so you must time your shots for when the field is down.  Most of his attacks give you an opening.
+
+His moves:
+* Club Attack.  He comes at you, move and aim, since his field is down as he attacks, and right afterward.
+* Charged Club Attack.  Similar, but he puts more into it and damages everything is a radius (which briefly flames up).
+* Tri-Sphere Attack.  He blows up a glowing yellow sphere, which briefly flashes, then turns almost white, then 3 very damaging shots are launched out.  This can only be attacked after blinking but before shooting.  The good news is that it stuns him for a bigger (Siege or BFG) secondary attack.
+
+Midway through the fight he gains some new tricks:
+* Spinning Flaming Spiral.  Avoid the flames:  after this he'll be attackable for an unusually long window.
+* Three Drum Waves.  He beats the ground creating a relatively slow moving wave that does a lot of damage.
+
+Toward the end, you may wish to equip Dazed and Confused, since he doesn't stay staggered long, and you have to Glory Kill him.
+
+## Mission 11: Boss Fight 2: The Twin Hell Guards
 
 # Mission 12: VEGA Central Processing
 
