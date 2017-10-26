@@ -23,20 +23,24 @@ There are more important ways to spend one's upgrade points.
 ### Chain Gun (available Mission 6)
 ### Gauss Cannon (available Mission 5)
 ### BFG (available Mission ???)
-### Chainsaw (available Mission ???)
+### Chainsaw (available Mission 2)
+This crazy melee weapon will definitely kill any monster in range that
+you have enough fuel to kill.
+This is considered a Glory Kill that'll dump a huge pile of ammo.
 
 Fuel to kill various demons:
 * Imp: 1
 * The Possessed: 1
 * Unwilling: 1
-* Possessed Guard: 1 ?
-* Shielded Guard: 1 ?
+* Possessed Guard: 1
+* Shielded Guard: 1
 * Hell Knight: ???
 * Hell Razer: ???
 * Mancubus: ???
 * Cyber-Mancubus: ???
-* Cacodaemon: ???
-* Pinkie: ???
+* Summoner: ???
+* Cacodaemon: 3
+* Pinkie: 3
 * Spectre: ???
 * Revenant: 3
 
@@ -71,11 +75,12 @@ Grab all stray stuff before entering the elevator *Checkpoint*.
 
 # Mission 1:  UAC
 
-The mission starts with you exiting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find a Info Entry: ???
+### Mission 1: Intro
+The mission starts with you exiting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find a Codex Entry: "Environments / UAC".
 
 As you approach another tall cliff, you can see Imps running off into the horizon: these can be shot but it's not worth the effort.  You can also shoot The Possesseds below, but it's better to use them as walking health bonuses.
 
-### Mission 1, Fight Pre-Blue-Keycard
+### Mission 1: Fight: Pre-Blue-Keycard
 
 This is the first real fight of the game.  It occurs on a 2-level dual-figure-eight structure.
 
@@ -94,7 +99,7 @@ You'll get some ammo, but more importantly, the Frag Grenade, which is very usef
 
 ## Mission 1:  Fight: Stray Possessed and Imps
 
-...
+There's about 6 The Possesseds and 3 Imps.
 
 After killing those guys, enter the cave to the right (at the top of the incline).  You will find some worshipping Possessed and an Auto-map.  Continue out the cave to find a Praetor Token (an Elite Guard corpse) on the right before jumping down.
 
@@ -102,7 +107,7 @@ After killing those guys, enter the cave to the right (at the top of the incline
 
 As you drop down the last level of this spit of land, 4 Imps will attack from various directions.
 
-After that, look for the large tank with TRI 9-C printed on it, and enter its lower level... there is a lever through that you should interact with then enter the Classic Doom Level.
+After that, look for the large tank with TRI 9-C printed on it, and enter its lower level.  There is a lever through that you should interact with then enter the Classic Doom Level.
 
 ## Mission 1: Fight: Classic Doom Level
 
@@ -114,17 +119,46 @@ Mostly, this fight isn't worth the effort.
 
 After this, jump onto the crates at the end of the landing bay, and jump the chasm.
 
-## Mission 1: Across the Chasm
+## Mission 1: Fight: Just Across the Chasm
+You will come across some The Possesseds worshipping something.  There are 3 Possessed Soldiers around in the peripheries as well, and they and some Imps will quickly join in the fun.
+
+After the fight, go forward and turn left to find Health and Armor.
 
 ## Mission 1: Fight: Pre Entranceway Area
+This canyon can be approached in two ways: (1) go directly up the canyon, (2) back up and ascend some cliffs (there's a Health), cross over the canyon on a land bridge, then turn left and climb up a yellow metal wall.
+
+Either way, expect 5+ Imps (plus some The Possesseds).  (TODO: need to identify when the CP occurs)
+
+You should see a suit of Armor on a small plateau.  Just before that, at the canyon's bottom, look around for a "secret" tunnel.
+It leads to Secret #??? to "??? Model, ???guy".
+
 
 ## Mission 1: Fight: Entrance
+You can approach this fight up the main road, or from the side using the plateau to the right.
+Use grenades to knock these forces back, and retreat to snipe at the various demons.
+
+It's about 6? Possessed Soldier, 6? Imps, and 12? The Possessed.
+
+Search all over for ammo.
+
+Now, go up to the top level.  You'll see a medium Health.  And at the end of both of the broken tracks there are carts containing Health and Ammo.
+
+Enter into either of the twin doors, there's some armor - pick it up if needed, then proceed to the waypoint.
 
 # Mission 2:  Resource Operations
+
 ## Mission 2:  Fight:  Tiny fight before opening hatch
+...
+
 ## Mission 2:  Fight:  Tiny fight in catwalk area with Original Doom Level
+...
+
 ## Mission 2:  Fight:  U-shaped catwalk area
+...
+
 ## Mission 2:  Fight:  Industrial Train Depot
+...
+
 ## Mission 2:  Getting the yellow keycard
 Cross the train-tracks on the far-side of the room from your entrance.  You will see a gas canister across the tracks.  Turn left and carefully go through the hatch which automatically opens and closes.  It is an elevator.  When the door opens on the upper level, there should be a large armor.  Take it and go forward.  There should be a train on the left leading back to the Industrial Train Depot, and on the right is a Security Station.
 
@@ -167,8 +201,22 @@ Enter the Airlock, then Cycle it to access the red outdoors.
 This sprawling fight occurs mostly in the lower level of a two-level area.  It's mostly Possessed Soldiers and Imps- lot's of them.  I recommend running through using Heat Blast, and using the Chainsaw on the Shielded Soldier.  Then grab the Beserk Powerup to kill the majority of the remainder.
 
 ## Mission 2:  Accessing the Secret after the Outdoor Fight
+Follow the uphill path from the entrance to the second floor.  Right as you get onto the second floor, look for a bloody crate.
+
+Jump onto the crate, then jump up and forward onto a duct.  Turn right and go shortly up along the top of the duct.  Turn around and jump onto a higher, shinier duct.
+
+Walk along it, with breathtaking martian views, keeping an eye out for a yellow landing to the right of the duct.
+
+Jump onto the landing - and jump again to a rooftop.
+
+Walk through the building, turn left and go over a pipe, then turn right into a duct, to find Secret #???: "??? Model, ???guy".
+
+Go back - and on the rooftop look for a hatch that you can use to drop down into the control room with the in-game waypoint.
 
 ## Mission 2:  Realigning the ???
+There's a corpse whose handprint will grant you access to begin the realignment process.  Interact to achieve this morbid security victory.
+
+Follow waypoints, to go down the elevator down to the next tiny fight.
 
 ## Mission 2:  Fight: Tiny fight after realignment
 3 Imps climb up; one more on bridge.
@@ -177,6 +225,7 @@ This sprawling fight occurs mostly in the lower level of a two-level area.  It's
 ...
 
 ## Mission 2:  Fight: Entranceway
+...
 
 ## Mission 2:  Fight: Control Room Area
 Three Imps and a few The Possesseds.
@@ -233,6 +282,7 @@ Finally, jump to the platform you could see from across the gap.  Interact with 
 Go to the control console and use the dude's arm.  Turn left twice to find the Gore's Nest.
 
 ## Mission 3: Fight: Gore Nest 1
+...
 
 ## Mission 3: Gore Nest 2
 This gore nest is the only one in the Foundry's Main Area.
@@ -271,10 +321,13 @@ One Secret (a doll) can be found in a crate being worked on (climb on top of it)
 Another Secret (an Elite Guard) can be found by climbing crates at the back of the room.
 
 ## Mission 3:  Fight: Gore Nest 3
+...
 
 ## Mission 3:  Finding the Blue Keycard
+...
 
 ## Mission 3:  Fight: Gore Nest 4
+...
 
 ## Mission 3:  Once all four Gore Nests are destroyed
 The Turbine Room door, which the game will guide you to, is now unlocked.
@@ -286,10 +339,16 @@ This fight as two waves, both consisting of Imps and Hell Razers (XXX: are there
 After completing the fight, exit at the top of the room, on the opposite side as the entrance.
 
 ## Mission 3:  End of Mission
+...
 
 # Mission 4:  Argent Facility
+...
 
 # Mission 5:  Argent Energy Tower
+We start the level getting new Jumping abilities.
+Then we cross a damaged bridge to the Tower itself.
+
+The tower is big and tall - most of the level is spent ascending it.
 
 ## Mission 5: Fight: Intro to Level, and Revenants
 
@@ -348,20 +407,28 @@ OK, continue down this short dingy corridor, and you'll find a Hatch, at left, a
 /PONR/: Dropping down this hatch is irreversible, and a Checkpoint is created immediately on hitting the ground.
 
 ## Mission 5: Fight: Base of Tower
+...
 
 ## Mission 5: Activating the Drones
+...
 
 ## Mission 5: Secret Original Doom Level Sidetrip
+...
 
 ## Mission 5: Ascending on the Drone
+...
 
 ## Mission 5: Fight: Upper Tower Fight
+...
 
 ## Mission 5: Ascending upper Control Office
+...
 
 ## Mission 5: Fight: Upper Control Office?? and stairs out
+...
 
 ## Mission 5: Ascending to ???
+...
 
 ## Mission 5: Pseudo-Fight: Before the Countdown Ends
 You could conceivably use this to do some Weapon Upgrade Challenges or
@@ -1269,7 +1336,7 @@ A few Shielded Guards and 3 Pinkies and a Mancubus scattered across about 4 room
 A Health Station and Codex Entry "Monsters / Revenant" are found near eachother.
 There also two Elevator Shafts off to the side that have 2 Possessed Soldiers and a BFG ammo.
 
-## Mission 12: Findig the Blue Keycard
+## Mission 12: Finding the Blue Keycard
 
 Back near the Health Station look for a very bloody side area with entrails hanging from the ceiling and a chainsaw.  Enter and look for a hatch.
 
@@ -1297,19 +1364,42 @@ Continue on.
 Four Switches must be destroy (by shooting) to reroute the energy.
 It doesn't seem to matter much what order you go in. (???)
 
-* Switch 1:  2 Cacodaemons and a Summoner spawn, as well as 2 Pinkies along with a long parade of Possessed Soldiers and Hell Razers and a few Imps.
-* Switch 2:  A Hell Baron, another Summoner, 4 Lost Souls.
+* Switch 1:  2 Cacodaemons and a Summoner spawn, and a long parade of Possessed Soldiers and Hell Razers and a few Imps.
+* Switch 2:  A Hell Baron, 2 Pinkies, another Summoner, 4 Lost Souls.
 * Switch 3:
 * Switch 4:  Nothing new spawns :)
 
 After the Demonic Presence is eliminated, and you have taken all the remaining loot, go to the waypoint and actuate the screen.
 
+## Mission 12: Segue
+Jump down to a lower train (as VEGA directs) to get to the last fight.
+
+## Mission 12: Fight: Finale
+This takes place in a large depot area, with a few BFG Ammo, Gas cans, and other supplies littered about.
+
+You'll ride the train in and a well-timed BFG can take 2 Cacodaemons and the 2 Hell Barons plus a whole lot of random demons.
+
+...
+
+## Mission 12: Destroy VEGA
+A waypoint leads to a platform that'll carry you up to ???.
+
+But first, look down below for another platform to jump onto.  Jump onto a ledge which should have Elite Guard #???.
+
+Take the elevator back up to the platform.
+
+Wait on it, until you get to a dramatic platform area.
+
+Disable the Neural Networks on the left and right.
+
+Then go to the center console.  Pick up Codex Entry "...".  Then interact with the screen to get a cut scene that ends the level.
+
 # Mission 13: Argent D'Nur
 
 # Ultra-Nightmare Practice Sheet
-Abbreviations for Demons:
+Abbreviations for the Demon that killed you:
 * tp: The Possessed
-* tu: The Unwilling
+* uw: The Unwilling
 * ps: Possessed Soldier
 * hk: Hell Knight
 * imp: Imp
