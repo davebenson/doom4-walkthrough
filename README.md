@@ -79,12 +79,12 @@ Interact with the screen (to the right of the door) and
 proceed into the central room with the Praetor Suit.  Interact with it, and
 meet Dr Hayden.
 
-### Fight: Mission 0: Glory Kill Tutorial
+## Mission 0: Fight: Glory Kill Tutorial
 
 You will come upon a staggered The Possessed.
 After killing it, kill the remaining 4 weaklings.
 
-### Fight: Mission 0: Blue Elevator Chamber
+## Mission 0: Fight: Blue Elevator Chamber
 
 You exit the anteroom to see 8? The Possessed worshipping an Orb.  You can Glory Kill them if you need health or kill them en masse by shooting the barrel.
 
@@ -97,12 +97,12 @@ Grab all stray stuff before entering the elevator *Checkpoint*.
 
 # Mission 1:  UAC
 
-### Mission 1: Intro
+## Mission 1: Intro
 The mission starts with you exiting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find a Codex Entry: "Environments / UAC".
 
 As you approach another tall cliff, you can see Imps running off into the horizon: these can be shot but it's not worth the effort.  You can also shoot The Possesseds below, but it's better to use them as walking health bonuses.
 
-### Mission 1: Fight: Pre-Blue-Keycard
+## Mission 1: Fight: Pre-Blue-Keycard
 
 This is the first real fight of the game.  It occurs on a 2-level dual-figure-eight structure.
 
@@ -994,19 +994,19 @@ Continue up a short flight of stairs and look for a white hatch in the floor rig
 
 When done, actuate the screen near the door to exit - you'll be back at the hatch.
 
-# Mission 9: Fight: Miscellaneous Hallway Guards
+## Mission 9: Fight: Miscellaneous Hallway Guards
 The first room has a few Shielded Guards and many The Possesseds and a couple of Possessed Engineers.
 
 The second room has a Checkpoint (used for the next fight) and 4 Possessed Soldiers and a Hell-Razer.  The next room has a bunch of ammo and a Health Station, then drop down the hatch to enter the next fight.
 
 /PONR/ Once you finish the next fight, you cannot get back to this tunnel area (so make sure you interacts with Rich Get Richer, even if you didn't solve it)
 
-# Mission 9: Fight: Mancubus Operating Room
+## Mission 9: Fight: Mancubus Operating Room
 Many Shielded Guards, The Possessed, Hell Razers, Possessed Solders, 3 Mancubi will spawn.  Toward the end of the fight is 2 Hell Knights.  I like using the Plasma Rifle Heat Wave with the Quad Damage to plow through the bad guys - but your mileage may vary.
 
 After the fight look at the empty mancubus bed at the back of the room, between the two exit doors.  Behind this, is a screen you can actuate to find Elite Guard #2 in Secret #1/2/4/5???.
 
-# Mission 9: Fight: Stone Tablet Exhibit Hall
+## Mission 9: Fight: Stone Tablet Exhibit Hall
 There's a Munitions Crate in the entrance hallway to this area.  Once you've looted the area, look through the door to see if you're going to be ambushed by a Possessed Soldier right next to the entrance.  Open the door.
 
 This fight begins with 3? Possessed Soldiers (one is close-by and needs to be dealt with urgently) and a large number of The Possesseds (use a grenade or two maybe).  Shortly, 2 Pinkies spawn at the back of the room.
@@ -1022,7 +1022,7 @@ There's also a Mega-Health you should take before leaving the backstage area.  (
 Press the screen as indicated by the in-game waypoint.
 Enter what looks like an elevator to transfer you to the Lazarus Archives.
 
-# Mission 9: Accessing the Helix Stone
+## Mission 9: Accessing the Helix Stone
 This really just involves interacting with a few screens, in all cases, the in-game waypoint takes you there.
 
 Secret #6 "Samuel Hayden Model, Toxicguy" is found in the circular archive room.  Look on the upper floor for a red display screen (there's another similar display in a cyan color: ignore it).  Behind it, a single archive cell's light is red -- all the other lights are yellow.  Interact with this to obtain the doll.
@@ -1033,19 +1033,19 @@ After a few screens, you be in Olivia's Private Lab: there's a central hologram 
 
 The final screen is back in the circular archive room: be ready for a fight after Dr Hayden rambles on a while.
 
-# Mission 9: Fight: Circular Archive Room
+## Mission 9: Fight: Circular Archive Room
 Be prepared for a endless Imps and a long sequence of Hell Knights.  An Mancubus will spawn; and toward the end, 2? Cacodaemons.
 
 After dispensing with all the demons, a circular stairway drops down from the center of the room.
 
-# Mission 9: Fight: Small fight in Bloody Temple / Pew Area
+## Mission 9: Fight: Small fight in Bloody Temple / Pew Area
 A few Shielded Guards and a bunch of The Possesseds linger about this gory area.
 
 When cleared, there will be a hologram of Olivia watching over a ritualistic sacrifice.
 
 There's armor behind you as you stand in the entranceway to this area.
 
-# Mission 9: ???
+## Mission 9: ???
 Exit to the right to a blood-strewn corridor with books and candles.
 
 You will get to a circular room with a pit in the center.  Looking in, you can see an Elite Guard, but before that, look right for a Lever to access a Classic Map.
@@ -1058,13 +1058,13 @@ Do this, and jump onto the platform while is plugging the hole.  Wait for it to 
 
 Drop down, and keep going and you'll get to a yellow-lit door labeled "Maintenance Only".  Enter for a fight.
 
-# Mission 9: Fight: Server Hall
+## Mission 9: Fight: Server Hall
 You catch a few Shielded Soldiers off-guard, use grenades etc.  There's also a Pinkie ahead of you in the hallway.  And a few more The Possesseds - including some that may surprise you by popping up.
 
-# Mission 9: Server Hall
+## Mission 9: Server Hall
 The hallway become increasingly bloody, and you finally open a door onto a console area.  A hologram with Olivia is playing, and you must interact with a terminal at the waypoint here, the energy refractor control.  It opens the twin doors.
 
-# Mission 9: Fight: ...
+## Mission 9: Fight: ...
 
 Two identical hallways take you to a symmetric 2-level area strewn with Imps, Possessed Soldiers but mostly The Possessed.
 
@@ -1075,7 +1075,7 @@ There's also Elite Guard #4. Outside the door, in the non-secret area, is a Muni
 
 Then go to the waypoint: a large silo with green concentric circles surrounding the waypoint itself.
 
-# Mission 9: Portal Area Fight
+## Mission 9: Portal Area Fight
 The robotic voice announces demonic presence, but you won't see much.  You have to enter the narrow hallway and go through the teleporter.
 
 Before doing so, equip In-Flight Mobility.  Then enter the teleporter and jump back.  You should land on a shelf instead of falling to the ground.  This is the perfect place to use the BFG to get the Thread The Needle Combat Challenge: it'll make the fight much easier too.
@@ -1084,12 +1084,12 @@ This is a good fight to use the Plasma Gun / Heat Blast - fight everyone - grabb
 Use another BFG if helpful - there's a few lying around.
 When the Pinkie or Hell Knights show up, grab the Quad Powerup: it (along with Heat Blast) should be easy work of the remaining heaps of demons.
 
-# Mission 9: Prepare for Boss fight
+## Mission 9: Prepare for Boss fight
 Follow waypoints, grabbing supplies, along with Codex Entry "Monsters / Cyberdemon".
 
 Dr Hayden explains that this fight will have two parts.  The first part is the easier one.
 
-# Mission 9: Boss Fight, part 1: Mars
+## Mission 9: Boss Fight, part 1: Mars
 Here's the most notable Cyberdemon moves for the first part:
 * the Rockets: he'll launch a volley of horizontal rockets; so long as you keep moving you should be ok.
 * the Charge: things will slow as he prepares to charge, so get ready to jump away.
@@ -1101,7 +1101,7 @@ Here's the most notable Cyberdemon moves for the first part:
 Recommended Runes: Vacuum, Ammo Boost, In-Flight Mobility.
 (notes: Armored Offensive is useless since he doesn't drop armor.  Saving Throw is marginal.  Rich Get Richer is good if you have 100 armor (unlikely).  He stays staggered for a while, so Dazed and Confused isn't really helpful.)
 
-# Mission 9: Boss Fight, part 2: Hell
+## Mission 9: Boss Fight, part 2: Hell
 A small cut-scene transports you to Hell; the Cyberdemon gives you the claw, and is reborn.  You will also be pretty well charged up.
 
 He adds two new attacks to his repetoire:
