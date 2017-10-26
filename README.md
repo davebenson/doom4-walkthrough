@@ -1232,8 +1232,77 @@ Midway through the fight he gains some new tricks:
 Toward the end, you may wish to equip Dazed and Confused, since he doesn't stay staggered long, and you have to Glory Kill him.
 
 ## Mission 11: Boss Fight 2: The Twin Hell Guards
+These guys really act in concert, but it's easier to describe their moves separately.  They lack the force-field, fortunately.
+
+* Bed of Fire.  One runs creating a sequence of long fireballs.  Just jump over them.
+* Fire Tornado.  One spins creating a whirlwind of fire.  Avoid.
+* Sphere Attack.  Like above but it doesn't flash or trifurcate.  Shoot it right after it finishes inflating to stun him.
+
+When one is stunned, you can often line them up to get double damage out of Siege Mode or BFG.
+
+When they are getting low (20%), switch on Dazed and Confused so that you will have an easier time Glory Killing them.
+
+After killing them, access the Crucible (which looks more like a dagger with a Skull at the top).
 
 # Mission 12: VEGA Central Processing
+
+## Mission 12: Intro
+
+Enter either door, and in the Console area look for Codex Entry "UAC Personnel / VEGA".
+
+Proceed to open the airlock, and get Gas or Ammo if you want it.  Stop about 115 meters shy of the waypoint.  Look for a green-lit Mainenance Hatch.  Enter it instead of going to the waypoint.
+
+In one shaft here find "Hell Guard Model / Quakeguy" (Secret #1) and a BFG ammo in the next shaft.  Drop into the main area from the first shaft, possibly conservatively since there's about 5 Imps in there.
+
+Another Maintenance Door at ground level is followed by a green-lit hatch in the floor.
+
+Drop down to the area with the Security Switches.
+
+## Mission 12: First Switch Fight
+
+## Mission 12: Security Shutdown Fight
+
+## Mission 12: Cooling Access Fight
+Note: you can use the Berserk from the earlier fight.
+
+A few Shielded Guards and 3 Pinkies and a Mancubus scattered across about 4 rooms.
+A Health Station and Codex Entry "Monsters / Revenant" are found near eachother.
+There also two Elevator Shafts off to the side that have 2 Possessed Soldiers and a BFG ammo.
+
+## Mission 12: Findig the Blue Keycard
+
+Back near the Health Station look for a very bloody side area with entrails hanging from the ceiling and a chainsaw.  Enter and look for a hatch.
+
+Drop down to find a bunch of Possessed Engineers, The Possesseds, and 2 Spectres.
+
+But most importantly, the Blue Keycard.
+
+Go through the Blue Door.
+
+Turn Left to find the Auto Map (if you haven't already), and continue in through another Blue Door.
+
+You'll find a Elite Guard #2 here, and get surprised by a Revenant.
+
+Look down the shaft the Revenant popped out of.  You'll see a Mega Health, drop down, making sure to get it.
+
+You should be standing on a rectangular duct in a very large icy tunnel.
+
+Drop down the other way for Secret #???: "Cyber-Mancubus Model, ???guy".  Walk along the duct to get back up.  Enter the door to a tunnel.
+
+It'll drop you into a lobby where a holographic guy is blathering about how much energy they use.
+
+Continue on.
+
+## Mission 12: Fight: Coolant Generator Room
+Four Switches must be destroy (by shooting) to reroute the energy.
+It doesn't seem to matter much what order you go in. (???)
+
+* Switch 1:  2 Cacodaemons and a Summoner spawn, as well as 2 Pinkies along with a long parade of Possessed Soldiers and Hell Razers and a few Imps.
+* Switch 2:  A Hell Baron, another Summoner, 4 Lost Souls.
+* Switch 3:
+* Switch 4:  Nothing new spawns :)
+
+After the Demonic Presence is eliminated, and you have taken all the remaining loot, go to the waypoint and actuate the screen.
 
 # Mission 13: Argent D'Nur
 
