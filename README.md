@@ -3,8 +3,25 @@
 # Introduction and Game Mechanics
 
 ## Overview
+Welcome to Doom 4, an exciting First Person Shooter!
+The game is set mostly in a large energy facility on Mars, with occasional forays into Hell!
+
+The game is heavy on action and fighting, and it keeps its cut-scenes short and punchy.
 
 ## Basic Plot Summary
+
+## Controls
+PS 4 | X-Box | Description
+:---: | :---: | ---
+L1 | ... | Use equipment (usually Grenade)
+L2 | ... | Weapon Modifier (meaning depends on weapon)
+R1 | ... | Switch or Select Weapon
+R2 | ... | Fire Weapon
+R3 | ... | Melee Attack / Glory Kill
+DPad Up | ... | Swap Weapon Mod
+DPad Left | ... | Previous Equipment
+DPad Right | ... | Next Equipment
+DPad Down | ... | Mission Objective Summary
 
 ## Weapon Use Summary
 
@@ -17,6 +34,11 @@ My upgrade strategy: save the upgrades for the end, or maybe induldge in the fir
 There are more important ways to spend one's upgrade points.
 
 ### Shotgun (available Mission 0)
+Although the shotgun is eclipsed by the Super Shotgun (which is much better, once upgraded), you'll have no real choice for the first few missions.
+Because of this, it isn't really worth putting Weapon Upgrade points into the shotgun, at least not until later in the game if you are trying to get 100%.
+
+When you get to the first Field Drone, the Shotgun is the only weapon you have to modify, so you have to get a mod at this early point:  go for Explosive Shot, which is easier to use to get the "???" Challenge.
+
 ### Plasma Gun (available Mission 2)
 ### Assault Rifle (available Mission 2)
 ### Super Shotgun (available Mission ???)
@@ -221,8 +243,17 @@ Follow waypoints, to go down the elevator down to the next tiny fight.
 ## Mission 2:  Fight: Tiny fight after realignment
 3 Imps climb up; one more on bridge.
 
-## Mission 2:  Crossing the bridge.
-...
+## Mission 2:  Crossing the bridge
+Jump across where the surprising Imp jumped up.  Turn right and jump where a green light strip can be seen.
+
+There are symettric platform to the left (away from the base) and right (toward where you came from).  Jump to the right.
+
+Take the platform back toward the building: there should be a suit of armor in front of you.
+
+An automatic door will open, with 2 Possessed Soldiers and 1 Shielded Soldier.
+Toss a grenade back in.  The chainsaw can be a good way to deal with the Shielded guy.
+
+Checkpoint???
 
 ## Mission 2:  Fight: Entranceway
 ...
@@ -345,7 +376,7 @@ After completing the fight, exit at the top of the room, on the opposite side as
 ...
 
 # Mission 5:  Argent Energy Tower
-We start the level getting new Jumping abilities.
+We start the level getting new Jumping abilities, the Jump Boots.
 Then we cross a damaged bridge to the Tower itself.
 
 The tower is big and tall - most of the level is spent ascending it.
@@ -374,6 +405,10 @@ There is a platform to jump up on, and if you look around, you'll see another gr
 Looking around from the top platform, you should see a short alcove that you can jump into:  there's an Argent Cell here.
 
 ## Mission 5: Crossing the Bridge, and Secret Guardhouse
+The bridge starts with a crate and some Rockets.
+Use the crates to jump left onto the bridge proper.
+Continue along.
+You'll jump down to a platform.
 ...
 
 ## Mission 5: The Far Side of the Bridge
@@ -407,7 +442,18 @@ OK, continue down this short dingy corridor, and you'll find a Hatch, at left, a
 /PONR/: Dropping down this hatch is irreversible, and a Checkpoint is created immediately on hitting the ground.
 
 ## Mission 5: Fight: Base of Tower
+This fight begins with a cut-scene introducing us (somewhat) to the Mancubus.
+
+Use the Rocket Launcher or Gauss Cannon (etc) to damage this guy before running around for a while taking pot-shots at various demons.
+
+Once you damage a lot of demons, look for the Yellow Lift that jams you into a Qad Powerup.  Use Plasma Rifle's Heat Blast to kill a lot of demons.
+
+Post-Fight:  pick up all the Gas and Ammo, then go to the waypoint to enter a control console lounge.
+???
+Use the Health Station and interact with the screen.
+
 ...
+
 
 ## Mission 5: Activating the Drones
 ...
@@ -731,8 +777,6 @@ Pickup all you can.  There should be a screen prompting "Reset Crane to Base?" t
 Access the Field Drone: I tend to choose Chain Gun / Mobile Turret here.
 
 Exit through the door near the Health Station.
-
-...
 
 ## Mission 7: Accessing Rune Challenge: Armored Offensive
 Exit the building and turn left, killing an Imp and Revenant.
@@ -1366,10 +1410,19 @@ It doesn't seem to matter much what order you go in. (???)
 
 * Switch 1:  2 Cacodaemons and a Summoner spawn, and a long parade of Possessed Soldiers and Hell Razers and a few Imps.
 * Switch 2:  A Hell Baron, 2 Pinkies, another Summoner, 4 Lost Souls.
-* Switch 3:
+* Switch 3:  Imps, Possessed Soldiers, Hell Razers
 * Switch 4:  Nothing new spawns :)
 
 After the Demonic Presence is eliminated, and you have taken all the remaining loot, go to the waypoint and actuate the screen.
+
+There's also a Codex Entry in this room: "Monsters / Cyber-Mancubus".
+
+Follow VEGA's suggestion to jump down onto a train below to enter the last big battle on Mars.
+
+## Mission 12: Fight: VEGA's Last Fight
+You enter a train depot to encounter impressive demonic forces (2 Hell Barons and 2 Cacodaemons) battling each other.
+
+Use a BFG when the Cacodaemon at left is just about to go out of view.  This should kill 2 Cacodaemons and 2 Hell Barons.  But use more BFGs or Gauss Cannons as needed.
 
 ## Mission 12: Segue
 Jump down to a lower train (as VEGA directs) to get to the last fight.
@@ -1377,7 +1430,11 @@ Jump down to a lower train (as VEGA directs) to get to the last fight.
 ## Mission 12: Fight: Finale
 This takes place in a large depot area, with a few BFG Ammo, Gas cans, and other supplies littered about.
 
-You'll ride the train in and a well-timed BFG can take 2 Cacodaemons and the 2 Hell Barons plus a whole lot of random demons.
+You'll ride the train in and a well-timed BFG can take 2 Cacodaemons and the 2 Hell Barons plus a whole lot of random demons.  Fire it at the 2 Hell Barons, just as the Cacodaemon at left is about to go out of view.
+
+The next wave consists of a few Cyber-Mancubi, Pinkies, and Cacodaemons, along with many Imps.
+
+There are 3 BFG ammo here - so you'll probably want to use it a few times.
 
 ...
 
@@ -1396,7 +1453,7 @@ Then go to the center console.  Pick up Codex Entry "...".  Then interact with t
 
 # Mission 13: Argent D'Nur
 
-# Ultra-Nightmare Practice Sheet
+# Ultra-Nightmare Practice Sheet: Abbreviations
 Abbreviations for the Demon that killed you:
 * tp: The Possessed
 * uw: The Unwilling
@@ -1408,7 +1465,7 @@ Abbreviations for the Demon that killed you:
 * mc: Mancubus (plural: Mancubi)
 * cm: Cyber-Mancubus
 * hb: Hell Baron
-* pnk: Pinkie
+* pnk: Pinky
 * sp: Spectre
 
 Modifiers:
@@ -1416,6 +1473,7 @@ Modifiers:
 * oob: Out-of-the-Blue
 * ow: Overwhelmed
 
+# Ultra-Nightmare Practice Sheet: Fight List
 Fight List:
 * 0/Glory-Kill-Tutorial
 * 0/Blue-Elevator-Room
