@@ -85,7 +85,7 @@ Fuel to kill various demons:
 
 These are accessed by the central button on PS4.
 
-I'm too lazy to describe these pages in detail, but:
+TODO: I'm too lazy to describe these pages in detail, but:
 
 * When you get an Auto-Map, the effect is to enhance the map in your Dossier.  Praetor Suit upgrades can improve the map in various ways
 * The Codex page will let you see if you have missed any Codex Entries
