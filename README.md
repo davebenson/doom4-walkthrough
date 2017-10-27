@@ -119,10 +119,10 @@ and a control-room overlooking the main chamber.
 
 Grab all stray stuff before entering the elevator *Checkpoint*.
 
-# Mission 1:  UAC
+# Mission 1:  The UAC "Rip and Tear"
 
 ## Mission 1: Intro
-The mission starts with you exiting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find a Codex Entry: "Environments / UAC".
+The mission starts with you exiting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find Codex Entry "Environments / The UAC".
 
 As you approach another tall cliff, you can see Imps running off into the horizon: these can be shot but it's not worth the effort.  You can also shoot The Possesseds below, but it's better to use them as walking health bonuses.
 
@@ -132,12 +132,14 @@ This is the first real fight of the game.  It occurs on a 2-level dual-figure-ei
 
 To start, kill the possessed soldier at position A, and then shoot barrel B.  But from there, you'll just have to run and shoot for a while.
 
+You'll be able to recharge over the next easy fight, so use up all the health and armor during the fight.
+
 ## Mission 1: Keycard and Secret
 
-After the demonic threat is neutralized, a gate opens up, opposite the enterance location.
-However, another gate immediately blocks progress.  Turn right and walk down a tunnel.  Behind a large block is a corpse with a Blue Keycard.
+After the demonic threat is neutralized, a gate opens up, opposite the entrance location.
+However, another gate immediately (requiring the Blue Keycard) blocks progress.  Turn right and walk down a tunnel.  Behind a large block is a corpse with a Blue Keycard.
 
-After getting the keycard, stand on the block and look around for a tunnel above you.  You should jump to it, and pick up the Model ???.
+After getting the keycard, stand on the block and look around for a tunnel above you.  You should jump to it, and pick up Secret #1 and your first collectible, "Combat Shotgun Model, Blueguy".
 
 Continuing through the tunnel, you'll get to the gate, which will open.
 
@@ -151,9 +153,11 @@ After killing those guys, enter the cave to the right (at the top of the incline
 
 ## Mission 1:  Fight: Stray Imps
 
-As you drop down the last level of this spit of land, 4 Imps will attack from various directions.
+As you drop down the last level of this spit of land, 5 Imps will attack from various directions.
 
-After that, look for the large tank with TRI 9-C printed on it, and enter its lower level.  There is a lever through that you should interact with then enter the Classic Doom Level.
+Checkpoint.
+
+After that, look for the large tank with TRI 9-C printed on it, and enter its lower level.  There is a lever through that you should interact with then enter the Classic Doom Level.  Exit the structure and you should be able to see up the path to Secret #2, Classic Map "Doom II: Entryway".
 
 ## Mission 1: Fight: Classic Doom Level
 
@@ -165,22 +169,27 @@ Mostly, this fight isn't worth the effort.
 
 After this, jump onto the crates at the end of the landing bay, and jump the chasm.
 
-## Mission 1: Fight: Just Across the Chasm
-You will come across some The Possesseds worshipping something.  There are 3 Possessed Soldiers around in the peripheries as well, and they and some Imps will quickly join in the fun.
+At the end of this area, you may catch a glance of the Field Drone flying away to the right.  But go left to an area with Health and Armor, and the second Codex Entry "Environments / The UAC".
 
-After the fight, go forward and turn left to find Health and Armor.
+## Mission 1: Fight: Just Across the Chasm
+Go back, and to the right where you saw the Field Drone; it's floating right ahead.  Interact with it:  I tend to get Explosive Shot as it makes an upcoming challenge easier, but it isn't necessary.
+
+You will come across some The Possesseds worshipping a corpse.  There are 3 Possessed Soldiers around in the peripheries as well, and they will be join in the fun by some Imps that'll spawn, potentially close to you.
+
+After killing them, Checkpoint.
 
 ## Mission 1: Fight: Pre Entranceway Area
 This canyon can be approached in two ways: (1) go directly up the canyon, (2) back up and ascend some cliffs (there's a Health), cross over the canyon on a land bridge, then turn left and climb up a yellow metal wall.
 
-Either way, expect 5+ Imps (plus some The Possesseds).  (TODO: need to identify when the CP occurs)
+Either way, expect 5+ Imps (plus some The Possesseds).
 
-You should see a suit of Armor on a small plateau.  Just before that, at the canyon's bottom, look around for a "secret" tunnel.
-It leads to Secret #??? to "??? Model, ???guy".
+Checkpoint.
 
+You should see a suit of Armor on a small plateau.  Just before that, at the canyon's bottom, look around for a small backfacing greenlit "secret" tunnel.
+It leads to a cliff with Secret #3 to "Imp Model, Classicguy".
 
 ## Mission 1: Fight: Entrance
-You can approach this fight up the main road, or from the side using the plateau to the right.
+You can approach this fight up the main road (over the plateau with a suit of armor), or from the side using the plateau to the right.
 Use grenades to knock these forces back, and retreat to snipe at the various demons.
 
 It's about 6? Possessed Soldier, 6? Imps, and 12? The Possessed.
@@ -191,16 +200,42 @@ Now, go up to the top level.  You'll see a medium Health.  And at the end of bot
 
 Enter into either of the twin doors, there's some armor - pick it up if needed, then proceed to the waypoint.
 
-# Mission 2:  Resource Operations
+# Mission 2:  Resource Operations "Know Your Enemy"
+
+## Mission 2: Notes on Combat Challenges
+* Two-fer: kill two Possesed with one Shotgun shot.  This is easy with the Explosive Shot: use the Weapons Mod key and shoot a Possessed that is in close range of another Possessed.  Or stagger one in order to line them up carefully.
+* Variety is the Spice of Death I: perform 5 different Glory Kills on the Possessed.
+* Quite the Explorer: Find 3 Secrets.  This should be pretty easy, with this guide.
 
 ## Mission 2:  Fight:  Tiny fight before opening hatch
-...
+5 Possessed wait here, and 2 Imps spawn quickly.  Kill the Imps and use the Possesseds to work on either Challenge "Variety is the Spice of Death I" or "Twofer" (this is easiest using the Explosive Shot modification).
+
+You can't open the hatch yet: "Low Power".  Instead, open a door to find a number of The Possessed, and keep going to an Imp at the top of the stairs.
+"Reset Power" (by interacting with a screen), to watch a bit of a cut-scene featuring an Olivia Pierce recording.
+
+Looking down at the stairs from the top, you should see a platform at your level with a blood smear on the back wall: a standard marker for a secret in this game.  Go there, and look for some ducts to climb through.  You'll get to Secret #1 and a suit of armor.
+
+Back at the bottom of those steps, find an Auto-Map:  use it.
+
+Continue to the waypoint and an Open the Maintenance Bay Door.
 
 ## Mission 2:  Fight:  Tiny fight in catwalk area with Original Doom Level
-...
+Some Possessed are followed by 3 Imps.  Go where they originated onto a crane-like catwalk.  Jump over its left railing, and look for a platform somewhat above you:  jump to it.  Look for the Lever and pull it.
+
+Jump back down, keeping an eye out for some Imps that'll spawn right around you.  You should see the Secret #8, Classic Map "Doom - Hangar" up a small staircase with some Health and Shotgun ammo.
+
+After that, open the door with the waypoint to meet the Possessed Engineer.  Shoot him and he'll fly back, killing the numerous Possesseds in the background.
+
+A battle awaits after opening the next door.
 
 ## Mission 2:  Fight:  U-shaped catwalk area
 ...
+
+Post Fight:  There's a Codex Entry "..." and a door.
+
+You can enter the room through a path with more goodies but looking for the control console that you can interact with "...".  This will stop the fast moving elevators at the central part of the U.  Climb up the elevators and enter through the second story for health, armor, and shotgun ammo.
+
+No matter which way you go, you'll be in a locker room with some Shotgun Ammo, the Chainsaw, and a Health Station.
 
 ## Mission 2:  Fight:  Industrial Train Depot
 ...
@@ -221,6 +256,8 @@ Before destroying the gore nest, take out the 6? The Possesseds possibly using G
 
 After destroying the Gore Nest, a large number of Imps and Possessed Soldiers appear, keep moving and shoot the barrels to kill some of them while saving ammo.  Make note of the two supply caches containing ammo+health before starting.
 
+Hint: The chainsaw is useful here to kill 3 demons and get lots of ammo.
+
 ## Mission 2:  Getting the yellow keycard (continued)
 
 On the lower level, Call the Elevator and see a replayed cut-scene of the demon carrying the Yellow Keycard guard.  Enter the elevator and press the button.
@@ -231,13 +268,15 @@ Go through the hatch then drop down into the Industrial Train Depot, right in fr
 
 But, don't go there yet!  Instead, retrace your earlier steps to the Security Station which you can now access!  Take the supplies and ??? unlock the doors
 
-Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down to find some The Possesseds and 2 Imps, along with an Elite Guard and a Plasma Rifle.  To get out of this area, you'll find a Grate that you can kick open.
+Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down for Secret #2.  Find some The Possesseds and 2 Imps, along with an Elite Guard and a Plasma Rifle (Secret #3).  To get out of this area, you'll find a Grate that you can kick open.
 
 This will drop you into the location of the Developed Outdoor area fight, which is now vacant, but some Health may have re-appeared.
 
 Continue retracing your steps by pressing the Call Elevator button on the lower level, and find the Field Drone.  I recommend using it to get the Heat Blast modification for the Plasma Gun.
 
-Continue retracing until you are in the Industrial Train Depot.
+Now, instead of going forward, turn right into a door that was unlocked when you accessed the Security Station a minute ago.  This is Secret #5. Follow the blood to a duct, crouch, and go through to get to a steamy room you could see into earlier.  Secret #7 Elite Guard #2, and some armor and health.
+
+Exit the door by interacting with it, to the Industrial Train Depot.
 
 Go through the Yellow Keycard door, and Open the Airlock from the control room in this area.  You'll find an Assault Rifle here.
 
