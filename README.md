@@ -294,11 +294,11 @@ Walk along it, with breathtaking martian views, keeping an eye out for a yellow 
 
 Jump onto the landing - and jump again to a rooftop.
 
-Walk through the building, turn left and go over a pipe, then turn right into a duct, to find Secret #???: "??? Model, ???guy".
+Walk through the building, turn left and go over a pipe, then turn right into a duct, to find Secret #6: "Doom Marine Model, Doomguy".
 
 Go back - and on the rooftop look for a hatch that you can use to drop down into the control room with the in-game waypoint.
 
-## Mission 2:  Realigning the ???
+## Mission 2:  Realigning the Communication Satellites
 There's a corpse whose handprint will grant you access to begin the realignment process.  Interact to achieve this morbid security victory.
 
 Follow waypoints, to go down the elevator down to the next tiny fight.
@@ -316,28 +316,30 @@ Take the platform back toward the building: there should be a suit of armor in f
 An automatic door will open, with 2 Possessed Soldiers and 1 Shielded Soldier.
 Toss a grenade back in.  The chainsaw can be a good way to deal with the Shielded guy.
 
-Checkpoint???
+Checkpoint.
 
-## Mission 2:  Fight: Entranceway
-...
-
-## Mission 2:  Fight: Control Room Area
+## Mission 2:  Fight: Entranceway / Control Room Area
 Three Imps and a few The Possesseds.
+
+There's a assault rifle and Codex Entry "Monsters / Possessed Security" here.
+
+In the control console area is a screen you can use to open the next door.
  
 ## Mission 2:  Fight: Hallway
+A Possessed Soldier will run in as soon as the door opens.
+
 Many The Possesseds, 3 Possessed Soldiers, and one Shielded Soldier.
 
-Access the secret by going left - often the Shielded Soldier guards this area.
-
-After climbing, an Imp will spawn in front of you.  There is an Elite Guard and a Munitions Crate.
-
+Often the Possessed Security guards a hall to the left.  It is worth exploring.
+After climbing, an Imp will spawn in front of you.  There is Elite Guard #3 and a Munitions Crate.
 
 ## Mission 2:  VEGA Console area
 This is a semicircular area with a central room.
 
-But first, climb the crates at left and jump to find a Doll (a Secret).
+But first, climb the crates at left and jump to find Secret #4, "Heavy Assault Rifle Model, Bronzeguy".
 
 Enter the central room and watch the cut scene.
+
 I recommend directing the Argent Energy toward your Health.
 
 # Mission 3:  Foundry
