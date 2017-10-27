@@ -1,14 +1,29 @@
 # Doom 4 Walkthrough
 
+# Acknowledgements and Caveats
+Thanks, id Software for making such a great game!
+
+Caveats: I have not read the "Official" Guide by Prima Guides at this point.
+I may do so soon and amend this guide, as time permits.
+
 # Introduction and Game Mechanics
 
 ## Overview
-Welcome to Doom 4, an exciting First Person Shooter!
+Welcome to Doom 4, an intense and sensory First Person Shooter!
+
 The game is set mostly in a large energy facility on Mars, with occasional forays into Hell!
 
 The game is heavy on action and fighting, and it keeps its cut-scenes short and punchy.
 
+The visuals are impressive, contrasting space-tech with organic demons.
+They are also pretty gory: potential noghtmare fodder for kids.
+Even though you will plow your way through thousands of monsters in these missions, at least none were human at the time of death.
+
 ## Basic Plot Summary
+You awaken to being chained to a bed,
+and quickly assume the hero's role: combatting an experiment with Hell gone awry.
+Over the missions, you'll see that cutting-edge research into new energy sources degenerated into cultish madness, including ritualistic sacrifices.
+It's up to you to stop the unleashed demons.
 
 ## Controls
 PS 4 | X-Box | Description
@@ -373,9 +388,147 @@ After completing the fight, exit at the top of the room, on the opposite side as
 ...
 
 # Mission 4:  Argent Facility
+## Mission 4: Introduction
+Go forward and Open the Airlock to find yourself in an industrial open-air area:
+immediately in front of you is a trash fire and ahead of you is a blocked-off bridge.
+
+Look left.
+There should be a octagonal structure with 2 Platforms, a Lower one and an Upper one.
+Jump to the Lower Platform.
+Now, look left for some green marker lights on the cliff-like rocks.
+Jump up a few of them (follow the green strip lights), and on to the Upper Platform.
+
+Now, look for an broken bridge - jump there and cross another small bridge, to your first Rune Challenge: "Vacuum".
+
+If you want, grab the ammo on the right pathway, but the mission continues to the left.
+
+In front of a closed door, you'll see some Health and Ammo.
+Less obviously, befind some barrels to the left, is a Classic Doom Level Lever.
+Pull it: the level itself will be easy to see ahead.
+
+## Mission 4: Fight: Gore Hallway
+Enter the automated door to a hallway that has been thoroughly decorated with entrails.
+Midway down this hall, to your right, is (assuming you pulled the lever above) the Secret #?, Classic Map "...".
+
+Continue out the hall to run into 2 Shielded Guards and a bunch of The Possesseds.  Some Imps will spawn soon; once you kill them you'll get more Imps and a Hell Knight.
+
+You can retreat into Hall (and it can be a good way to start the fight, say, with a few Grenades).  But the new monsters will start to spawn behind you, and it may be easier just to stay in the open.
+
+Checkpoint.
+
+## Mission 4: Fight: Force-Field Gore Nest #1
+Jump over a crude but wide blockade to get to a view of a big glowing rectangular blue force-field.  The gore nest is just behind it.
+
+Looking down, you may see some Imps fighting - they will see you soon enough.  Kill these few Imps, along with the Possessed Engineers and The Possesseds stumbling around.
+
+Destroy the Gore Nest.
+
+You'll have to deal with 2 Hell Knights, 2 Hell Razers, and a bunch of Imps.
+
+Checkpoint.
+
+It's probably worth going back to the Blockade you entered from, and look around for a cave (it'll be on the left as you walk toward the Force Field).
+The cave is Secret #???, Elite Guard #???.  There's some ammo (etc) here.
+
+# Mission 4: Fight: Argent Cell
+(It might seem logical to destroy the Argent Filter associated with the Gore Nest first, but due to how the Checkpoints work, I suggest doing things in this order)
+
+You can now go and destroy the Argent Filter, but I think it makes sense to first deal with the Argent Cell.
+
+The Argent Cell is in the building on the left side of the force-field when looking at it - on the opposite side of the gore nest from where you entered.  There should be some Health in front of it.
+
+Entering, there will above 5 Imps spawned gradually.
+
+Once they are gone, Checkpoint.
+
+Now, find Argent Cell #1 behind some tanks.  Use it: most players will opt for Health.
+
+# Mission 4: Argent Filter associated with Gore Nest #1
 ...
 
-# Mission 5:  Argent Energy Tower
+# Mission 4: Fight: Upper Level Gore Nest #2
+Near the entrance for the Argent Cell building, find two stacked crates, and a suspended one:  these can be climbed, and from the top of the suspended crate, you can jump to the second floor of this building.
+
+Pre-Fight: 3 Imps run down from above very quickly, be prepared to take care of them.
+
+...
+
+# Mission 4: Argent Filter associated with Gore Nest #2
+Go into the closest door to Gore Nest 2, on its same level - it is somewhat inset - a waypoint should be leading in this general direction.
+Inside the building, go along the walkway to a closed green door with the waypoint behind it by 15 meters.
+Enter and interact to destroy the Argent Filter #2 and get a Checkpoint.
+
+There is also a Plasma Rifle here.
+
+# Mission 4: Rune and Secret
+From the small room containing the Argent Filter, turn right to a large floor with large lifts.  You can probably see the glowing green Rune Challenge #2: "Dazed and Confused" on the lift in the opposite corner of the building (from the entrance, look at the opposite corner - the rune is on the structure just to the right of center).
+
+Once done with the rune, look for a large hole that is serviced by a lift (now down).  Jump down there, and into a hallway.  On the left you should see a small block on a larger block, making a natural stairway.  Climb up, and turn right to see a service walkway which you can jump onto to find Secret #???, "??? Model, ???guy".
+
+# Mission 4: Fight: Lab (Optional)
+This area has a Health Station, Field Drone, etc, but isn't necessary to the completion of the Mission.
+
+It has two entrances:
+* Normal: From the site of Gore Nest #2, climb a crate to a balcony.  The door enters the middle story of the Lab.
+* Sneaky: From the site of Gore Nest #2, walk down a dirt path to an enclosure with some blocks on your right. If you look up, you should see a greenlit ledge to your left, which is your goal.  Climb ontp the blocks, at right, then onto a grating looking onto the greenlit cliff.  Jump across and open the door to be in the lower story of the Lab.
+
+The Possessed Guards tend to be in the lower story and entering there catches them more unawares, maybe.
+
+There are also 5? Imps and a bunch of Possesseds and Possessed Engineers.
+
+You'll get a Checkpoint when the bad guys are cleared.
+
+# Mission 4:  Fight: Icy Gore Nest #3
+There are 3 entrances to this area:
+* Lower Entrance: from Gore Nest 2, go down ... to a active motion-sensing door.
+* Mid-Lower Entrance: ... [on opposite side of building]
+* Upper Entrance: ... [above Auto-Map area]
+
+It matters little.
+
+Prefight: you'll have to deal with 5? Imps and 2? Possessed Soldiers and a 
+bunch of The Possesseds.
+
+Post-Fight:
+Secret #???: You can actually use this area during the fight, but it's probably best to wait until the post-Gore Nest Checkpoint.  From the gore nest, go toward the two-level greenish area ???.  The door is not visibly active, but you can interact to open it for the Secret, and the Auto-Map.
+
+Now, go in to destroy the Argent Filter.
+
+There's a Munitions Crate, Gas??, a Health Station, Codex Entry "...".  Destroy the Argent Filter and go outside for the last battle in this icy area.
+
+# Mission 4:  Fight: Destroying the Icy Argent Filter
+This is your introduction to the Summoner.  She will spawn centrally the instant you exit the control booth.  The Rocket Launcher (especially with Lock-On) is a nice approach, as is the Chainsaw, but she can really be killed by any weapon.
+
+Besides her, there are 3? Imps and a Hell Razer.
+
+Checkpoint.
+
+# Mission 4: After Destroying the 3 Argent Filters
+
+A new Gore Nest will appear: it's on the upper story and easily visible.
+You have to get to it from the building below, which once housed Argent Filter #2.
+
+Climb the crates, following the waypoint to the upper-story of the huge hangar, right next to Rune #2.
+
+Exit the door toward the waypoint (approx 80m away), stocking up first if necessary and possible.  There should be a Munitions Crate ahead, and to the left is the exit to the Gore Nest.
+
+# Mission 4: Fight: Final Gore Nest
+Pre-Fight: there are 2 Possessed Soldiers, a Hell Razer, and an Imp.
+
+Destroy the Nest.
+
+Fight: a Hell Knight and a Summoner are the main act in this fight - there's also a few Imps and Hell Razers.
+
+# Mission 4: Destroy Primary Argent Filter
+
+Enter the building and face left for Elite Guard #???.
+
+Follow the waypoint to another Argent Filter (looks like the others).
+Destroy it, and watch the cut-scene.
+
+Follow the waypoint and Exit the Facility.
+
+# Mission 5: Argent Energy Tower
 We start the level getting new Jumping abilities, the Jump Boots.
 Then we cross a damaged bridge to the Tower itself.
 
@@ -405,6 +558,8 @@ There is a platform to jump up on, and if you look around, you'll see another gr
 Looking around from the top platform, you should see a short alcove that you can jump into:  there's an Argent Cell here.
 
 ## Mission 5: Crossing the Bridge, and Secret Guardhouse
+Before crossing: make sure you have Argent Cell #1 and Rune Challenge #1.
+
 The bridge starts with a crate and some Rockets.
 Use the crates to jump left onto the bridge proper.
 Continue along.
@@ -1419,20 +1574,12 @@ There's also a Codex Entry in this room: "Monsters / Cyber-Mancubus".
 
 Follow VEGA's suggestion to jump down onto a train below to enter the last big battle on Mars.
 
-## Mission 12: Fight: VEGA's Last Fight
-You enter a train depot to encounter impressive demonic forces (2 Hell Barons and 2 Cacodaemons) battling each other.
-
-Use a BFG when the Cacodaemon at left is just about to go out of view.  This should kill 2 Cacodaemons and 2 Hell Barons.  But use more BFGs or Gauss Cannons as needed.
-
-## Mission 12: Segue
-Jump down to a lower train (as VEGA directs) to get to the last fight.
-
 ## Mission 12: Fight: Finale
 This takes place in a large depot area, with a few BFG Ammo, Gas cans, and other supplies littered about.
 
 You'll ride the train in and a well-timed BFG can take 2 Cacodaemons and the 2 Hell Barons plus a whole lot of random demons.  Fire it at the 2 Hell Barons, just as the Cacodaemon at left is about to go out of view.
 
-The next wave consists of a few Cyber-Mancubi, Pinkies, and Cacodaemons, along with many Imps.
+The next wave consists of a few Cyber-Mancubi, 5? Pinkies, and 3? Cacodaemons, along with many Imps.
 
 There are 3 BFG ammo here - so you'll probably want to use it a few times.
 
