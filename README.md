@@ -1664,6 +1664,19 @@ Go left and turn around to see the next jump.
 
 This island has two levels:  climb to the upper level to see the next jump target, relatively far below with ??? ammo.
 
+Continue along to an area with a left and right branch: the waypoint leads left, so instead go right to be surprised by 2 Imps.  There's armor here (etc??)
+
+Go back to the left route, and (I recommend) activate In-Flight Mobility.  Jump around the giant stalactite.
+
+Drop down to hear a demonic voice say "Kill Him".
+
+Checkpoint.
+
+## Mission 13: Fight: Big Fight 1
+## Mission 13: Fight: Big Fight 2
+## Mission 13: Fight: Big Fight 3
+## Mission 13: Boss Fight: ...
+
 # Ultra-Nightmare Practice Sheet: Abbreviations
 Abbreviations for the Demon that killed you:
 * tp: The Possessed
