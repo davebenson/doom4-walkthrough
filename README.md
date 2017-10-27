@@ -81,6 +81,15 @@ Fuel to kill various demons:
 * Spectre: ???
 * Revenant: 3
 
+## Your Dossier
+
+These are accessed by the central button on PS4.
+
+I'm too lazy to describe these pages in detail, but:
+
+* When you get an Auto-Map, the effect is to enhance the map in your Dossier.  Praetor Suit upgrades can improve the map in various ways
+* The Codex page will let you see if you have missed any Codex Entries
+
 # Mission 0:  Pre-UAC
 
 At the beginning of the game, you wake up chained to an operating table
@@ -614,7 +623,17 @@ Use the Health Station and interact with the screen.
 ...
 
 ## Mission 5: Secret Original Doom Level Sidetrip
-...
+Immediately upon exiting the office, you should see a drone (one of a pair) coming out of its bay and ascending.  The normal campaign storyline is to take that drone up to the next level.
+
+Instead, note that there are 2 Pairs of Drone - 4 Drones total - one pair of Drones is here, the other is on the exact opposite side of the tower.
+
+Once you get to the opposite side, catch a drone up.  When you get to the top, jump onto the platform above the socket that the drone enters:  you should see a Lever: this actuates the Classic Doom Map.
+
+After pulling the lever, catch the drone back down.  (It's too far to jump the whole way down).  Get off before it enters the socket.
+
+Once the drone has left, enter the "socket" it plugged into: this is Secret #???, Classic Map: "..."
+
+After that, go back to the original side of the tower to use the drone as planned.
 
 ## Mission 5: Ascending on the Drone
 ...
@@ -1599,6 +1618,51 @@ Disable the Neural Networks on the left and right.
 Then go to the center console.  Pick up Codex Entry "...".  Then interact with the screen to get a cut scene that ends the level.
 
 # Mission 13: Argent D'Nur
+
+## Mission 13: Introduction
+You start in a large upper courtyard area with loot scattered about.
+
+Eventually, go down to a Checkpoint for the fight.
+
+## Mission 13: Fight: Sniper then Beserk
+You should start at an overlook, where you can see a Cacodaemon attacking a half dozen Imps.  I usually kill the Cacodaemon (Assault Rifle with Tactical Scope) from afar and save the Imps for up close.
+
+Jump down to the courtyard area below and polish off the Imps who will come to you.  The next wave won't start until you enter the main area.
+
+In short order, 2 Hell Knights and a Summoner appear, followed by 2 Pinkies and many Imps.
+
+I usually use one BFG after lots of demons have spawned, then grab the Beserk Powerup from the very center of the courtyard.
+
+In theory it seems like the "Seek and Destroy" and "Savagery" Runes would may the beserk powerup more effective - I didn't really notice a difference though.
+
+When done, exit via the waypoint and Checkpoint near the blue teleporter.
+
+## Mission 13: Fight: Intro Stairs
+
+Before starting, look ahead to an impressively demonic sight of 3 statues feeding some central thing.  (I'm not sure if the 3 beams symbolize the 3 major fights ahead or not)
+
+Descend to the next level where there is usually between 1 and 3 Unwilling staggering around (they will fall down to the next level but they can't get back up, so the exact number varies).
+
+(Because I often seem to need the Mobile Turret upgrade, which involves killing in groups of 4, i often wait to kill them, but the Secret has to be triggered before you drop down to the next area)
+
+Facing out toward the canyon, look for a Skull Switch at the right-side of the level.  Actuate it, then go to the other side of this area and look for some blocks to climb up.  After climbing up, there is a cave just a bit ahead that opened up with Gas and BFG Ammo.
+
+Go back down to the lowest area in this complex with about 8 Unwilling.
+
+Optional:  go through the tunnel to the left.  Once you take any armor at the end of the tunnel a Cacodaemon will materialize directly in front of you, and 2 Imps will appear in the hallway.  A few seconds later a Hell Knight will appear at the far end of the hall (the entrance).  (I usually use Gauss Cannon Siege Mode for the Cacodaemon and the Hell Knight - separately - and super shotgun for the Imps, but there's many options.  Using a chainsaw on the Hell Knight could make  things easy and give you a lot of ammo)
+
+Optional: go the other way (a right turn, if facing the canyon), to a rocky set of stairs leading up to the Auto-Map for this level.
+
+## Mission 13: Fight: Stragglers on the Islands
+Jump across the gorge: keep an eye out over the canyon where 2 Lost Souls and then a Cacodaemon will spawn.
+
+Jump down and across the canyon.
+
+Go left and turn around to see the next jump.
+
+2 Cacodaemons will appear, one at at time, after you jump across.
+
+This island has two levels:  climb to the upper level to see the next jump target, relatively far below with ??? ammo.
 
 # Ultra-Nightmare Practice Sheet: Abbreviations
 Abbreviations for the Demon that killed you:
