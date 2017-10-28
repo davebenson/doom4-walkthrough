@@ -450,33 +450,58 @@ Taking the Keycard creates a Checkpoint.
 
 Exiting the area triggers the creation of 2 Imps, a Hell Knight, and (down the hall) 2 Possessed Securities.  I usually run to the Field Drone location, lobbing a grenade behind me.  The Hell Knight is the only big problem - in fact, often the other attackers will fight themselves to nothing if you merely wait.
 
+## Mission 3: Fight: Argent Cell
+In order to use the Yellow Keycard, you'll have to find a mishmash of demons in a hot foundry area.  The barrels provide an easy way to kill them en masse.
+
+Argent Cell #1 is found in the corner, in front of a defunct door.
+
 ## Mission 3: Using the Yellow Keycard
 As you approach the yellow keycard door, a Hell Knight will surprise you.
 Entering the door creates a Checkpoint, so it is advisable to stock up on ammo, armor and health before entering.
 
 ## Mission 3: Fight: Hall after Yellow Keycard, before Gore Nest 3
 After picking up whatever supplies from the anteroom,
+including Codex Entry, "UAC Personnel / Samuel Hayden",
 enter a hall where some repair robots appear to be working on a crate.
 
 Initially there are just two Possessed Soldiers (on the left-hand side)  If you stay near the entrance wall, nobody else will spawn, and it is suggested to kill these guys before charging in.
 
 Then, a Hell Knight, a (few?) Imps, an a few Hell Razers will spawn.  Lobbing a grenade at the barrel can help, but the Hell Knight has to be dealt with.
 
-One Secret (a doll) can be found in a crate being worked on (climb on top of it).
+Secret #5, "Plasma Rifle Model, Prototypeguy" can be found in a crate being robotically worked on (climb on top of it then inside).
 
-Another Secret (an Elite Guard) can be found by climbing crates at the back of the room.
+Secret #2, Elite Guard #2, can be found by climbing crates at the back of the room.  There should be a chainsaw resting against the crates (initially).
 
 ## Mission 3:  Fight: Gore Nest 3
-...
+A Possessed Soldier and Possessed Engineer constitute the pre-fight for this Gore Nest.
+
+Destroy the Gore Nest.
+
+A few Imps and a few Hell Razers will spawn, and the finale is a Hell Knight.
 
 ## Mission 3:  Finding the Blue Keycard
-...
+The map should probably show the Auto-Map - it's on the catwalk area.
+
+Exit through the upper down in this area and you'll immediately run into the Blue Keycard holder (a corpse).  Take the keycard.
+
+Drop down to the area where you "found" the Yellow Keycard.
+This is a good time to get Secret #6???, "Possessed Engineer Model, Vaultguy".
+Look for the 3 streams of molten metal.  Get onto the walkway in front of them, and look straight down to see a little landing just inches above the molten metal.  Jump onto this platform and look for the doll.
 
 ## Mission 3:  Fight: Gore Nest 4
-...
+There's no pre-fight: destroy the Gore Nest.
+
+This two level area has a sheltered locker room on the lower floor, where one Imp will spawn immediately but most of the demons (Imps and Possessed Soldiers) spawn upstairs.  Lob grenades or charge in - eventually they'll come down the stairs, but slowly.
+
+It ends with a Hell Knight - since there's Gas, a chainsaw is a good approach.
+
+The upper story has a Health Station.
 
 ## Mission 3:  Once all four Gore Nests are destroyed
+You may be ambushed by some Imps as you find your way to the waypoint.
+
 The Turbine Room door, which the game will guide you to, is now unlocked.
+
 /PONR/:  Once you enter this area, you can't return to get anything.  Also, you will get a Checkpoint before a big fight, so it is advisable to stock up on supplies before entering.
 
 ## Mission 3:  Fight:  Turbine Room
@@ -485,7 +510,11 @@ This fight as two waves, both consisting of Imps and Hell Razers (XXX: are there
 After completing the fight, exit at the top of the room, on the opposite side as the entrance.
 
 ## Mission 3:  End of Mission
-...
+You come into a hall with Elite Guard #3 propped up on the left side.
+
+Open the Shutters (interact with the screen), to watch a cut-scene with Olivia Pierce.
+
+Immediately after that, an Imp and 2 The Possesseds will spawn.
 
 # Mission 4:  Argent Facility
 ## Mission 4: Introduction
