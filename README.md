@@ -385,14 +385,14 @@ The Main Foundry Area is the large open area with molten metal floors and platfo
 
 ## Mission 3: Fight: The Tunnel Of Secrets
 I'm not really sure where to include this protected tunnel system
-that various points of the Main Foundary Area.
+that connects various points of the Main Foundary Area.
 
 This is more of an exploratory area than a fight, but it is strewn with minor demons.
 
 It is hard to describe all the turns and the 3 entrances to this area,
 but it can be explored easily enough.  Just make sure you find:
-* Codex Entry "..."
-* Secret #4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating red-light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to Secret #4, Elite Guard #
+* Codex Entry "..." in a dead-end room with some armor
+* Secret #4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to Secret #4, Elite Guard #
 
 There are three access points to this convoluted area.
 Here's a description of each of them:
