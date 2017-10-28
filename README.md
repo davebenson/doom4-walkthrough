@@ -41,7 +41,7 @@ DPad Down | ... | Mission Objective Summary
 ## Weapon Use Summary
 
 ### Pistol
-To state the obvious, what the Pistol lacks in power it makes up for by having unlimited ammo.
+What the Pistol lacks in power it makes up for by having unlimited ammo.
 
 The lack of power can be an advantage if you are trying to stun a demon in order to Glory Kill it, if you are trying to extract more stuff from the kill.
 
@@ -52,14 +52,36 @@ There are more important ways to spend one's upgrade points.
 Although the shotgun is eclipsed by the Super Shotgun (which is much better, once upgraded), you'll have no real choice for the first few missions.
 Because of this, it isn't really worth putting Weapon Upgrade points into the shotgun, at least not until later in the game if you are trying to get 100%.
 
-When you get to the first Field Drone, the Shotgun is the only weapon you have to modify, so you have to get a mod at this early point:  go for Explosive Shot, which is easier to use to get the "???" Challenge.
+When you get to the first Field Drone, the Shotgun is the only weapon you have to modify, so you have to get a mod at this early point:  go for Explosive Shot, which is easier to use to get the "Twofer" Challenge (for Mission 2).
 
 ### Plasma Gun (available Mission 2)
+Although it's individual shots are rather weak, it fires quite rapidly.
+
+More importantly, Heat Blast is a really powerful Weapon Modification.
+Basically, it allows you to kill everything near you at the same time without using ammo, BUT it requires you to shoot the gun to charge up the blast.
+There 2-4 places you can use the Heat Blast and Quad Damage Powerup to really plow through large numbers of demons.
+
+I haven't found the Stun modification to be very useful.
+
 ### Assault Rifle (available Mission 2)
+
+Each individual shot from the Assault Rifle is rather weak and becomes weaker and harder to hit from a difference.  Few demons can be killed with a single shot;
+expect a cacodaemoon (etc) to take 30+ shots even up close.
+
+The Tactical Scope changes things a bit: it makes the thing pretty effective for sniping, and the upgrades make it pretty damaging.
+Even so, it's a bit tedious killing things with this weapon (just replay Mission 1 and kill all the Possessed before you jump into the first fight - it's not hard, but it's boring).
+However, it makes for a nice change, since the opportunities for sniping are few in this game.
+
+The Mini-Missiles seems like a cool upgrade but they aren't that powerful or predictable.  One nice use is for dealing with multiple Lost Souls.  Most other monsters are too strong for this to be an elegant attack.
+
 ### Super Shotgun (available Mission ???)
+
 ### Chain Gun (available Mission 6)
+
 ### Gauss Cannon (available Mission 5)
+
 ### BFG (available Mission ???)
+
 ### Chainsaw (available Mission 2)
 This crazy melee weapon will definitely kill any monster in range that
 you have enough fuel to kill.
@@ -229,16 +251,21 @@ After that, open the door with the waypoint to meet the Possessed Engineer.  Sho
 A battle awaits after opening the next door.
 
 ## Mission 2:  Fight:  U-shaped catwalk area
-...
+This can be a difficult fight, but judicious use of Grenades, Barrels, and Possessed Engineers can make it fairly painless.
 
-Post Fight:  There's a Codex Entry "..." and a door.
+Post Fight:  There's a Codex Entry "Environments / Resource Operations" and a door.
 
-You can enter the room through a path with more goodies but looking for the control console that you can interact with "...".  This will stop the fast moving elevators at the central part of the U.  Climb up the elevators and enter through the second story for health, armor, and shotgun ammo.
+You can enter the room through a path with more goodies by looking for the control console that you can interact with "...".  This will stop the fast moving elevators at the central part of the U.  Climb up the elevators and enter through the second story for health, armor, and shotgun ammo.
 
 No matter which way you go, you'll be in a locker room with some Shotgun Ammo, the Chainsaw, and a Health Station.
 
 ## Mission 2:  Fight:  Industrial Train Depot
-...
+A long hallway fight, with a bit of a side-corridor at the end.
+
+You can fight it from the entrance gate, or you can charge in.
+It doesn't really make much difference.
+
+??? Checkpoint
 
 ## Mission 2:  Getting the yellow keycard
 Cross the train-tracks on the far-side of the room from your entrance.  You will see a gas canister across the tracks.  Turn left and carefully go through the hatch which automatically opens and closes.  It is an elevator.  When the door opens on the upper level, there should be a large armor.  Take it and go forward.  There should be a train on the left leading back to the Industrial Train Depot, and on the right is a Security Station.
@@ -342,7 +369,7 @@ Enter the central room and watch the cut scene.
 
 I recommend directing the Argent Energy toward your Health.
 
-# Mission 3:  Foundry
+# Mission 3:  Foundry "Meltdown"
 
 This mission has 4 Gore Nests you need to destroy.
 The first two can be destroyed at any time.
@@ -356,38 +383,61 @@ Here's a quick description of each Gore Nest:
 
 The Main Foundry Area is the large open area with molten metal floors and platform-walkways.
 
+## Mission 3: Fight: The Tunnel Of Secrets
+I'm not really sure where to include this protected tunnel system
+that various points of the Main Foundary Area.
+
+This is more of an exploratory area than a fight, but it is strewn with minor demons.
+
+It is hard to describe all the turns and the 3 entrances to this area,
+but it can be explored easily enough.  Just make sure you find:
+* Codex Entry "..."
+* Secret #4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating red-light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to Secret #4, Elite Guard #
+
+There are three access points to this convoluted area.
+Here's a description of each of them:
+
+* Gore Nest #2 Access
+  * From Tunnel: look for ...
+  * From the vicinity of Gore Nest #2: ...
+* ...
+* ...
+
 ## Mission 3:  Gore Nest 1
 From the entrance area, exit into the Main Foundry Area.
 Jump left over a gap in the catwalk.  To the right is a Possessed Soldier you can Death-From-Above Glory Kill (as needed for the combat challenge) and many possessed you can kill with one barrel (another Combar Challenge).
 
 Go back, though, through the door and find a Field Drone.
 Use it as you wish (I tend to like Assault Rifle's Tactical Scope).
+There is also Codex Entry "Environments / Foundry" here.
 
 Keep going back past some firey doors to a control console.  You can try to unlock the door (you don't have access) or watch a replay to see where the Yellow Keycard Guard has gone.
 
 If you turn so we are facing away from the control console, there are two passages: the entrance on the right, and the left passage has the keycard.
 
-If you enter that passage, you'll see that the catwalk has broken, and you should see a guard on the other side.
+If you enter that passage, you'll see that the catwalk has broken, and you should barely be able to see a deceased guard on the other side, leaning against a non-functional door:  he has your Keycard.
 
-If you try to jump across, you'll land on a platform below.  To your right is a small room with an Elite Guard.
+If you try to jump across, you'll land on a platform below.  To your right is a small room with Elite Guard #1.
 
-Follow the green light to jump around and get up to a platform at the same height as you started.  The highest platform should say MIXON.  Look around at you should see a square opening you can jump into:  this is a SECRET, there is some armor here.
+Follow the green light to jump around and get up to a platform at the same height as you started.  The highest platform should say MIXOM.  Look around at you should see a square opening you can jump into:  this is Secret #1, there is a suit of armor here.
 
 Finally, jump to the platform you could see from across the gap.  Interact with the corpse to grab his biometric ID (ie his arm).  You can jump the gap easily in this direction.  The flaming door ahead is where the Gore's Nest is located.
 
 Go to the control console and use the dude's arm.  Turn left twice to find the Gore's Nest.
 
 ## Mission 3: Fight: Gore Nest 1
-...
+This fight takes place in a somewhat dim and dirty one-story area.
+But, it's just ~5 Imps and ~3 Hell Razers so it is fairly quick.
 
 ## Mission 3: Gore Nest 2
 This gore nest is the only one in the Foundry's Main Area.
 
-## Mission 3: Fight: Prefight for Gore Nest 2
-A good place to use the heat blast, and a fine place to work on the Curb Stomp combat challenge.  This is a mix of The Possessed, Possessed Soldiers, Imps.
-
 ## Mission 3: Fight: Gore Nest 2
-As suggested by the gas tank, you may wish to use chainsaw here since you might be low on ammo.  Otherwise, just use a mix of weapons; I often mostly use Heat Blast here.  This is a mix of Possessed Soldiers, Imps, and Hell Razers.
+Pre-Fight: A good place to use the heat blast, and a fine place to work on the Curb Stomp combat challenge.  This is a mix of The Possessed, Possessed Soldiers, Imps.
+
+Gather supplies then destroy the Gore Nest.
+
+As suggested by the Gas tank near the Nest, you may wish to use chainsaw here since you might be low on ammo.  Otherwise, just use a mix of weapons; I often mostly use Heat Blast here.  This is a mix of Possessed Soldiers, Imps, and Hell Razers.
 
 ## Mission 3: Fight: Obtaining the Yellow Keycard
 To get here, go out of the Field Drone area, and go straight veering around the Blue Keycard Area.  Before you enter, you may see some Plasma Ammo.
@@ -398,7 +448,7 @@ Taking the Keycard creates a Checkpoint.
 
 ## Mission 3: Fight: Getting Away with the Yellow Keycard
 
-Exiting the area triggers the creation of 2 Imps, a Hell Knight, and (down the hall) 2 Shielded Soldiers.  I usually run to the Field Drone location, lobbing a grenade behind me.
+Exiting the area triggers the creation of 2 Imps, a Hell Knight, and (down the hall) 2 Possessed Securities.  I usually run to the Field Drone location, lobbing a grenade behind me.  The Hell Knight is the only big problem - in fact, often the other attackers will fight themselves to nothing if you merely wait.
 
 ## Mission 3: Using the Yellow Keycard
 As you approach the yellow keycard door, a Hell Knight will surprise you.
@@ -614,6 +664,16 @@ The bridge starts with a crate and some Rockets.
 Use the crates to jump left onto the bridge proper.
 Continue along.
 You'll jump down to a platform.
+
+At this point, you can expect to be ambushed by ~8 Imps, 2 at a time.
+They are all over this gigantic damaged catwalk bridge,
+you can kill them, ideally by Glory Killing them from behind,
+to work on achieving the Chiropracter Challenge.
+
+As you are working over, you'll go through a pair of tunnels.  These are an indicator that you need to jump across the gorge.
+
+Turn left and follow the greenlit path to a "secret" guardhouse with a bunch of The Possesseds, a Possessed Engineer, and, on the bridge, a Possessed Security.
+
 ...
 
 ## Mission 5: The Far Side of the Bridge
@@ -1714,9 +1774,13 @@ Drop down to hear a demonic voice say "Kill Him".
 Checkpoint.
 
 ## Mission 13: Fight: Big Fight 1
+...
 ## Mission 13: Fight: Big Fight 2
+...
 ## Mission 13: Fight: Big Fight 3
+...
 ## Mission 13: Boss Fight: ...
+...
 
 # Ultra-Nightmare Practice Sheet: Abbreviations
 Abbreviations for the Demon that killed you:
