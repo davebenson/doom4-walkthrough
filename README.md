@@ -99,13 +99,14 @@ Fuel to kill various demons:
 * Shielded Guard: 1
 * Hell Knight: ???
 * Hell Razer: 1
-* Mancubus: ???
+* Mancubus: 5
 * Cyber-Mancubus: ???
 * Summoner: 3
 * Cacodaemon: 3
 * Pinkie: 3
 * Spectre: ???
 * Revenant: 3
+* Hell Baron: 5
 
 # Your Dossier
 
@@ -740,17 +741,28 @@ In total, there's about 3 Possessed Soldiers, 3 Hell Razers, 3 Possessed Enginee
 
 ## Mission 5: Maintenance Hanger miscellany
 
-Enter the locker room and retrieve the Jump Boots (as well as a Codex Entry and Shotgun Ammo).
+Enter the locker room and retrieve the Jump Boots, as well as a Codex Entry "Environments / Argent Energy Tower", various Ammo, and a Health Station.
 
-Exiting the locker room, go right and double-jump up onto a platform;
+Exiting the locker room, go right (back toward the entrance) and double-jump up onto a platform;
 U-turn and look left for another platform to up-jump.
-Then down-jump into an enclosed area with a Rune Challenge,
-suit of armor, and gas can.  To exit this area, jump down.
+Then down-jump into an enclosed area with a Rune Challenge (which was visible from before through some steamy glass),
+a suit of armor, and Gas can.  To exit this area, jump down.
 
-Jump up the same platforms used to access the Rune Challenge, but look across the area for a floor you can jump to, under a low-beam; some armor is at the end of the jump.
-To the right is a crate and some rockets, but ignore them for now, and go left.
-There is a platform to jump up on, and if you look around, you'll see another green-lit platform above to jump on.
-Looking around from the top platform, you should see a short alcove that you can jump into:  there's an Argent Cell here.
+Jump up the same platforms used to access the Rune Challenge #1 "Ammo Boost", but look across the area for a floor you can jump to, under a low-beam; some armor is at the end of the jump.
+To the right is a crate and some rockets,
+but ignore them for now,
+and go left.
+There is a platform to jump up on,
+and if you look around,
+you'll see another green-lit platform above to jump on.
+Looking around from the top platform,
+you should see a pink-lit short alcove that you can drop into:
+there's Secret #1, Argent Cell #1 here.
+
+Hints on Rune Challenge, "Ammo Boost".
+The challenge is to not miss anyone - I find that I jump make 1 1/4 laps around the periphery of the area, looking into the center to shoot any stragglers.
+
+Ammo Boost isn't exactly necessary, but it (and its upgrade) make ammo much more available - especially BFG ammo, once you have the Upgrade and of course the BFG itself.
 
 ## Mission 5: Crossing the Bridge, and Secret Guardhouse
 Before crossing: make sure you have Argent Cell #1 and Rune Challenge #1.
@@ -765,39 +777,53 @@ They are all over this gigantic damaged catwalk bridge,
 you can kill them, ideally by Glory Killing them from behind,
 to work on achieving the Chiropracter Challenge.
 
-As you are working over, you'll go through a pair of tunnels.  These are an indicator that you need to jump across the gorge.
+As you are working over, you'll go through a pair of tunnels.  The flat area ahead is where I usually kill the Imps, letting them come to me.  It's big enough that I can often get a few Neck Glory Kills.
 
-Turn left and follow the green-lit path to a "secret" guardhouse with a bunch of The Possesseds, a Possessed Engineer, and, on the bridge, a Possessed Security.
+From the tunnels, you can and should access a Field Drone and a secret.  Get on top of either tunnel, and double-jump across to a platform (it has a green light).  Jump left up a series of airy platforms to an enclosed bluish area with 8 The Possessed stumbling about with a Possessed Engineer on the upper deck (near a suit of armor).
+Right outside (on a bridge) is a Possessed Security.
 
-...
+Across the bridge is a guard house, which is Secret #2.  Inside is a Hell Knight who will charge at you; and 2 Possessed Soldiers and a Possessed Security who will stay in the shed.  Take them out to find Field Drone #1, some health, Codex Entry "Monsters / Revenant".  Continue along a walkway to some armor.
+
+When done, jump down to a long walkway that goes almost the whole length of the bridge.  There's a long gap that have been torn apart: you'll have to double-jump.
 
 ## Mission 5: The Far Side of the Bridge
-Elite Guard below.
+After the destroyed section of the bridge, look down and right to see Elite Guard #1 (Secret #3) propped up against a wall.  Jump down.  Getting back up is slightly more difficult: jump across the gap them nearly vertically up a few ledges, looking for green lights (a yellow ledge for the last jump).
 
 Note:  You can get back, but it's not necessary and more difficult than jumping forward.
 
 Cut scene.
+
+Enter the next room to find a Health Station, Codex Entry "Monsters / Summoner", and most important Auto-Map.
+
+## Mission 5: Fight: Tower Exterior
+Enter the next area to surprise 2 Imps.  Looking at the Imps, there's some Plasma ammo to your left.  Ahead, the platform has an upper outer story and a lower inner story.  Further ahead, on a higher platform, is a Quad Powerup - it glows purple brightly.
+
+It's fairly easy to get a Neck Glory Kill on an Imp, then grab the Quad Powerup and use Plasma Gun / Heat Blast to kill basically everything.
+
+The monsters who are here or will spawn are many Imps and Hell Razers, and 2 Summoners.
+
+Leave this area through a Maintenance door on the far end.
 
 ## Mission 5: Lower Railway (Description and Secret)
 As you can probably see by the Map (in the Dossier),
 you are at the outside of the tall circular Argent Energy Tower.
 Unmanned trains run around it's exterior, and you'll encounter them a few times.
 
-You should see such an unmanned train going right every 5 seconds or so.  Follow it, and drop into an unused track.  Keep going, and you should see an entrance to a human-sized passageway on your left.
+You should see such an unmanned train going right every 5 seconds or so.  Use the Munitions Crate, then follow the next convenient train, and drop into an unused track.  Keep going, and you should see an entrance to a human-sized passageway on your left.
 
-Upon entering the passageway, look back to find an Elite Guard.
-Continue to find a Health Station and Codex Page "???".
+Upon entering the passageway, look back to find Elite Guard #2.
+Continue to find a Health Station and Codex Page "Database / Argent Energy".
 
 At some point, the passage becomes narrower and darker, and we can make a detour to get the Collectible doll.
 
-To get Secret #???: "??? Model / ???", re-enter the unused Train corridor at this point (by veering right).  Continuing down the corridor, you'll arrive at an unused, stationary train car.  Get onto it, by double-jumping onto the ledge to your right, then double-jumping onto the train car (don't worry: the upper-train won't hit you).
+To get Secret #4: "UAC Pistol Model / Orangeguy", re-enter the unused Train corridor at this point (by veering right).  Continuing down the corridor, you'll arrive at an unused, stationary train car.  Get onto it, by double-jumping onto the ledge to your right, then double-jumping onto the train car (don't worry: the upper-train won't hit you).
 You should be able to see another dimly-lit ledge near where the upper train cars keep entering.
 I found this jump to be quite tricky. but the trick is that you must be facing at the ledge (ie facing perpendicular to it / straight at it), which mean you must jump almost sideways, which in turn makes dodging the train above more difficult.
 Once you are on this ledge, turn left and go up (parallel to train), then turn around and jump into the hole that the train is entering.
 You must keep moving, but when you run out of floor, drop to the left, and you'll find the Model.
 Drop down the train area to get back to the Elite Guard, and continue back to where the passage narrows and becomes darker.
 
-OK, continue down this short dingy corridor, and you'll find a Hatch, at left, along with some ammo/weapon (XXX).
+OK, continue down this short dingy corridor, and you'll find a Hatch, at left, along with some a rocket launcher.
 
 /PONR/: Dropping down this hatch is irreversible, and a Checkpoint is created immediately on hitting the ground.
 
@@ -808,43 +834,70 @@ Use the Rocket Launcher or Gauss Cannon (etc) to damage this guy before running 
 
 Once you damage a lot of demons, look for the Yellow Lift that jams you into a Qad Powerup.  Use Plasma Rifle's Heat Blast to kill a lot of demons.
 
-Post-Fight:  pick up all the Gas and Ammo, then go to the waypoint to enter a control console lounge.
-???
-Use the Health Station and interact with the screen.
 
-...
+Post-Fight:  pick up all the Gas and Ammo.
+
+Midway up there's a tricky little secret.  You'll find to and area where the central red beam (of Argent Energy) since surrounded by rotating metal shields that make a horrible grating sound.
+
+Continue up, across a long jump to where the red beam is protected by shutters that periodically open and close.  Look on the map.  You should see two symmetric arms going up.  But one of them has a walkway underneath.  This is Secret #5 with "Summoner Model, Purpleguy".
+With the In-Flight Mobility Rune, this is a piece of cake, but you don't have that yet, so you'll have to use one of two approaches.
+* You can actually jump on the gray tubes that run to the platform, then jump again onto the platform.
+* Drop from a platform above, and jump in mid-air onto the duct.
+
+Resume climbing: there's a rotating train that repetitively inserts ducts
+into the central beam.  Between when it opens and when it extends the duct,
+you can jump up.
+
+## Mission 5: Fight: Midway
+A fight involving Possessed Soldiers, Imps, Revenants and a Hell Knight breaks out here.  There's a somewhat tricky-to-get-to Invulnerability Powerup that can help.  It can found be looking for the two protected doors a few stories up from the ground level.  One is your waypoint (it has a suit of armor in front) and the over has the green Invulnerability Powerup.  Use the blue lifts to get onto this high area.
+
+After the lockdown is disengaged, continue up to where the waypoint is.
 
 
 ## Mission 5: Activating the Drones
-...
+Use Argent Cell #2 and the Health Station if needed, and interact with the screen (at waypoint): "Activate Drones".
 
-## Mission 5: Secret Original Doom Level Sidetrip
-Immediately upon exiting the office, you should see a drone (one of a pair) coming out of its bay and ascending.  The normal campaign storyline is to take that drone up to the next level.
+This will cause two pairs of cars (drones) to transport stuff vertically from this area to a platform above: we'll catch a lift.
 
-Instead, note that there are 2 Pairs of Drone - 4 Drones total - one pair of Drones is here, the other is on the exact opposite side of the tower.
+Exit the control room and find that there's one pair of drones right in front of you.
 
-Once you get to the opposite side, catch a drone up.  When you get to the top, jump onto the platform above the socket that the drone enters:  you should see a Lever: this actuates the Classic Doom Map.
+Instead, go around to the opposite side of the column where the second pair of drones is (this is also where the Invulnerability Powerup is).
+Jump onto a drone and go up:  you'll see a platform at the top, with (if you look carefully) a lever.  Jump to it and actuate the Lever.  Hitch a ride down with the drone.  At the bottom, the drone will plug into a socket; when it disengages, you'll see Secret #7, the Classic Map "Doom - Halls of the Damned" in the back of the socket.
 
-After pulling the lever, catch the drone back down.  (It's too far to jump the whole way down).  Get off before it enters the socket.
+After that, take any drone up to the top and jump up to the highest platform you can.  You'll see another rotating plug train.  When it stops you should be able to jump straight onto it.  When it stops again, follow the plug and some on to a platform on either side.
 
-Once the drone has left, enter the "socket" it plugged into: this is Secret #???, Classic Map: "..."
+From this narrow inner circular walkway, you'll see 4 arms ascending to the outer side of the tower.  One of them has a couple of platforms by its end: you'll have to take that one, and jump up a few platforms.
 
-After that, go back to the original side of the tower to use the drone as planned.
+Keep going up, steering clear of the argent beams and taking out 4 Imps.  Eventually you can hitch a ride up on one of the argent transfer things.  From the top, the waypoint is right there: a greenlit door to force open.
 
-## Mission 5: Ascending on the Drone
-...
+## Mission 5: Fight: Upper Office
+2 Possessed Solders and a bunch of The Possessed await you inside.
 
-## Mission 5: Fight: Upper Tower Fight
-...
+From the office, take the stairs to a Possessed Security, a Hell Knight, and a few more minor demons.  The passage comes to a dead end.
 
-## Mission 5: Ascending upper Control Office
-...
+## Mission 5: Ascending to the Top
+From the dead end, you can jump across the tracks through a "window".  To your left will be Rune Challenge #2, "Equipment Power".
 
-## Mission 5: Fight: Upper Control Office?? and stairs out
-...
+"Equipment Power" is a pretty easy and fun challenge.  Simply use yourself as bait to lure the Unwilling into barrels that you shoot.  Watch out for Unwilling that spawn behind you though!
 
-## Mission 5: Ascending to ???
-...
+After the Rune Challenge, look back across where you jumped the tracks, and notice a higher platform you can jump to.
+
+You come to a pair of elevator shafts.  The first one (on the left) has a Munitions Crate in plain view.  The second one has a Mega-Health down in the shaft.  Drop down to get it, and retrace your steps.
+
+From the Munitions Crate, jump onto an obvious ledge system to another hallway.
+
+TODO: improve this: There's a landing in back connecting two elevators: Elite Guard #3 is here.
+
+Continue up the stairs and through the door to another elevator shaft on left, and audio of Olivia.
+
+Carefully peer down the elevator shaft - you'll see an opening about 6 lights down:  jump and hold forward to land in it - this is Secret #6.  Here we acquire the Gauss Cannon, the most powerful "standard" weapon.  "Open the Turbine" by interacting with the screen, which will open a exit from the shaft.
+
+Take it, and retrace your steps all the way back up to the top of the shaft.
+Note there's a Hologram (sometimes known as a Decoy) and a Plasma Gun here.
+
+Now, jump up to the landing at the far side of the shaft and look at the shaft ceiling to see 4 red glowing things - each with a waypoint on it.
+
+Shoot them to cause a car to fall exposing another higher landing you can jump to.
 
 ## Mission 5: Pseudo-Fight: Before the Countdown Ends
 You could conceivably use this to do some Weapon Upgrade Challenges or
@@ -852,7 +905,7 @@ Rune Challenges, but I usually focus on trying to conserve my 200/200 which mean
 
 TODO: Timings
 
-# Mission 6:  Kadingir Sanctum
+# Mission 6:  Kadingir Sanctum "Into the Fire"
 
 ## Mission 6: Fight: To get the Yellow Skull
 Because there are no Checkpoints, this sequence of fights is gathered together.
@@ -874,7 +927,7 @@ Quickly jump down the Pit area, to trigger two waves:
 ## Mission 6:  Accessing and Using the Yellow Skull
 The game's waypoint will lead you to a switch (only accessible once all the above demons are killed).  After actuating the switch, walk across the pit to a newly opened area with armor and the Yellow Skull.
 
-Now, find the Yellow Skull Door, by walking up the path from where the last fight started.  Open the Door to walk in and find Slayer Testament ???, and an Elite Guard.
+Now, find the Yellow Skull Door, by walking up the path from where the last fight started.  Open the Door to walk in and find Codex Entry "Artifacts / Slayer's Testament #1" and Elite Guard #1.
 
 Proceed onward to the next fight.
 
@@ -897,7 +950,7 @@ Continue down a passage to watch a series of islands appear, in the large cavern
 You can jump directly to the nearest island, or jump down and make slightly easier jumps up the islands.  In either event, a Skull-Switch is at the top; pressing it, you'll see a gate lift on the lower level.  Jump down there, killing The Possesseds flailing around.
 
 The green mist will teleport you to the next area;
-before doing that, head right to pick up supplies and Revenant Model (Astroguy) (a Secret).
+before doing that, head right to pick up supplies and Secret #1: "Revenant Model, Astroguy".
 
 Head through the teleporter.
 
@@ -919,7 +972,7 @@ There is a wave of Revenants and a Hell Knight, another Cacodaemon, more Revenan
 Accessing the Rune Challenge requires jumping onto the central Rock that held the Quad Powerup.  Jump onto the smaller upper island (there are two: jump toward the one closer to the Blue Door?).  Then you should see a man-made (or demon-made) ledge to your right, with a few small Healths.
 Jump, and turn around and look up to see a higher island.  Jump to it - then continue the same direction to an upper ledge.  Climb a short ledge to a tunnel leading left to the Savagery Rune Challenge.
 
-After finishing it, go back to the main rock (where the Quad Powerup was), and jump to the "balcony" with the Blue Skull Door.  Interact, and you'll be in a pale green stone hallway: immediately on your right is an alcove containing Gas and an Argent Cell.  Further down, is rockets.
+After finishing it, go back to the main rock (where the Quad Powerup was), and jump to the "balcony" with the Blue Skull Door.  Interact, and you'll be in a pale green stone hallway: immediately on your right is an alcove containing Gas and a Argent Cell #1.  Further down, is rockets.
 
 ## Mission 6: Fight: Misc Small Fights in the Cliff Area
 First up, is 4 Unwilling (good Weapon Upgrade fodder for Super Shotgun or Heat Blast) with a Mancubus, and a second Mancubus that jumps up with the first dies.
@@ -927,14 +980,15 @@ First up, is 4 Unwilling (good Weapon Upgrade fodder for Super Shotgun or Heat B
 Now is not a bad time to use the Invulnerability which is on a lower level near where you exit the tunnel.
 
 Walking along the ledge, some Imps, 2 Lost Souls, a Revenant spawn.
+(Another good strategy here is to retreat and pick them off with the Assault Rifle. Often they'll kill each other)
 
-Island-Jump across to be surprised by 2 Lost Souls, and a Hell Razer.  The HR can be used to work on the Combat Challenge.
+Island-Jump across to be surprised by 3 Lost Souls, and a Hell Razer.  The HR can be used to work on the Combat Challenge.
 
-Walk through the tunnel behind the Hell Razer, and you'll be on a new cliff, with a fire and a Elite Guard.  Look left and down and you'll see the first Cacodaemon.  There is second one, probably behind that rocky pinnacle.  Lock-On Rocket Launcher is a fool-proof way to deal with these guys.
+Walk through the tunnel behind the Hell Razer, and you'll be on a new cliff, with a fire and Elite Guard #2.  First, look left and down and you'll see the first Cacodaemon.  There is second one, probably behind that rocky pinnacle.  Lock-On Rocket Launcher is a fool-proof way to deal with these guys.
 
 Visit the Elite Guard.
 
-Detour for Secret #???:  Jump to the Island with the Armor and jump across to a lower ledge.  Turn right, and a Hell Knight will spawn.  Behind him (to the left) is a small cave with the Chaingun (the cave is the Secret).  Retrace your steps to the spent Elite Guard across the cavern.
+Detour for Secret #2:  Jump to the Island with the Armor and jump across to a lower ledge.  Turn right, and a Hell Knight will spawn.  Behind him (to the left) is a small cave with the Chaingun (the cave is the secret).  Retrace your steps to the spent Elite Guard across the cavern.
 
 Island-Hop using the upper chain of islands.  At the end of this sequence of 5? Islands is a Skull Switch:  you will see the Iron Gate to the next part of the level raise when you actuate it.
 
@@ -954,14 +1008,14 @@ You can continue up the stairs for the main campaign path, or you can return to 
 
 The right-hand cave has a suit of armor and an Automap.
 
-The left-hand cave has a teleporter to a treasure room of sorts with a recording.
-You could teleport back, but instead look for the exit corridor and find a Codex Entry and an Elite Guard.
+The left-hand cave has a green teleporter to a treasure room of sorts with Codex Entry "Artifacts / Slayer's Testament #2".
+You could teleport back, but instead look for the exit corridor and find another Codex Entry "Environments / Kadingir Sanctum" and Elite Guard #3.
 
-Finish the detour by following the corridor and using the yellow lift to cross the chasm.  If you go straight, then left, you should see the stairs leading down to the Rune Challenge (and likely a suit of armor on them).
+Finish the detour by following the corridor and using the yellow lift to cross the chasm.  If you go straight, then left, you should see the stairs leading down to Rune Challenge #2 (and a suit of armor).
 
-Descend the stairs about halfway (above the decorative gate) and look for a ledge to the left you can jump onto to find a secret:  the Mancubus Model Redguy.
+Descend the stairs about halfway (above the decorative gate) and look for a ledge to the left you can jump onto to find Secret #3: "Mancubus Model, Redguy".
 
-Back at the top of the stairs, find a Field Drone (nows time to get the Gauss Cannon's Siege Mode) and a Codex Entry "Artifacts / Doom Marine".
+Back at the top of the stairs, find a Field Drone #1 (now's time to get the Gauss Cannon's Siege Mode) and a Codex Entry "Artifacts / Doom Marine".
 
 A few stray small armor mark the top of a steep staircase.  Descend it to see a holographic replay of Dr Hayden and some guards.
 
@@ -984,7 +1038,7 @@ Finally, 2 Hell Barons spawn.  I use the Quad Powerup and the Super Shotgun.  If
 ## Mission 6:  Onward, after a short Secret Detour
 
 OK, go back to the large main arena from the last fight.  There is a big cave.
-Inside the cave (which can be a bit dark) is a lever: an Original Doom Level trigger.  The location of the level itself is on the lower floor closer to where you entered the arena, or simple walk off the ledge between the two subarenas, and drop down.
+Inside the cave (which can be a bit dark) is a lever: an Original Doom Level trigger.  The location of Secret #5or6, Classic Map "Doom - Slough of Despair" itself is on the lower floor closer to where you entered the arena, or simple walk off the ledge between the two subarenas, and drop down.
 
 Or use the map: it looks quite distinct with a visible arrow drawn into the map in the Dossier.  Once there, the arrow marks the correct switch to press (ie the Left switch).  It accesses a Mega Health Bonus (although crudely rendered, it is just as effective as a modern-looking one).
 
@@ -1003,7 +1057,7 @@ Go ahead and island-hop over to the largest platform which should have some shot
 Continue up some stairs, to find 4 more Unwilling wandering around some armor:
 good target fodder.
 
-A Codex Entry "Artifacts: Slayers Testament 3" is found.
+A Codex Entry "Artifacts / Slayer's Testament #3" is found.
 
 The last easy fight is about 5 Imps fighting 10 Unwilling.  (I like to work on the Savagery Rune and the Seek and Destroy Rune for this easy fight).
 
@@ -1026,7 +1080,7 @@ Walk up the hill to a holographic replay of some sort of ritual with a casket???
 
 Interact with the screen ??? to exit the level.
 
-# Mission 7:  Argent Facility (Destroyed)
+# Mission 7:  Argent Facility (Destroyed)  "Hell on Mars"
 
 ## Mission 7: Introduction
 
@@ -1045,9 +1099,9 @@ Immediately upon exiting this area, turn right, to see a right-dirt floored alco
 
 Now, jump your way up to the highest accessible walkway.
 
-You'll get a checkpoint shortly before a long double-jump.  It's not really difficult though.  Continue until you are looking into a damaged corridor which crosses the chasm.
+You'll get a Checkpoint shortly before a long double-jump.  It's not really difficult though.  Continue until you are looking into a damaged corridor which crosses the chasm.
 
-Drop into the hallway through the gaping hole in its roof.  Turn around to find an Elite Guard (along with some armor and shotgun ammo).
+Drop into the hallway through the gaping hole in its roof.  Turn around to find an Elite Guard #1 (along with some armor and shotgun ammo).
 
 Go forward to the computer area.  Find a Codex Entry "Environments / Argent Facility".
 
@@ -1487,7 +1541,7 @@ When the fight is over, jump into the red teleporter.
 # Mission 10: Titan's Realm
 
 ## Mission 10: Introduction
-From the walkway, find Codex Entry "Artifacts / Slayer's Testament: IV".
+From the walkway, find Codex Entry "Artifacts / Slayer's Testament #4".
 
 ## Mission 10: First Fight
 Jump far down to a bloody pit to be immediately attacked by 3 Cacodaemons.
@@ -1614,7 +1668,7 @@ Continue along to a barrel at the top of the stairs, if you kick it down you can
 Descend the stairs and quickly look back to shoot 2 Lost Souls.  A Mancubus appears at the top of the stairs:  he's a good one to use for the Pin Pops a Balloon Challenge.  If you climb the stairs, 2 more Lost Souls appear.
 
 ## Mission 11: Treats
-A Codex Entry "Artifacts / Slayer's Testament VI", Gas, and an Argent Cell (the last) are found by continuing down the corridor.
+A Codex Entry "Artifacts / Slayer's Testament #6", Gas, and an Argent Cell (the last) are found by continuing down the corridor.
 
 ## Mission 11: Fight: Traps
 Go back up the stairs to where a gate has opened:  you should see a Skull Switch straight ahead in the next room, but as you approach it, a bunch of Unwilling and a Spectre spawn.
