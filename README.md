@@ -28,15 +28,19 @@ It's up to you to stop the unleashed demons.
 ## Controls
 PS 4 | X-Box | Description
 :---: | :---: | ---
-L1 | ... | Use equipment (usually Grenade)
-L2 | ... | Weapon Modifier (meaning depends on weapon)
-R1 | ... | Switch or Select Weapon
-R2 | ... | Fire Weapon
-R3 | ... | Melee Attack / Glory Kill
-DPad Up | ... | Swap Weapon Mod
-DPad Left | ... | Previous Equipment
-DPad Right | ... | Next Equipment
-DPad Down | ... | Mission Objective Summary
+L1 | LB | Use equipment (usually Grenade)
+L2 | LT | Weapon Modifier (meaning depends on weapon)
+R1 | RB | Switch or Select Weapon
+R2 | RT | Fire Weapon
+R3 | Press Right Stick | Melee Attack / Glory Kill
+Square | X | Chainsaw
+Triangle | Y | BFG
+Circle | B | Crouch / Stand (toggle)
+X | A | Jump
+Up Arrow | DPad Up | Swap Weapon Mod
+Left | DPad Left | Previous Equipment
+Right | DPad Right | Next Equipment
+Down | DPad Down | Mission Objective Summary
 
 ## Weapon Use Summary
 
@@ -94,16 +98,16 @@ Fuel to kill various demons:
 * Possessed Guard: 1
 * Shielded Guard: 1
 * Hell Knight: ???
-* Hell Razer: ???
+* Hell Razer: 1
 * Mancubus: ???
 * Cyber-Mancubus: ???
-* Summoner: ???
+* Summoner: 3
 * Cacodaemon: 3
 * Pinkie: 3
 * Spectre: ???
 * Revenant: 3
 
-## Your Dossier
+# Your Dossier
 
 These are accessed by the central button on PS4.
 
@@ -111,6 +115,9 @@ TODO: I'm too lazy to describe these pages in detail, but:
 
 * When you get an Auto-Map, the effect is to enhance the map in your Dossier.  Praetor Suit upgrades can improve the map in various ways
 * The Codex page will let you see if you have missed any Codex Entries
+
+# Navigation
+...
 
 # Mission 0:  Pre-UAC
 
@@ -516,7 +523,7 @@ Open the Shutters (interact with the screen), to watch a cut-scene with Olivia P
 
 Immediately after that, an Imp and 2 The Possesseds will spawn.
 
-# Mission 4:  Argent Facility
+# Mission 4:  Argent Facility "Beginning of the End"
 ## Mission 4: Introduction
 Go forward and Open the Airlock to find yourself in an industrial open-air area:
 immediately in front of you is a trash fire and ahead of you is a blocked-off bridge.
@@ -525,21 +532,25 @@ Look left.
 There should be a octagonal structure with 2 Platforms, a Lower one and an Upper one.
 Jump to the Lower Platform.
 Now, look left for some green marker lights on the cliff-like rocks.
-Jump up a few of them (follow the green strip lights), and on to the Upper Platform.
+Jump up a few of them (follow the green marker lights), and on to the Upper Platform.
 
-Now, look for an broken bridge - jump there and cross another small bridge, to your first Rune Challenge: "Vacuum".
+Now, look for an broken bridge - jump there and cross another small bridge, to your first Rune Challenge: "Vacuum".  This challenge is not too bad, and the rewards are quite good, so you should do it.  Time is really of the essence on this challenge.
+
+After succeeding at the Rune Challenge, the Rune is NOT automatically equipped, so go to the Rune section of your Dossier and select the Vacuum Rune.
 
 If you want, grab the ammo on the right pathway, but the mission continues to the left.
 
-In front of a closed door, you'll see some Health and Ammo.
-Less obviously, befind some barrels to the left, is a Classic Doom Level Lever.
-Pull it: the level itself will be easy to see ahead.
+In front of a closed door, you'll see some Health and Ammo,
+and a Codex Entry "Environments / Argent Facility".
+Less obviously, befind some barrels to the left, is a Classic Doom Level Lever -
+the lever is in the dark and hard to see.
+Pull it: the "retro" level itself will be easy to see ahead.
 
 ## Mission 4: Fight: Gore Hallway
 Enter the automated door to a hallway that has been thoroughly decorated with entrails.
-Midway down this hall, to your right, is (assuming you pulled the lever above) the Secret #?, Classic Map "...".
+Midway down this hall, to your right, is (assuming you pulled the lever above) the Secret #5, Classic Map "Doom - Toxin Refinery".
 
-Continue out the hall to run into 2 Shielded Guards and a bunch of The Possesseds.  Some Imps will spawn soon; once you kill them you'll get more Imps and a Hell Knight.
+Continue out the hall to run into 2 Possessed Securities and a bunch of The Possesseds.  Some Imps will spawn soon; once you kill them you'll get more Imps and a Hell Knight.
 
 You can retreat into Hall (and it can be a good way to start the fight, say, with a few Grenades).  But the new monsters will start to spawn behind you, and it may be easier just to stay in the open.
 
@@ -557,9 +568,9 @@ You'll have to deal with 2 Hell Knights, 2 Hell Razers, and a bunch of Imps.
 Checkpoint.
 
 It's probably worth going back to the Blockade you entered from, and look around for a cave (it'll be on the left as you walk toward the Force Field).
-The cave is Secret #???, Elite Guard #???.  There's some ammo (etc) here.
+The cave has Elite Guard #1.  There's some ammo (etc) here.
 
-# Mission 4: Fight: Argent Cell
+## Mission 4: Fight: Argent Cell
 (It might seem logical to destroy the Argent Filter associated with the Gore Nest first, but due to how the Checkpoints work, I suggest doing things in this order)
 
 You can now go and destroy the Argent Filter, but I think it makes sense to first deal with the Argent Cell.
@@ -572,34 +583,76 @@ Once they are gone, Checkpoint.
 
 Now, find Argent Cell #1 behind some tanks.  Use it: most players will opt for Health.
 
-# Mission 4: Argent Filter associated with Gore Nest #1
-...
+## Mission 4: Argent Filter associated with Gore Nest #1
+Open the small door on the lower floor near the Gore Nest's old location.
+Enter to find a Possessed Engineer and a few The Possesseds.
+There is also a Codex Entry "Personnel / VEGA".
+Make a left to follow the waypoint and interact with the Argent Filter
+for a cut scene.
 
-# Mission 4: Fight: Upper Level Gore Nest #2
+## Mission 4: Under the Force Field (Optional)
+There's a small treasure area directly below the big blue force field.
+Face it, and go left down a path (which has a Munitions Crate).
+Turn right and descend 3 floating Islands of rock to get to a partially open bay door (visible from above).
+
+Inside you'll find Gas, shotgun and plasma ammo, and a little armor.
+But most importantly Field Drone #1.
+
+## Mission 4: Fight: Tank Gore Nest #2
 Near the entrance for the Argent Cell building, find two stacked crates, and a suspended one:  these can be climbed, and from the top of the suspended crate, you can jump to the second floor of this building.
+
+This battlefield is distinguished by a recognizable and large Union Aerospace tank (which you can jump on).
 
 Pre-Fight: 3 Imps run down from above very quickly, be prepared to take care of them.
 
-...
+Fight:  Imps and Hell Razers with 2 Hell Knights.
 
-# Mission 4: Argent Filter associated with Gore Nest #2
+## Mission 4: Argent Filter associated with Gore Nest #2
 Go into the closest door to Gore Nest 2, on its same level - it is somewhat inset - a waypoint should be leading in this general direction.
 Inside the building, go along the walkway to a closed green door with the waypoint behind it by 15 meters.
 Enter and interact to destroy the Argent Filter #2 and get a Checkpoint.
 
 There is also a Plasma Rifle here.
 
-# Mission 4: Rune and Secret
+## Mission 4: Rune and Secret
 From the small room containing the Argent Filter, turn right to a large floor with large lifts.  You can probably see the glowing green Rune Challenge #2: "Dazed and Confused" on the lift in the opposite corner of the building (from the entrance, look at the opposite corner - the rune is on the structure just to the right of center).
 
-Once done with the rune, look for a large hole that is serviced by a lift (now down).  Jump down there, and into a hallway.  On the left you should see a small block on a larger block, making a natural stairway.  Climb up, and turn right to see a service walkway which you can jump onto to find Secret #???, "??? Model, ???guy".
+Once done with the rune, look for a large hole that is serviced by a lift (now down).  Jump down there, and into a hallway.  On the left you should see a small block on a larger block, making a natural stairway. (A drone delivers it- wait a few seconds if the blocks aren't climbable.)  Climb up, and turn right to see a service walkway which you can jump onto to find Secret #2, "Hell Knight Model, UACguy".
 
-# Mission 4: Fight: Lab (Optional)
-This area has a Health Station, Field Drone, etc, but isn't necessary to the completion of the Mission.
+## Mission 4: Back Access Walkway (Secrets, Optional)
+This lonely walkway is the only dirt path descending from Gore Nest #2 / Union Aerospace Tank.
+It provides alternate accesses to a Lab and the Icy Gore Nest #3; these are described below.
+It has a broken bridge midway.
+
+If you face the Union Aerospace text on the large tank,
+go down the dirt walkway to its left.  It is the only dirt walkway descending from this area - it'll turn to a metal grated walkway - then there's a gap you must jump.
+
+Look to your right for a misty cargo alcove with a lone crate.  Jump on it to get to the second level.
+
+You should find a Munitions Crate here.
+
+A single Imp will pop out if you follow the walkway to its end.
+
+If you stand on the platform at the edge of building, you should see a rectangular duct that runs along the outside of the structure.  Walk on it for a bit until you get to the next alcove: enter to find Secret #3, "Rocket Launcher Model, ???guy".
+
+Go back to the first alcove, but jump across to a green-lit cliff; jump again to a walkway and kill a few demons (a Possessed Engineer and a few Possesseds).
+(This is helpful to get the maximum combat rating)
+
+Finally, go to the end of the walkway (it becomes a catwalk) to a door (entrance to the Icy Area).  Watch out for the Imp!  At the end, go left onto a natural walkway.  This is Secret #4?.  There's a Possessed Engineer and a few Possesseds, but most importantly, the Super Shotgun.
+
+## Mission 4: Lower Area with Elite Guard #3
+Start at the Force Field (Gore Nest #1) - when facing the field, go down the path to the left.
+
+You should see an active door, and a series of plateaus that lead to a Munitions Crate.  Immediately to the right of that is a level path that becomes a sidewalk for a building.  Some Possesseds appear here.  At the end of the walkway is Elite Guard #3.
+
+## Mission 4: Fight: Lab (Optional)
+This area has a Health Station, Field Drone #2, Gas, and Codex Entry "Monsters / Hell Razer", but isn't necessary to the completion of the Mission.
+
+Field Drone #2 is on the upper level - it can sometimes take a few seconds to fly in once combat is over.
 
 It has two entrances:
-* Normal: From the site of Gore Nest #2, climb a crate to a balcony.  The door enters the middle story of the Lab.
-* Sneaky: From the site of Gore Nest #2, walk down a dirt path to an enclosure with some blocks on your right. If you look up, you should see a greenlit ledge to your left, which is your goal.  Climb ontp the blocks, at right, then onto a grating looking onto the greenlit cliff.  Jump across and open the door to be in the lower story of the Lab.
+* Normal: From the site of Gore Nest #2 / the Union Aerospace Tank, climb a crate to a balcony.  The door enters the middle story of the Lab.
+* Sneaky: From the site of Gore Nest #2, walk down a dirt path to an enclosure with some blocks on your right. If you look up, you should see a greenlit ledge to your left, which is your goal.  Climb onto the blocks, at right, then onto a grating looking onto the greenlit cliff.  Jump across and open the door to be in the lower story of the Lab.
 
 The Possessed Guards tend to be in the lower story and entering there catches them more unawares, maybe.
 
@@ -607,7 +660,8 @@ There are also 5? Imps and a bunch of Possesseds and Possessed Engineers.
 
 You'll get a Checkpoint when the bad guys are cleared.
 
-# Mission 4:  Fight: Icy Gore Nest #3
+
+## Mission 4:  Fight: Icy Gore Nest #3
 There are 3 entrances to this area:
 * Lower Entrance: from Gore Nest 2, go down ... to a active motion-sensing door.
 * Mid-Lower Entrance: ... [on opposite side of building]
@@ -618,21 +672,31 @@ It matters little.
 Prefight: you'll have to deal with 5? Imps and 2? Possessed Soldiers and a 
 bunch of The Possesseds.
 
-Post-Fight:
-Secret #???: You can actually use this area during the fight, but it's probably best to wait until the post-Gore Nest Checkpoint.  From the gore nest, go toward the two-level greenish area ???.  The door is not visibly active, but you can interact to open it for the Secret, and the Auto-Map.
+Secret #1: You can actually use this area at any time.  
+It is the through the door on the lowest floor area.
+There's the Auto-Map in here, and it'll Checkpoint.  Of course, the Auto-Map achieves the "Bird's Eye View" Combat Challenge.
 
+Fight: Once the Gore's Nest is destroyed, 1 Hell Knight spawns immediately along with a wave of Hell Razers and Imps.  There's Gas on the second level (and other supplies) in case you want to chainsaw anyone.
+
+Post-Fight:
 Now, go in to destroy the Argent Filter.
 
-There's a Munitions Crate, Gas??, a Health Station, Codex Entry "...".  Destroy the Argent Filter and go outside for the last battle in this icy area.
+There's a Munitions Crate, Gas??, a Health Station, Codex Entry "Monsters / Hell Knight".  Destroy the Argent Filter and go outside for the last battle in this icy area.
 
-# Mission 4:  Fight: Destroying the Icy Argent Filter
+## Mission 4:  Fight: Destroying the Icy Argent Filter
 This is your introduction to the Summoner.  She will spawn centrally the instant you exit the control booth.  The Rocket Launcher (especially with Lock-On) is a nice approach, as is the Chainsaw, but she can really be killed by any weapon.
 
-Besides her, there are 3? Imps and a Hell Razer.
+Besides her, there are 3? Imps and a Hell Razer, making this an otherwise small fight.
 
 Checkpoint.
 
-# Mission 4: After Destroying the 3 Argent Filters
+I recommend leaving the building through the top exit, above the Auto-Map.
+
+You'll be on a walkaround that going alongside the building, a few Possesseds and a Hell Razer will surprise you be spawning in front of you.
+
+At the end of this walkway, find Elite Guard #2.
+
+## Mission 4: After Destroying the 3 Argent Filters
 
 A new Gore Nest will appear: it's on the upper story and easily visible.
 You have to get to it from the building below, which once housed Argent Filter #2.
@@ -641,16 +705,18 @@ Climb the crates, following the waypoint to the upper-story of the huge hangar, 
 
 Exit the door toward the waypoint (approx 80m away), stocking up first if necessary and possible.  There should be a Munitions Crate ahead, and to the left is the exit to the Gore Nest.
 
-# Mission 4: Fight: Final Gore Nest
+## Mission 4: Fight: Final Gore Nest
 Pre-Fight: there are 2 Possessed Soldiers, a Hell Razer, and an Imp.
 
 Destroy the Nest.
 
 Fight: a Hell Knight and a Summoner are the main act in this fight - there's also a few Imps and Hell Razers.
+However, there's a Beserk Powerup, which compensates a lot (in fact, if you have all the Powerups for the Praetor Suit, you can probably kill everything with that single Beserk Powerup).
 
-# Mission 4: Destroy Primary Argent Filter
 
-Enter the building and face left for Elite Guard #???.
+## Mission 4: Destroy Primary Argent Filter
+
+Enter the building and face left for Elite Guard #4.
 
 Follow the waypoint to another Argent Filter (looks like the others).
 Destroy it, and watch the cut-scene.
@@ -701,7 +767,7 @@ to work on achieving the Chiropracter Challenge.
 
 As you are working over, you'll go through a pair of tunnels.  These are an indicator that you need to jump across the gorge.
 
-Turn left and follow the greenlit path to a "secret" guardhouse with a bunch of The Possesseds, a Possessed Engineer, and, on the bridge, a Possessed Security.
+Turn left and follow the green-lit path to a "secret" guardhouse with a bunch of The Possesseds, a Possessed Engineer, and, on the bridge, a Possessed Security.
 
 ...
 
@@ -726,7 +792,7 @@ At some point, the passage becomes narrower and darker, and we can make a detour
 
 To get Secret #???: "??? Model / ???", re-enter the unused Train corridor at this point (by veering right).  Continuing down the corridor, you'll arrive at an unused, stationary train car.  Get onto it, by double-jumping onto the ledge to your right, then double-jumping onto the train car (don't worry: the upper-train won't hit you).
 You should be able to see another dimly-lit ledge near where the upper train cars keep entering.
-I found this jump to be quite tricky... but the trick is that you must be facing at the ledge (ie facing perpendicular to it / straight at it), which mean you must jump almost sideways, which in turn makes dodging the train above more difficult.
+I found this jump to be quite tricky. but the trick is that you must be facing at the ledge (ie facing perpendicular to it / straight at it), which mean you must jump almost sideways, which in turn makes dodging the train above more difficult.
 Once you are on this ledge, turn left and go up (parallel to train), then turn around and jump into the hole that the train is entering.
 You must keep moving, but when you run out of floor, drop to the left, and you'll find the Model.
 Drop down the train area to get back to the Elite Guard, and continue back to where the passage narrows and becomes darker.
