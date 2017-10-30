@@ -78,13 +78,13 @@ However, it makes for a nice change, since the opportunities for sniping are few
 
 The Mini-Missiles seems like a cool upgrade but they aren't that powerful or predictable.  One nice use is for dealing with multiple Lost Souls.  Most other monsters are too strong for this to be an elegant attack.
 
-### Super Shotgun (available Mission ???)
+### Super Shotgun (available Mission 4)
 
 ### Chain Gun (available Mission 6)
 
 ### Gauss Cannon (available Mission 5)
 
-### BFG (available Mission ???)
+### BFG (available Mission 8)
 
 ### Chainsaw (available Mission 2)
 This crazy melee weapon will definitely kill any monster in range that
@@ -97,15 +97,15 @@ Fuel to kill various demons:
 * Unwilling: 1
 * Possessed Guard: 1
 * Shielded Guard: 1
-* Hell Knight: ???
 * Hell Razer: 1
-* Mancubus: 5
-* Cyber-Mancubus: 5
+* Hell Knight: ???
 * Summoner: 3
 * Cacodaemon: 3
 * Pinkie: 3
 * Spectre: 3
 * Revenant: 3
+* Mancubus: 5
+* Cyber-Mancubus: 5
 * Hell Baron: 5
 
 # Your Dossier
