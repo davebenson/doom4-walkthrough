@@ -108,6 +108,24 @@ Fuel to kill various demons:
 * Cyber-Mancubus: 5
 * Hell Baron: 5
 
+## Level Overview
+Mission | Subtitle | Elite Guards | Argent Cells | Field Drones | Rune Trials | Secrets | Data Logs
+--- | --- | --- | --- | --- | --- | --- | ---
+Mission 1: The UAC | Rip and Tear | 1 | 0 | 1 | 0 | 3 | 2
+Mission 2: Resource Operations | Know Your Enemy | 3 | 0 | 1 | 0 | 8 | 2
+Mission 3: Foundry | Meltdown | 3 | 0 | 1 | 0 | 6 | 3
+Mission 4: Argent Facility | Beginning of the End | 4 | 1 | 2 | 2 | 5 | 4
+Mission 5: Argent Energy Tower | Argent Tower | 3 | 2 | 1 | 2 | 7
+Mission 6: Kadingir Sanctum | Into the Fire | 4 | 1 | 1 | 2 | 6 | 7
+Mission 7: Argent Facility (Destroyed)  | Hell on Mars | 4 | 1 | 1 | 2 | 6 | 5
+Mission 8: Advanced Resource Complex | A Brighter Tomorrow | 3 | 2 | 1 | 2 | 10 | 4
+Mission 9: Lazarus Labs | Lazarus | 4 | 1 | 1 | 2 | 9 | 5
+Mission 10: Titan's Realm | Titan's Realm | 2 | 1 | 1 | 2 | 6 | 4
+Mission 11: The Necropolis | The Crucible | 2 | 1 | 1 | 2 | 3 | 3
+Mission 12: VEGA Central Processing | I am VEGA | 3 | 0 | 0 | 0 | 5 | 4
+Mission 13: Argent D'Nur | The Well | 0 | 0 | 0 | 0 | 5 | 0
+
+
 # Your Dossier
 These are accessed by the central button on PS4.
 
@@ -151,7 +169,9 @@ and decided to write a walkthrough since the one like I wanted didn't exist.
 I found it to be an interesting challenge,
 mostly due to the difficulty of describing locations.
 
-I welcome contributions, compliments, suggestions, errata, strategies, complaints, and donations.  Contact me via github for details.
+I welcome contributions, compliments, suggestions, errata, strategies, complaints, and donations.  Contact me via github for details, or submit bug reports:
+
+        https://github.com/davebenson/doom4-walkthrough
 
 # Mission 0:  Pre-UAC
 
@@ -303,7 +323,7 @@ This can be a difficult fight, but judicious use of Grenades, Barrels, and Posse
 
 Post Fight:  There's a Codex Entry "Environments / Resource Operations" and a door.
 
-You can enter the room through a path with more goodies by looking for the control console that you can interact with "...".  This will stop the fast moving elevators at the central part of the U.  Climb up the elevators and enter through the second story for health, armor, and shotgun ammo.
+You can enter the room through a path with more goodies by looking for a screen in the left of the control console that you can interact to "???".  This will stop the fast moving elevators at the central part of the U.  Climb up the elevators and enter through the second story for health, armor, and shotgun ammo.
 
 No matter which way you go, you'll be in a locker room with some Shotgun Ammo, the Chainsaw, and a Health Station.
 
@@ -440,7 +460,7 @@ This is more of an exploratory area than a fight, but it is strewn with minor de
 It is hard to describe all the turns and the 3 entrances to this area,
 but it can be explored easily enough.  Just make sure you find:
 * Codex Entry "..." in a dead-end room with some armor
-* SECRET 3.4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, Elite Guard #3.1?
+* SECRET 3.4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, ELITE GUARD 3.1???
 
 There are three access points to this convoluted area.
 Here's a description of each of them:
@@ -453,9 +473,10 @@ Here's a description of each of them:
 
 ## Mission 3:  Gore Nest 1
 From the entrance area, exit into the Main Foundry Area.
-Jump left over a gap in the catwalk.  To the right is a Possessed Soldier you can Death-From-Above Glory Kill (as needed for the combat challenge) and many possessed you can kill with one barrel (another Combar Challenge).
+Jump left over a gap in the catwalk.
+To the right is a Possessed Soldier you can Death-From-Above Glory Kill (as needed for the combat challenge) and many possessed you can kill with one barrel (another Combat Challenge).
 
-Go back, though, through the door and find a Field Drone.
+Go back, though, through the door and find FIELD DRONE #3.???.
 Use it as you wish (I tend to like Assault Rifle's Tactical Scope).
 There is also Codex Entry "Environments / Foundry" here.
 
@@ -766,7 +787,7 @@ Destroy it, and watch the cut-scene.
 
 Follow the waypoint and Exit the Facility.
 
-# Mission 5: Argent Energy Tower
+# Mission 5: Argent Energy Tower "???"
 We start the level getting new Jumping abilities, the Jump Boots.
 Then we cross a damaged bridge to the Tower itself.
 
@@ -1493,6 +1514,8 @@ Post-Fight:  Going back to the entrance door of the room, and look at the stone 
 
 There's also a Mega-Health you should take before leaving the backstage area.  (Hint: equip Rich Get Richer before taking the health to get one of the Upgrades)
 
+Cheap Strategy:  If you want to get the Rich Get Richer upgrade in an easy but slightly repetitive way, do NOT get the Mega Health before opening the door.  Instead, open the door, getting a checkpoint.  Then, grab the Mega Health (with Rich Get Richer equipped, obviously), and commit suicide (shoot the ground next to you repeatedly with the Rocket Launcher).  When you revive, you'll have to open the gate again, then repeat (starting with grabbing the Mega Health).  Repeat as many times as you like- you'll probably only get 3 more before Mission 13, which is where it is really useful.
+
 Press the screen as indicated by the in-game waypoint.
 Enter what looks like an elevator to transfer you to the Lazarus Archives.
 
@@ -1503,7 +1526,7 @@ SECRET 9.6 "Samuel Hayden Model, Toxicguy" is found in the circular archive room
 
 The anteroom to Olivia's Lab holds a Codex Entry "UAC Personnel / Olivia Pierce".
 
-After a few screens, you be in Olivia's Private Lab: there's a central hologram of a stone coffin-like thing being guarded.  There's BFG Ammo, a Munitions Crate, an Argent Cell #..., and a screen to interact with.  On the left is a lone dilapidated computer where Demon Destruction can be "played": just interact with the running computer on the side and exit to get the Combat Challenge.
+After a few screens, you be in Olivia's Private Lab: there's a central hologram of a stone coffin-like thing being guarded.  There's BFG Ammo, a Munitions Crate, an ARGENT CELL 9.???, and a screen to interact with.  On the left is a lone dilapidated computer where Demon Destruction can be "played": just interact with the running computer on the side and exit to get the Combat Challenge.
 
 The final screen is back in the circular archive room: be ready for a fight after Dr Hayden rambles on a while.
 
