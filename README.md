@@ -109,17 +109,34 @@ Fuel to kill various demons:
 * Hell Baron: 5
 
 # Your Dossier
-
 These are accessed by the central button on PS4.
 
-TODO: I'm too lazy to describe these pages in detail, but:
+These pages are introduced pretty well described by in-game tutorials,
+so I'm not going to repeat all that information.
 
 * When you get an Auto-Map, the effect is to enhance the map in your Dossier.  Praetor Suit upgrades can improve the map in various ways
+* Weapons and Praetor Suit Upgrades are explained over the first few Missions
+* Tutorial Codex pages are automatically added to the Codex page.
 * The Codex page will let you see if you have missed any Codex Entries
 
 # Navigation
-...
+Your dossier has a 3-d map that is pretty nice,
+but it doesn't give a coordinate system, nor labels for places,
+nor even a reference direction, like North.
+It does provide some icons that can be used as landmarks.
 
+Fortunately, almost every location in this game looks somewhat different, so it's not so bad.  But pay attention to the names given to certain major rooms/locations, since usually if i give it a name, then you run back to it a few times.
+
+# About this Guide
+This is the first Walkthrough I have written.
+I hope you find it useful.
+
+I am no expert game player.
+I just really like this game,
+and decided to write a walkthrough since the one like I wanted didn't exist.
+
+I found it to be an interesting challenge,
+mostly due to the difficulty of describing locations.
 # Mission 0:  Pre-UAC
 
 At the beginning of the game, you wake up chained to an operating table
@@ -1142,7 +1159,7 @@ From the Old Platform Area, there's a blue lift that'll drop you on the rock for
 
 Or, you can jump across from the cargo crates in front of the Security Station Doors.
 
-NOTE: This challenge is frustrating for many people, since it has little margin for error.  However, it is worth the practice, because the Rune is critical for some of the bosses.  See Rune Challenges Section for specific advice.
+NOTE: This challenge is frustrating for many people, since it has little margin for error.  However, it is worth the practice, because the Rune is critical for some of the bosses.
 
 ## Mission 7: Fight: Security Station
 To get here, from the Main Cargo Bay, look for a pile of 3 crates to climb on.  The door should have a marker on it (an in-game destination) and there should be Gas here.
@@ -1196,9 +1213,9 @@ The finale is a Hell Baron, who starts on the far side of the room (with the Hea
 
 ## Mission 7: Post-Fight ??? Cleanup
 
-Pickup all you can.  There should be a screen prompting "Reset Crane to Base?" to access near the bridge over the electrically charged floor.  Actuating the Crane will cause a large suspended block to move within jumping range.  Jump onto it, then jump right onto a catwalk.  The game should let you know you found a secret: this is Secret #5.
+Pickup all you can.
 
-Access the Field Drone: I tend to choose Chain Gun / Mobile Turret here.
+There should be a screen prompting "Reset Crane to Base?" to access near the bridge over the electrically charged floor.  Actuating the Crane will cause a large suspended block to move within jumping range.  Jump onto it, then jump right onto a catwalk.  This is Secret #5: access Field Drone #1 at the end of the U-shaped catwalk.  (I tend to choose Chain Gun / Mobile Turret here.)
 
 Exit through the door near the Health Station.
 
@@ -1233,13 +1250,13 @@ Use the Haste Powerup in the corner whenever you need a boost: this fight isn't 
 
 ## Mission 7: Post Upper Gore Nest
 
-Argent Cell:  Looking back the way you came, you should see a plateau at your elevation: it is easy to get to.  Once there, look down at see the Argent Cell: drop down to it and choose your powerup.
+Argent Cell #1:  Looking back the way you came, you should see a plateau at your elevation: it is easy to get to.  Once there, look down at see the Argent Cell: drop down to it and choose your powerup.
 
 Go back to the site of the Gore Nest, and enter the door.
 
 There is a Pinkie Corpse holding the Yellow Guard Corpse.  You can interact with it to get the Keycard.
 
-There's also a secret here.  Look up for a bloody ledge in the ceiling at the left of the room on entry.  Find Secret #???, "Baron of Hell Model, Patriotguy".
+There's also a secret here.  Look up for a bloody ledge in the ceiling at the left of the room on entry.  Find Secret #1, "Baron of Hell Model, Patriotguy".
 
 Return to get the Yellow Keycard, watch the holographic replay, and use the Yellow Door.
 
@@ -1250,7 +1267,7 @@ Exit the elevator shaft: you should recognize this as the site of an earlier Gor
 ## Mission 7: Fight: Tram Access
 A few Possessed Soldiers and a number of The Possessed lurk here, useful for some Weapon Upgrade tasks.  When ready, interact with the Tram Console to "Resume Route" to finish the level.
 
-# Mission 8: Advanced Resource Complex
+# Mission 8: Advanced Resource Complex "A Brighter Tomorrow"
 
 ## Mission 8: Introductory Lobby (with small Fight)
 Enter a large lobby area, finding a Mancubus killing some The Possesseds.
@@ -1263,7 +1280,7 @@ After exiting the Secret Room, you'll enter a Security Area with 6? The Possesse
 ## Mission 8: Fight: Main Lobby
 Exiting the security area, there's a handful of The Possessed to dispatch.  Then a Possessed Soldier or two, and finally a Shielded Guard and a Hell Knight in the main lobby area.  Keep moving and focus on the meaner demons.
 
-Watch a holographic replay of Dr Hayden and Olivia Pierce arguing about her research.  Meanwhile, pick up a Codex Entry "Environments / Advanced Research Complex 2" from the main desk.  Before you interact with the panel to open the main building, there will be a Checkpoint.
+Watch a holographic replay of Dr Hayden and Olivia Pierce arguing about her research.  Meanwhile, pick up a Codex Entry "Environments / Advanced Research Complex 2" from the main desk.  When you interact with the panel to open the main building, there will be a Checkpoint, so gather supplies before that - the upcoming fight can be a bit difficult.
 
 ## Mission 8:  Fight: Central Area of ARC
 The entryway contains 6 Imps worshipping or something.  Use a grenade or whatever you need for weapon or rune upgrades.
@@ -1390,7 +1407,7 @@ However, one easy BFG blast will take care of both Hell Barons.
 
 To conclude the level, enter the elevator and "Exit Facility".
 
-# Mission 9: Lazarus Labs
+# Mission 9: Lazarus Labs "Lazarus"
 
 ## Mission 9: Intro
 Grab Gas, the Codex Entry "Environments / Lazarus Labs", and recharge your health (you can't get back here).  In the next room you can get the rarely used Siphon Grenade.  Then jump down the chute.
@@ -1404,11 +1421,11 @@ Kill all these guys, and enter the green-lit doorway.
 
 ## Mission 9: More Secrets
 
-Go up some stairs in a red-lit area.  Before continuing on, turn away to see a duct with shotgun ammo.  Jump into the duct, and follow it to a grate, that you must interact with.  Enter Secret #5.  Here is Elite Guard #1 and Codex Entry "??? / Elite Guard 2".
+Go up some stairs in a red-lit area.  Before continuing on, turn around to see a duct with shotgun ammo.  Jump into the duct, and follow it to a grate, that you must interact with.  Enter Secret #5.  Here is Elite Guard #1 and Codex Entry "Database / Elite Guard 2".
 
 Now, continue toward the in-game waypoint.  You'll pass through a transparent walkway while Dr Hayden tries to explain things.  There's lots of activity outside.
 
-At the end of this walkway, find a Field Drone (probably unnecessary if you have used more of the Field Drones up to this point).
+At the end of this walkway, find a Field Drone (probably unnecessary if you have used most of the Field Drones up to this point).
 
 You'll find yourself in a curving hallway with 4 The Possesseds, and a Codex Entry "Monsters / Cyberdaemon 2".
 
@@ -1439,7 +1456,7 @@ Killing those Pinkies will cause the spawning of 4 more Pinkies and a bevy of Im
 
 Cheap Strategy:  After killing the Possessed Soldiers, go into the tunnels behind the stone artifacts.  The monsters (most conveniently, the Pinkies) cannot go back there, but Imps can still fireball you.  You may need to chainsaw someone for ammo: the second Pinkie can be a good choice.
 
-Post-Fight:  Going back to the entrance door of the room, and look at the stone tablet to your left.  There is a gap you can use to enter some access tunnels: this is Secret #3.  In the back, find "... Model, ???guy".
+Post-Fight:  Going back to the entrance door of the room, and look at the stone tablet to your left.  There is a gap you can use to enter some access tunnels: this is Secret #3.  In the back, find "Olivia Pierce Model, Elite???guy".
 
 There's also a Mega-Health you should take before leaving the backstage area.  (Hint: equip Rich Get Richer before taking the health to get one of the Upgrades)
 
@@ -1538,7 +1555,7 @@ Feel free to use all of your BFG ammo.
 
 When the fight is over, jump into the red teleporter.
 
-# Mission 10: Titan's Realm
+# Mission 10: Titan's Realm "Titan's Realm"
 
 ## Mission 10: Introduction
 From the walkway, find Codex Entry "Artifacts / Slayer's Testament #4".
@@ -1839,6 +1856,8 @@ It doesn't seem to matter much what order you go in. (???)
 
 After the Demonic Presence is eliminated, and you have taken all the remaining loot, go to the waypoint and actuate the screen.
 
+Cheesy Strategy:  You can hide behind lowest switch: eventually Pinkies will gang up on you, but then you can take advantage of the Berserk Powerup in the tunnel leading out of the area.  So, the way I usually do the fight is go left past one switch, then go right and jump up across the gap to the second switch.  Use Tactical Scope to take out the first 2 switches from the same vantage.  Then go outside and jump down to the 3rd switch; sometimes a Cyber-Mancubus will spawn there before you jump: either chainsaw him or go over/around.  Destroy the 3rd switch and hide behind it, shooting out with the Gauss Cannon / Siege Mode etc.  At some point, grab the Berserk.  The cool thing about this is that the monsters mostly fight each other.
+
 There's also a Codex Entry in this room: "Monsters / Cyber-Mancubus".
 
 Follow VEGA's suggestion to jump down onto a train below to enter the last big battle on Mars.
@@ -1851,8 +1870,6 @@ You'll ride the train in and a well-timed BFG can take 2 Cacodaemons and the 2 H
 The next wave consists of a few Cyber-Mancubi, 5? Pinkies, and 3? Cacodaemons, along with many Imps.
 
 There are 3 BFG ammo here - so you'll probably want to use it a few times.
-
-...
 
 ## Mission 12: Destroy VEGA
 A waypoint leads to a platform that'll carry you up to ???.
