@@ -100,11 +100,11 @@ Fuel to kill various demons:
 * Hell Knight: ???
 * Hell Razer: 1
 * Mancubus: 5
-* Cyber-Mancubus: ???
+* Cyber-Mancubus: 5
 * Summoner: 3
 * Cacodaemon: 3
 * Pinkie: 3
-* Spectre: ???
+* Spectre: 3
 * Revenant: 3
 * Hell Baron: 5
 
@@ -127,6 +127,19 @@ It does provide some icons that can be used as landmarks.
 
 Fortunately, almost every location in this game looks somewhat different, so it's not so bad.  But pay attention to the names given to certain major rooms/locations, since usually if i give it a name, then you run back to it a few times.
 
+# Using this Guide
+Secrets, Field Drones, Argent Cells, Rune Challenges are all written in uppercase at their secret location, with dotted notation where the first number is the mission and the secret is the index of the location in the Dossier Overview/Map page.  For example, SECRET 14.3 would be the third secret in the dossier in mission 14 (but there's really only 13 missions).  This is intended to facilitate searching.
+
+As a perhaps dubious consistency I will use all-caps the first time you meet a monster or can collect a weapon.  Subsequently, I will use title case.
+
+(In the case of monsters, there are two grammatically annoying ones: The Possessed and Possessed Security.  I'm just going use them like they were real nouns, and i'll therefore pluralize them as The Possesseds and Possessed Securities.)
+
+I will use title case (ie first letters capitalized) for various other collectibles: Suit of Armor, Small Armor, Health Station, Mega-Health, etc.
+
+Similarly CHECKPOINT is always written uppercase to indicate that the game will give a checkpoint.
+The significance of that is that it is nice to load up on supplies right before getting the checkpoint.
+(So that if you die, you won't have to get the supplies again)
+
 # About this Guide
 This is the first Walkthrough I have written.
 I hope you find it useful.
@@ -137,10 +150,13 @@ and decided to write a walkthrough since the one like I wanted didn't exist.
 
 I found it to be an interesting challenge,
 mostly due to the difficulty of describing locations.
+
+I welcome contributions, compliments, suggestions, errata, strategies, complaints, and donations.  Contact me via github for details.
+
 # Mission 0:  Pre-UAC
 
 At the beginning of the game, you wake up chained to an operating table
-As you break out of your bonds, four demons surround you, your first encounter with *The Possessed*.
+As you break out of your bonds, four demons surround you, your first encounter with THE POSSESSED.
 
 Before you have control, you kill one by hand, and grab a pistol.
 
@@ -155,6 +171,11 @@ meet Dr Hayden.
 You will come upon a staggered The Possessed.
 After killing it, kill the remaining 4 weaklings.
 
+## Mission 0: Meet the Imp
+
+A quick cut-scene will play as the IMP scurries down from the rafters.
+Kill it, obviously (using the Shotgun).
+
 ## Mission 0: Fight: Blue Elevator Chamber
 
 You exit the anteroom to see 8? The Possessed worshipping an Orb.  You can Glory Kill them if you need health or kill them en masse by shooting the barrel.
@@ -164,12 +185,12 @@ Keep moving!
 There are two sheltered areas:  the entrance area,
 and a control-room overlooking the main chamber.
 
-Grab all stray stuff before entering the elevator *Checkpoint*.
+Grab all stray stuff before entering the elevator.  CHECKPOINT.
 
 # Mission 1:  The UAC "Rip and Tear"
 
 ## Mission 1: Intro
-The mission starts with you exiting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find Codex Entry "Environments / The UAC".
+The mission starts with you exiting an elevator, and dropping onto a lower plane.  3 small armor pieces are there; proceed upward to find CODEX ENTRY "Environments / The UAC".
 
 As you approach another tall cliff, you can see Imps running off into the horizon: these can be shot but it's not worth the effort.  You can also shoot The Possesseds below, but it's better to use them as walking health bonuses.
 
@@ -177,7 +198,9 @@ As you approach another tall cliff, you can see Imps running off into the horizo
 
 This is the first real fight of the game.  It occurs on a 2-level dual-figure-eight structure.
 
-To start, kill the possessed soldier at position A, and then shoot barrel B.  But from there, you'll just have to run and shoot for a while.
+Like many fights throughout the game, you will learn your own opening gambit.
+For me, I target the 2 Possessed Soldiers that appear right in front of you:  one in the center in front of a pinnacle, and one near a barrel that can be shot.
+After that, just keep moving and shooting.
 
 You'll be able to recharge over the next easy fight, so use up all the health and armor during the fight.
 
@@ -186,11 +209,11 @@ You'll be able to recharge over the next easy fight, so use up all the health an
 After the demonic threat is neutralized, a gate opens up, opposite the entrance location.
 However, another gate immediately (requiring the Blue Keycard) blocks progress.  Turn right and walk down a tunnel.  Behind a large block is a corpse with a Blue Keycard.
 
-After getting the keycard, stand on the block and look around for a tunnel above you.  You should jump to it, and pick up Secret #1 and your first collectible, "Combat Shotgun Model, Blueguy".
+After getting the keycard, stand on the block and look around for a tunnel above you.  You should jump to it, and pick up SECRET 1.1 and your first collectible, "Combat Shotgun Model, Blueguy".
 
 Continuing through the tunnel, you'll get to the gate, which will open.
 
-You'll get some ammo, but more importantly, the Frag Grenade, which is very useful, especially once upgraded.
+You'll get some ammo, but more importantly, the FRAG GRENADE, which is very useful, especially once your suit's equipment upgrades are done.
 
 ## Mission 1:  Fight: Stray Possessed and Imps
 
@@ -202,9 +225,9 @@ After killing those guys, enter the cave to the right (at the top of the incline
 
 As you drop down the last level of this spit of land, 5 Imps will attack from various directions.
 
-Checkpoint.
+CHECKPOINT.
 
-After that, look for the large tank with TRI 9-C printed on it, and enter its lower level.  There is a lever through that you should interact with then enter the Classic Doom Level.  Exit the structure and you should be able to see up the path to Secret #2, Classic Map "Doom II: Entryway".
+After that, look for the large tank with TRI 9-C printed on it, and enter its lower level.  There is a lever through that you should interact with then enter the Classic Doom Level.  Exit the structure and you should be able to see up the path to SECRET 1.2, Classic Map "Doom II: Entryway".
 
 ## Mission 1: Fight: Classic Doom Level
 
@@ -233,7 +256,7 @@ Either way, expect 5+ Imps (plus some The Possesseds).
 Checkpoint.
 
 You should see a suit of Armor on a small plateau.  Just before that, at the canyon's bottom, look around for a small backfacing greenlit "secret" tunnel.
-It leads to a cliff with Secret #3 to "Imp Model, Classicguy".
+It leads to a cliff with SECRET 1.3 to "Imp Model, Classicguy".
 
 ## Mission 1: Fight: Entrance
 You can approach this fight up the main road (over the plateau with a suit of armor), or from the side using the plateau to the right.
@@ -260,7 +283,7 @@ Enter into either of the twin doors, there's some armor - pick it up if needed, 
 You can't open the hatch yet: "Low Power".  Instead, open a door to find a number of The Possessed, and keep going to an Imp at the top of the stairs.
 "Reset Power" (by interacting with a screen), to watch a bit of a cut-scene featuring an Olivia Pierce recording.
 
-Looking down at the stairs from the top, you should see a platform at your level with a blood smear on the back wall: a standard marker for a secret in this game.  Go there, and look for some ducts to climb through.  You'll get to Secret #1 and a suit of armor.
+Looking down at the stairs from the top, you should see a platform at your level with a blood smear on the back wall: a standard marker for a secret in this game.  Go there, and look for some ducts to climb through.  You'll get to SECRET 2.1 and a suit of armor.
 
 Back at the bottom of those steps, find an Auto-Map:  use it.
 
@@ -269,7 +292,7 @@ Continue to the waypoint and an Open the Maintenance Bay Door.
 ## Mission 2:  Fight:  Tiny fight in catwalk area with Original Doom Level
 Some Possessed are followed by 3 Imps.  Go where they originated onto a crane-like catwalk.  Jump over its left railing, and look for a platform somewhat above you:  jump to it.  Look for the Lever and pull it.
 
-Jump back down, keeping an eye out for some Imps that'll spawn right around you.  You should see the Secret #8, Classic Map "Doom - Hangar" up a small staircase with some Health and Shotgun ammo.
+Jump back down, keeping an eye out for some Imps that'll spawn right around you.  You should see the SECRET 2.8, Classic Map "Doom - Hangar" up a small staircase with some Health and Shotgun ammo.
 
 After that, open the door with the waypoint to meet the Possessed Engineer.  Shoot him and he'll fly back, killing the numerous Possesseds in the background.
 
@@ -320,13 +343,13 @@ Go through the hatch then drop down into the Industrial Train Depot, right in fr
 
 But, don't go there yet!  Instead, retrace your earlier steps to the Security Station which you can now access!  Take the supplies and ??? unlock the doors
 
-Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down for Secret #2.  Find some The Possesseds and 2 Imps, along with an Elite Guard and a Plasma Rifle (Secret #3).  To get out of this area, you'll find a Grate that you can kick open.
+Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down for SECRET 2.2.  Find some The Possesseds and 2 Imps, along with an Elite Guard and a Plasma Rifle (SECRET 2.3).  To get out of this area, you'll find a Grate that you can kick open.
 
 This will drop you into the location of the Developed Outdoor area fight, which is now vacant, but some Health may have re-appeared.
 
 Continue retracing your steps by pressing the Call Elevator button on the lower level, and find the Field Drone.  I recommend using it to get the Heat Blast modification for the Plasma Gun.
 
-Now, instead of going forward, turn right into a door that was unlocked when you accessed the Security Station a minute ago.  This is Secret #5. Follow the blood to a duct, crouch, and go through to get to a steamy room you could see into earlier.  Secret #7 Elite Guard #2, and some armor and health.
+Now, instead of going forward, turn right into a door that was unlocked when you accessed the Security Station a minute ago.  This is SECRET 2.5. Follow the blood to a duct, crouch, and go through to get to a steamy room you could see into earlier.  SECRET 2.7 Elite Guard #2, and some armor and health.
 
 Exit the door by interacting with it, to the Industrial Train Depot.
 
@@ -383,12 +406,12 @@ A Possessed Soldier will run in as soon as the door opens.
 Many The Possesseds, 3 Possessed Soldiers, and one Shielded Soldier.
 
 Often the Possessed Security guards a hall to the left.  It is worth exploring.
-After climbing, an Imp will spawn in front of you.  There is Elite Guard #3 and a Munitions Crate.
+After climbing, an Imp will spawn in front of you.  There is ELITE GUARD 2.3 and a Munitions Crate.
 
 ## Mission 2:  VEGA Console area
 This is a semicircular area with a central room.
 
-But first, climb the crates at left and jump to find Secret #4, "Heavy Assault Rifle Model, Bronzeguy".
+But first, climb the crates at left and jump to find SECRET 2.4, "Heavy Assault Rifle Model, Bronzeguy".
 
 Enter the central room and watch the cut scene.
 
@@ -417,7 +440,7 @@ This is more of an exploratory area than a fight, but it is strewn with minor de
 It is hard to describe all the turns and the 3 entrances to this area,
 but it can be explored easily enough.  Just make sure you find:
 * Codex Entry "..." in a dead-end room with some armor
-* Secret #4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to Secret #4, Elite Guard #
+* SECRET 3.4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, Elite Guard #3.1?
 
 There are three access points to this convoluted area.
 Here's a description of each of them:
