@@ -501,7 +501,9 @@ Exiting the area triggers the creation of 2 Imps, a Hell Knight, and (down the h
 ## Mission 3: Fight: Argent Cell
 In order to use the Yellow Keycard, you'll have to find a mishmash of demons in a hot foundry area.  The barrels provide an easy way to kill them en masse.
 
-Argent Cell #1 is found in the corner, in front of a defunct door.
+ARGENT CELL 3.1 is found in the corner, in front of a defunct door.
+
+SECRET 3.3 is the classic doom level.  From the yellow keycard area, look back on the walkway you came in on.  There should be a box/crate on its right side.  On the side of that is a Lever, which will open a door in the fight area that enters Classic Map "Doom - Nuclear Plant".
 
 ## Mission 3: Using the Yellow Keycard
 As you approach the yellow keycard door, a Hell Knight will surprise you.
@@ -819,7 +821,7 @@ to work on achieving the Chiropracter Challenge.
 
 As you are working over, you'll go through a pair of tunnels.  The flat area ahead is where I usually kill the Imps, letting them come to me.  It's big enough that I can often get a few Neck Glory Kills.
 
-From the tunnels, you can and should access a Field Drone and a secret.  Get on top of either tunnel, and double-jump across to a platform (it has a green light).  Jump left up a series of airy platforms to an enclosed bluish area with 8 The Possessed stumbling about with a Possessed Engineer on the upper deck (near a suit of armor).
+From the tunnels, you can and should access a Field Drone and a SECRET 5.2.  Get on top of either tunnel, and double-jump across to a platform (it has a green light).  Jump left up a series of airy platforms to an enclosed bluish area with 8 The Possessed stumbling about with a Possessed Engineer on the upper deck (near a suit of armor).
 Right outside (on a bridge) is a Possessed Security.
 
 Across the bridge is a guard house, which is Secret #2.  Inside is a Hell Knight who will charge at you; and 2 Possessed Soldiers and a Possessed Security who will stay in the shed.  Take them out to find Field Drone #1, some health, Codex Entry "Monsters / Revenant".  Continue along a walkway to some armor.
@@ -879,7 +881,7 @@ Post-Fight:  pick up all the Gas and Ammo.
 
 Midway up there's a tricky little secret.  You'll find to and area where the central red beam (of Argent Energy) since surrounded by rotating metal shields that make a horrible grating sound.
 
-Continue up, across a long jump to where the red beam is protected by shutters that periodically open and close.  Look on the map.  You should see two symmetric arms going up.  But one of them has a walkway underneath.  This is Secret #5 with "Summoner Model, Purpleguy".
+Continue up, across a long jump to where the red beam is protected by shutters that periodically open and close.  Look on the map.  You should see two symmetric arms going up.  But one of them has a walkway underneath.  This is SECRET 5.5 with "Summoner Model, Purpleguy".
 With the In-Flight Mobility Rune, this is a piece of cake, but you don't have that yet, so you'll have to use one of two approaches.
 * You can actually jump on the gray tubes that run to the platform, then jump again onto the platform.
 * Drop from a platform above, and jump in mid-air onto the duct.
@@ -1188,6 +1190,8 @@ Or, you can jump across from the cargo crates in front of the Security Station D
 
 NOTE: This challenge is frustrating for many people, since it has little margin for error.  However, it is worth the practice, because the Rune is critical for some of the bosses.
 
+From this location, you can drop down SECRET 7.2 which has a Mega Health and ELITE GUARD 7.2.  Equip In-Flight Mobility.  Go to the edge of the rock with the chasm and go to the edge of the rock.  Turn around so that so can drop backward off the rock and face into it.  Walk backward and fell to a cave, jumping forward right as you see it, so that you'll land on the Mega Health.  The Elite Guard is in the shaft behind it.  To get back, jump to a rock with a blue booster.
+
 ## Mission 7: Fight: Security Station
 To get here, from the Main Cargo Bay, look for a pile of 3 crates to climb on.  The door should have a marker on it (an in-game destination) and there should be Gas here.
 
@@ -1249,7 +1253,7 @@ Exit through the door near the Health Station.
 ## Mission 7: Accessing Rune Challenge: Armored Offensive
 Exit the building and turn left, killing an Imp and Revenant.
 
-Jump across to the right and follow the walkway to the end to find the Rune Challenge "Armored Offensive".
+Jump across to the right and follow the walkway to the end to find the Rune Challenge "Armored Offensive" (which is also SECRET 7.3).
 
 This is a useful Rune for hard fights, since getting more armor is the same as more health, for the most part.
 
@@ -1348,18 +1352,18 @@ The initially a Cyber-Mancubus appears in front of you; then 2 Mancubi; then ano
 Go to the marker indicated by the game, and interact with the screen
 to "Lower Security Field".
 
-First, there's the Rune Trial.
+First, there's the Rune Trial (SECRET 8.8).
 Look out onto the big chasm and turn 90 degrees left to find an airlock.  Use it to access Rune Trial "Blood Fueled" (I personally don't use this one).  There also a suit of armor.
 
-Second, there's the Classic Doom Level.  This jump to the lever is pretty tricky.  
+Second, there's the Classic Doom Level, SECRET 8.10.  This jump to the lever is pretty tricky.  
 Jump across to the immediate platform, and turn left and drop onto the platform below the Gas can.  Turn around and look to the left to see a green light-bar, indicating a platform you can jump to.  Keep going around this rock and jumping up:  the top has a suit of armor on it.  From this top, look directly opposite from the entrance area.
 You should see some pipes and a lever at your exact elevation:  you need to jump there.  The trick is that there is an invisible ledge about 12' (4 meters) below the level.  If you land on that it is confusing:  but if you have the In-Flight Mobility Rune you should easily be able to jump from this awkward position to the Lever.
 
-Third, from the Lever, face the piping and jump onto the pipe.  Duck and turn into the cave, and search around into you find SECRET 8.6??? "Supershotgun Model / Phobosguy"
+Third, from the Lever, face the piping and jump onto the pipe.  Duck and turn into the cave, and search around into you find SECRET 8.6, "Supershotgun Model / Phobosguy"
 
-From there, look out for Lost Souls, and jump around until you get where they suit of armor was (on top of the rock).  From there, jump back toward the entrance, and keep going that direction to find the Classic Doom Level (SECRET 8.???).
+From there, look out for Lost Souls, and jump around until you get where they suit of armor was (on top of the rock).  From there, jump back toward the entrance, and keep going that direction to find the Classic Doom Level (SECRET 8.10)
 
-Fourth, go, yet again, to the high point where the suit of armor was.  Look for a lower pinnacle and jump there.  From there, it is about a 45-degree right-turn to the Mega Health Powerup, Secret 8.5???
+Fourth, go, yet again, to the high point where the suit of armor was.  Look for a lower pinnacle and jump there.  From there, it is about a 45-degree right-turn to the Mega Health Powerup, SECRET 8.5.
 Once you get this powerup, a Cacodaemon will rise to attack you.
 
 Fifth, from where the Cacodaemon appeared, look for a bay opening.  It contains an ARGENT CELL 8.1, SECRET 8.4.
@@ -1416,7 +1420,7 @@ But it's probably better to work on all kinds of Weapon Upgrades (Super Shotgun,
 
 Watch the holographic replay.
 
-Before going ahead, go right through a newly green-lit door; turn left into a yellow-gold-lit narrow opening to SECREt 8.???, Rune Challenge "Intimacy is Best"
+Before going ahead, go right through a newly green-lit door; turn left into a yellow-gold-lit narrow opening to SECREt 8.9, Rune Challenge "Intimacy is Best"
 
 ## Mission 8: Gore Nest 2
 Now, charge forward into a battle designed to showcase the BFG (and you may as well use it, since you can only store 3 charges.
@@ -1462,6 +1466,8 @@ Continue up a short flight of stairs and look for a white hatch in the floor rig
 
 When done, actuate the screen near the door to exit - you'll be back at the hatch.
 
+From the hatch, go into the next room: there should be two large steamy windows in this relatively small area.  Facing the windows (as you come into the room), look right for a torn duct you can climb into.  Drop down into an area with the AUTO-MAP.  Exit through a duct behind the columnar structure in the room.  You'll come to an old school looking panel of lights.  Jump up, and look for a grating to open, to exit back to an early hall.
+
 ## Mission 9: Fight: Miscellaneous Hallway Guards
 The first room has a few Shielded Guards and many The Possesseds and a couple of Possessed Engineers.
 
@@ -1472,7 +1478,7 @@ The second room has a Checkpoint (used for the next fight) and 4 Possessed Soldi
 ## Mission 9: Fight: Mancubus Operating Room
 Many Shielded Guards, The Possessed, Hell Razers, Possessed Solders, 3 Mancubi will spawn.  Toward the end of the fight is 2 Hell Knights.  I like using the Plasma Rifle Heat Wave with the Quad Damage to plow through the bad guys - but your mileage may vary.
 
-After the fight look at the empty mancubus bed at the back of the room, between the two exit doors.  Behind this, is a screen you can actuate to find Elite Guard #2 in SECRET 9.1/2/4/5???.
+After the fight look at the empty mancubus bed at the back of the room, between the two exit doors.  Behind this, is a screen you can actuate to find Elite Guard #2 in SECRET 9.4.
 
 ## Mission 9: Fight: Stone Tablet Exhibit Hall
 There's a Munitions Crate in the entrance hallway to this area.  Once you've looted the area, look through the door to see if you're going to be ambushed by a Possessed Soldier right next to the entrance.  Open the door.
@@ -1609,7 +1615,7 @@ This'll trigger the spawning of a Cyber-Mancubus, which will end this fight.
 
 Checkpoint.
 
-Now, pick up loot and search around for the Field Drone (it was visible before so it may be on the map).
+Now, pick up loot and search around for the FIELD DRONE 10.1, SECRET 10.2 (it was visible before so it may be on the map).
 
 Proceed to the next fight:  the target will be a gated-off green teleporter, but some demons will distract you en-route.
 
@@ -1732,6 +1738,8 @@ After pressing the switch, the fight proper begins.
 Then 2? Hell Knights and a Summoner.
 
 Grab the Auto-Map, pull the Classic Map Doom Lever, and grab the Yellow Skull.
+
+The Classic Map "Doom - House of Pain" is SECRET 11.3.  Go back outside this room and down a hall to an area that looks funky on the map.
 
 This will trigger the teleporter to open, and you can take it to return to the central room you started in.
 
@@ -1860,13 +1868,15 @@ Go through the Blue Door.
 
 Turn Left to find the Auto Map (if you haven't already), and continue in through another Blue Door.
 
-You'll find a Elite Guard #2 here, and get surprised by a Revenant.
+You'll find a SECRET 12.2, ELITE GUARD 12.2 here, and get surprised by a Revenant.
+
+Behind the crate that the Guard is leaning on is a Lever:  pull it to open access to the classic doom level.  Then go back past the Blue Keycard guy and look for a nested pair of crude circles on the map.  That is SECRET 12.5, Classic Map "Doom - Commend Control".
 
 Look down the shaft the Revenant popped out of.  You'll see a Mega Health, drop down, making sure to get it.
 
 You should be standing on a rectangular duct in a very large icy tunnel.
 
-Drop down the other way for SECRET 12.???: "Cyber-Mancubus Model, ???guy".  Walk along the duct to get back up.  Enter the door to a tunnel.
+Drop down the other way for SECRET 12.3: "Cyber-Mancubus Model, Jungleguy".  Walk along the duct to get back up.  Enter the door to a tunnel.
 
 It'll drop you into a lobby where a holographic guy is blathering about how much energy they use.
 
@@ -1901,7 +1911,7 @@ There are 3 BFG ammo here - so you'll probably want to use it a few times.
 ## Mission 12: Destroy VEGA
 A waypoint leads to a platform that'll carry you up to ???.
 
-But first, look down below for another platform to jump onto.  Jump onto a ledge which should have Elite Guard #???.
+But first, look down below for another platform to jump onto.  Jump onto a ledge which should have SECRET 12.4, ELITE GUARD 12.3 on it.
 
 Take the elevator back up to the platform.
 
@@ -1909,7 +1919,7 @@ Wait on it, until you get to a dramatic platform area.
 
 Disable the Neural Networks on the left and right.
 
-Then go to the center console.  Pick up Codex Entry "...".  Then interact with the screen to get a cut scene that ends the level.
+Then go to the center console.  Pick up Codex Entry "Environments / VEGA Central Processing".  Then interact with the screen to get a cut scene that ends the level.
 
 # Mission 13: Argent D'Nur
 
@@ -1939,7 +1949,7 @@ Descend to the next level where there is usually between 1 and 3 Unwilling stagg
 
 (Because I often seem to need the Mobile Turret upgrade, which involves killing in groups of 4, i often wait to kill them, but the Secret has to be triggered before you drop down to the next area)
 
-Facing out toward the canyon, look for a Skull Switch at the right-side of the level.  Actuate it, then go to the other side of this area and look for some blocks to climb up.  After climbing up, there is a cave just a bit ahead that opened up with Gas and BFG Ammo.
+Facing out toward the canyon, look for a Skull Switch at the right-side of the level.  Actuate it, then go to the other side of this area and look for some blocks to climb up.  After climbing up, there is a cave just a bit ahead that opened up with Gas and BFG Ammo: SECRET 13.3.
 
 Go back down to the lowest area in this complex with about 8 Unwilling.
 
@@ -1976,7 +1986,7 @@ There's a Mega Health right after the Checkpoint for this, so it's quite a good 
 
 There's a Quad-Damage Powerup here as well.
 
-Post Fight: there's a bunch of gear and a near the first ???. (This pattern will continue for the next two fights)
+Post Fight: there's a bunch of gear and a near the first Wraith's Soul. (This pattern will continue for the next two fights)
 
 There's are two parallel stairways leading up there: the one on the left has a Skull Switch that you should press.
 
@@ -1994,7 +2004,7 @@ This fight starts with a Pinkie but I think there's only 1.  There's tons of Hel
 
 There's a Berserk Powerup here.  Don't forget to use the chainsaw if you're low on ammo.
 
-Post Fight: on the way up to the waypoint (a Wraith's Soul), there's a bunch of supplies.  On the left stairs going up, look for a big in the upper half of the stairs that's so big you can walk in under the stairs.  This is SECRET #13.???, "Chaingun Model, Cosmoguy".
+Post Fight: on the way up to the waypoint (a Wraith's Soul), there's a bunch of supplies.  On the left stairs going up, look for a big in the upper half of the stairs that's so big you can walk in under the stairs.  This is SECRET 13.1, "Chaingun Model, Cosmoguy".
 
 Continue up to interact with the waypoint, then follow the waypoint to the next fight.
 
