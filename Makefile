@@ -1,2 +1,4 @@
 walkthrough.html: README.md
-	( cat preamble.html.fragment ; github-markup README.md ; cat postamble.html.fragment ; ) > walkthrough.html
+	github-markup README.md > tmp-w.html
+	cat preamble.html.fragment github-markdown.css midamble.html.fragment tmp-w.html postamble.html.fragment > walkthrough.html
+	rm tmp-w.html
