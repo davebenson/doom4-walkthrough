@@ -38,9 +38,9 @@ Triangle | Y | BFG
 Circle | B | Crouch / Stand (toggle)
 X | A | Jump
 Up Arrow | DPad Up | Swap Weapon Mod
-Left | DPad Left | Previous Equipment
-Right | DPad Right | Next Equipment
-Down | DPad Down | Mission Objective Summary
+Left Arrow | DPad Left | Previous Equipment
+Right Arrow | DPad Right | Next Equipment
+Down Arrow | DPad Down | Mission Objective Summary
 
 ## Weapon Use Summary
 
@@ -564,17 +564,20 @@ This is more of an exploratory area than a fight, but it is strewn with minor de
 
 It is hard to describe all the turns and the 3 entrances to this area,
 but it can be explored easily enough.  Just make sure you find:
-* CODEX ENTRY "..." in a dead-end room with some armor
-* SECRET 3.4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, ELITE GUARD 3.1???
+* CODEX ENTRY "Monsters / Imp" in a dead-end room with some armor
+* SECRET 3.4:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, ELITE GUARD 3.3 and the ROCKET LAUNCHER.
 
 There are three access points to this convoluted area.
 Here's a description of each of them:
 
 * Gore Nest #2 Access
-  * From Tunnel: look for ...
-  * From the vicinity of Gore Nest #2: ...
-* ...
-* ...
+  * From the vicinity of Gore Nest #2: looking out to the main area, the catwalks on the right should have two stories.  Get to the upper story, and you'll find a small doorway.
+  * From the tunnel, look for blood streams and an obvious exit.
+* Mid-level Entrance
+  * From the tunnel: look for an observation room; the door it outside the window looking in.
+* Yellow Keycard Guy Access
+  * From the guy: go out to a downward staircase; at its bottom turn into a small door.
+  * From Tunnel: look for a green-lit room with 2 large white boxes.  Stand on the box(es) and jump to a yellow patterned ledge.
 
 ## Mission 3:  Gore Nest 1
 From the entrance area, exit into the Main Foundry Area.
@@ -661,7 +664,7 @@ The map should probably show the Auto-Map - it's on the catwalk area.
 Exit through the upper down in this area and you'll immediately run into the Blue Keycard holder (a corpse).  Take the keycard.
 
 Drop down to the area where you "found" the Yellow Keycard.
-This is a good time to get SECRET 3.6???, "Possessed Engineer Model, Vaultguy".
+This is a good time to get SECRET 3.6, "Possessed Engineer Model, Vaultguy".
 Look for the 3 streams of molten metal.  Get onto the walkway in front of them, and look straight down to see a little landing just inches above the molten metal.  Jump onto this platform and look for the doll.
 
 ## Mission 3:  Fight: Gore Nest 4
@@ -808,12 +811,12 @@ You should find a Munitions Crate here.
 
 A single Imp will pop out if you follow the walkway to its end.
 
-If you stand on the platform at the edge of building, you should see a rectangular duct that runs along the outside of the structure.  Walk on it for a bit until you get to the next alcove: enter to find SECRET 4.3, "Rocket Launcher Model, ???guy".
+If you stand on the platform at the edge of building, you should see a rectangular duct that runs along the outside of the structure.  Walk on it for a bit until you get to the next alcove: enter to find SECRET 4.3, "Rocket Launcher Model, Stealthguy".
 
 Go back to the first alcove, but jump across to a green-lit cliff; jump again to a walkway and kill a few demons (a Possessed Engineer and a few Possesseds).
 (This is helpful to get the maximum combat rating)
 
-Finally, go to the end of the walkway (it becomes a catwalk) to a door (entrance to the Icy Area).  Watch out for the Imp!  At the end, go left onto a natural walkway.  This is SECRET 4.4???.  There's a Possessed Engineer and a few Possesseds, but most importantly, the Super Shotgun.
+Finally, go to the end of the walkway (it becomes a catwalk) to a door (entrance to the Icy Area).  Watch out for the Imp!  At the end, go left onto a natural walkway.  This is SECRET 4.4.  There's a Possessed Engineer and a few Possesseds, but most importantly, the SUPER SHOTGUN.
 
 ## Mission 4: Lower Area with Elite Guard #3
 Start at the Force Field (Gore Nest #1) - when facing the field, go down the path to the left.
@@ -898,7 +901,7 @@ Destroy it, and watch the cut-scene.
 
 Follow the waypoint and Exit the Facility.
 
-# Mission 5: Argent Energy Tower "???"
+# Mission 5: Argent Energy Tower "Argent Tower"
 We start the level getting new Jumping abilities, the Jump Boots.
 Then we cross a damaged bridge to the Tower itself.
 
@@ -1156,7 +1159,7 @@ At some point, to trigger more demons, you'll have to descend to the floor.  Tak
 There is a wave of Revenants and a Hell Knight, another Cacodaemon, more Revenants, a Mancubus, and a number of Imps.
 
 ## Mission 6: Rune Challenge and Using the Blue Skull
-Point of No Return:  This Rune Challenge is only accessible for a short while.  The protective gates around it are closed until you get the Blue Skull, and after ...  (XXX: is the Rune accessible during the above Fight??)
+POINT OF NO RETURN:  This Rune Challenge is only accessible for a short while.  The protective gates around it are closed before you get the Blue Skull, and after you pass through a holographic ritual taking place in a corridor.  (XXX: is the Rune accessible during the above Fight??)
 
 Accessing the Rune Challenge requires jumping onto the central Rock that held the Quad Powerup.  Jump onto the smaller upper island (there are two: jump toward the one closer to the Blue Door?).  Then you should see a man-made (or demon-made) ledge to your right, with a few small Healths.
 Jump, and turn around and look up to see a higher island.  Jump to it - then continue the same direction to an upper ledge.  Climb a short ledge to a tunnel leading left to the Savagery Rune Challenge.
@@ -1227,7 +1230,7 @@ Finally, 2 Hell Barons spawn.  I use the Quad Powerup and the Super Shotgun.  If
 ## Mission 6:  Onward, after a short Secret Detour
 
 OK, go back to the large main arena from the last fight.  There is a big cave.
-Inside the cave (which can be a bit dark) is a lever: an Original Doom Level trigger.  The location of SECRET 6.5or6???, Classic Map "Doom - Slough of Despair" itself is on the lower floor closer to where you entered the arena, or simple walk off the ledge between the two subarenas, and drop down.
+Inside the cave (which can be a bit dark) is a lever: an Original Doom Level trigger.  The location of SECRET 6.6, Classic Map "Doom - Slough of Despair" itself is on the lower floor closer to where you entered the arena, or simple walk off the ledge between the two subarenas, and drop down.
 
 Or use the map: it looks quite distinct with a visible arrow drawn into the map in the Dossier.  Once there, the arrow marks the correct switch to press (ie the Left switch).  It accesses a Mega Health Bonus (although crudely rendered, it is just as effective as a modern-looking one).
 
@@ -1360,9 +1363,9 @@ There's also a Health Station here.
 After triggering and watching a holographic replay, you'll be allowed out the Security Station's second door.
 
 ## Mission 7: Fight: Exiting Security Station
-Opening the door, you'll see a Pinky:  but there's actually 2 Pinkies.  As well as 2 Revenants, 2 Imps.   You can use the Quad Power-Up but I usually save it for the more tough fight coming up.  Once you kill all these guys you'll get a Checkpoint.
+Opening the door, you'll see a Pinky:  but there's actually 2 Pinkies.  As well as 2 Revenants, 2 Imps.   You can use the Quad Power-Up but I usually save it for the more tough fight coming up.  Once you kill all these guys you'll get a CHECKPOINT.
 
-There's ELITE GUARD 7.3??? on the top level.
+There's ELITE GUARD 7.3 on the top level.
 
 Interact with the Munitions Crate in the far corner of the lower-level.
 Unfortunately you'll need to re-do this each time you die:  on the positive side, this Munitions Crate refills between most battles.
@@ -1410,7 +1413,7 @@ This is a useful Rune for hard fights, since getting more armor is the same as m
 Now, turn around, and run back toward the waypoint.
 To the left you'll find a Munitions Crate on a plateau.
 Often there are The Possesseds stumbling around and even a Cacodaemon at times.
-After killing all that, you should find a Checkpoint.
+After killing all that, you should find a CHECKPOINT.
 
 ## Mission 7: Fight: Upper Gore Nest
 
@@ -1700,7 +1703,7 @@ You catch a few Possessed Securities off-guard, use grenades etc.  There's also 
 ## Mission 9: Server Hall
 The hallway become increasingly bloody, and you finally open a door onto a console area.  A hologram with Olivia is playing, and you must interact with a terminal at the waypoint here, the energy refractor control.  It opens the twin doors.
 
-## Mission 9: Fight: ...
+## Mission 9: Fight: Two Level Lounges
 
 Two identical hallways take you to a symmetric 2-level area strewn with Imps, Possessed Soldiers but mostly The Possessed.
 
@@ -2203,7 +2206,7 @@ Toward the end a Cyber-Mancubi and finally 2 Hell Barons- you're easiest chance 
 
 Post Fight: gather supplies and interact.  Follow the waypoint to the last fight, a boss fight.
 
-## Mission 13: Boss Fight: Cyber Spider
+## Mission 13: Boss Fight: Spider Mastermind
 This is your big battle with demonic Olivia Pierce.
 
 Unlike the other boss fights, this one doesn't have a checkpoint in the middle.
