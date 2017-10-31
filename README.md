@@ -108,6 +108,61 @@ Fuel to kill various demons:
 * Cyber-Mancubus: 5
 * Hell Baron: 5
 
+## Monsters
+
+### The Possessed, Unwilling
+
+These idiots simply stagger around, vaguely coming toward you.
+
+In Nightmare mode, they do quite a bit of damage; in easier modes they are merely pesky.
+
+### Imps
+
+Monkeys with fireballs with great aim.
+You have to move constantly and keep a lookout to avoid getting hit.
+
+They can take a fairly large amount of damage when they are climbing around on vertical surfaces.
+
+### Possessed Soldiers and Possessed Securities
+
+These two monsters differ in that the latter has shields.
+
+They have 3 attacks:
+* Plasma Volley: an attack of many straight-moving weak plasma baubles
+* Plasma Grenade: a stronger attack, similar to the Rocket Launcher / Remote Detonation.  It expands before blowing up like a bomb.
+* Melee Attack: these are fairly weak for Possessed Soldiers, but they are quite strong from the shielded soldiers
+
+The shields are a big difficulty: the Gauss Cannon or Chainsaw are the surest ways to kill them - you'll run into them before you have the Gauss Cannon.
+Otherwise, try running around them (around a structure) or jumping over them.
+Also they have to put their shields down when the jump/drop.
+
+### Hell Razers
+These guys attack with a laser in their arm, or a melee attack.
+
+They have a lot of hit-points, but they aren't too hard to kill.
+
+### Lost Souls
+...
+
+### Hell Knights
+...
+
+### Summoners
+...
+
+### Cacodemons
+...
+
+### Pinkies and Spectres
+...
+
+### Mancubi and Cyber-Mancubi
+...
+
+### Hell Barons
+...
+
+
 ## Level Overview
 Mission | Subtitle | Elite Guards | Argent Cells | Field Drones | Rune Trials | Secrets | Data Logs
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -115,7 +170,7 @@ Mission 1: The UAC | Rip and Tear | 1 | 0 | 1 | 0 | 3 | 2
 Mission 2: Resource Operations | Know Your Enemy | 3 | 0 | 1 | 0 | 8 | 2
 Mission 3: Foundry | Meltdown | 3 | 0 | 1 | 0 | 6 | 3
 Mission 4: Argent Facility | Beginning of the End | 4 | 1 | 2 | 2 | 5 | 4
-Mission 5: Argent Energy Tower | Argent Tower | 3 | 2 | 1 | 2 | 7
+Mission 5: Argent Energy Tower | Argent Tower | 3 | 2 | 1 | 2 | 7 | 4
 Mission 6: Kadingir Sanctum | Into the Fire | 4 | 1 | 1 | 2 | 6 | 7
 Mission 7: Argent Facility (Destroyed)  | Hell on Mars | 4 | 1 | 1 | 2 | 6 | 5
 Mission 8: Advanced Resource Complex | A Brighter Tomorrow | 3 | 2 | 1 | 2 | 10 | 4
@@ -239,7 +294,7 @@ You'll get some ammo, but more importantly, the FRAG GRENADE, which is very usef
 
 There's about 6 The Possesseds and 3 Imps.
 
-After killing those guys, enter the cave to the right (at the top of the incline).  You will find some worshipping Possessed and an Auto-map.  Continue out the cave to find a Praetor Token (an Elite Guard corpse) on the right before jumping down.
+After killing those guys, enter the cave to the right (at the top of the incline).  You will find some worshipping Possessed and an Auto-map.  Continue out the cave to find a Praetor Token (ELITE GUARD 1.1) on the right before jumping down.
 
 ## Mission 1:  Fight: Stray Imps
 
@@ -363,13 +418,13 @@ Go through the hatch then drop down into the Industrial Train Depot, right in fr
 
 But, don't go there yet!  Instead, retrace your earlier steps to the Security Station which you can now access!  Take the supplies and ??? unlock the doors
 
-Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down for SECRET 2.2.  Find some The Possesseds and 2 Imps, along with an Elite Guard and a Plasma Rifle (SECRET 2.3).  To get out of this area, you'll find a Grate that you can kick open.
+Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down for SECRET 2.2.  Find some The Possesseds and 2 Imps, along with ELITE GUARD 2.1 and a Plasma Rifle (SECRET 2.3).  To get out of this area, you'll find a Grate that you can kick open.
 
 This will drop you into the location of the Developed Outdoor area fight, which is now vacant, but some Health may have re-appeared.
 
 Continue retracing your steps by pressing the Call Elevator button on the lower level, and find the Field Drone.  I recommend using it to get the Heat Blast modification for the Plasma Gun.
 
-Now, instead of going forward, turn right into a door that was unlocked when you accessed the Security Station a minute ago.  This is SECRET 2.5. Follow the blood to a duct, crouch, and go through to get to a steamy room you could see into earlier.  SECRET 2.7 Elite Guard #2, and some armor and health.
+Now, instead of going forward, turn right into a door that was unlocked when you accessed the Security Station a minute ago.  This is SECRET 2.5. Follow the blood to a duct, crouch, and go through to get to a steamy room you could see into earlier.  SECRET 2.7, ELITE GUARD 2.2, and some armor and health.
 
 Exit the door by interacting with it, to the Industrial Train Depot.
 
@@ -581,7 +636,7 @@ This fight as two waves, both consisting of Imps and Hell Razers (XXX: are there
 After completing the fight, exit at the top of the room, on the opposite side as the entrance.
 
 ## Mission 3:  End of Mission
-You come into a hall with Elite Guard #3 propped up on the left side.
+You come into a hall with ELITE GUARD 3.3 propped up on the left side.
 
 Open the Shutters (interact with the screen), to watch a cut-scene with Olivia Pierce.
 
@@ -632,7 +687,7 @@ You'll have to deal with 2 Hell Knights, 2 Hell Razers, and a bunch of Imps.
 Checkpoint.
 
 It's probably worth going back to the Blockade you entered from, and look around for a cave (it'll be on the left as you walk toward the Force Field).
-The cave has Elite Guard #1.  There's some ammo (etc) here.
+The cave has ELITE GUARD 4.1.  There's some ammo (etc) here.
 
 ## Mission 4: Fight: Argent Cell
 (It might seem logical to destroy the Argent Filter associated with the Gore Nest first, but due to how the Checkpoints work, I suggest doing things in this order)
@@ -780,7 +835,7 @@ However, there's a Beserk Powerup, which compensates a lot (in fact, if you have
 
 ## Mission 4: Destroy Primary Argent Filter
 
-Enter the building and face left for Elite Guard #4.
+Enter the building and face left for ELITE GUARD 4.4.
 
 Follow the waypoint to another Argent Filter (looks like the others).
 Destroy it, and watch the cut-scene.
@@ -994,7 +1049,7 @@ Quickly jump down the Pit area, to trigger two waves:
 ## Mission 6:  Accessing and Using the Yellow Skull
 The game's waypoint will lead you to a switch (only accessible once all the above demons are killed).  After actuating the switch, walk across the pit to a newly opened area with armor and the Yellow Skull.
 
-Now, find the Yellow Skull Door, by walking up the path from where the last fight started.  Open the Door to walk in and find Codex Entry "Artifacts / Slayer's Testament #1" and Elite Guard #1.
+Now, find the Yellow Skull Door, by walking up the path from where the last fight started.  Open the Door to walk in and find Codex Entry "Artifacts / Slayer's Testament #1" and ELITE GUARD 6.1.
 
 Proceed onward to the next fight.
 
@@ -1051,7 +1106,7 @@ Walking along the ledge, some Imps, 2 Lost Souls, a Revenant spawn.
 
 Island-Jump across to be surprised by 3 Lost Souls, and a Hell Razer.  The HR can be used to work on the Combat Challenge.
 
-Walk through the tunnel behind the Hell Razer, and you'll be on a new cliff, with a fire and Elite Guard #2.  First, look left and down and you'll see the first Cacodaemon.  There is second one, probably behind that rocky pinnacle.  Lock-On Rocket Launcher is a fool-proof way to deal with these guys.
+Walk through the tunnel behind the Hell Razer, and you'll be on a new cliff, with a fire and ELITE GUARD 6.2.  First, look left and down and you'll see the first Cacodaemon.  There is second one, probably behind that rocky pinnacle.  Lock-On Rocket Launcher is a fool-proof way to deal with these guys.
 
 Visit the Elite Guard.
 
@@ -1076,7 +1131,7 @@ You can continue up the stairs for the main campaign path, or you can return to 
 The right-hand cave has a suit of armor and an Automap.
 
 The left-hand cave has a green teleporter to a treasure room of sorts with Codex Entry "Artifacts / Slayer's Testament #2".
-You could teleport back, but instead look for the exit corridor and find another Codex Entry "Environments / Kadingir Sanctum" and Elite Guard #3.
+You could teleport back, but instead look for the exit corridor and find another Codex Entry "Environments / Kadingir Sanctum" and ELITE GUARD 6.3.
 
 Finish the detour by following the corridor and using the yellow lift to cross the chasm.  If you go straight, then left, you should see the stairs leading down to Rune Challenge #2 (and a suit of armor).
 
@@ -1128,7 +1183,7 @@ A Codex Entry "Artifacts / Slayer's Testament #3" is found.
 
 The last easy fight is about 5 Imps fighting 10 Unwilling.  (I like to work on the Savagery Rune and the Seek and Destroy Rune for this easy fight).
 
-Don't miss the Elite Guard here!
+Don't miss ELITE GUARD 6.4 here!  (to the left from the way you entered)
 
 Enter a well-stocked tunnel ending with a Codex Entry "UAC Personnel / Olivia Pierce" for a Checkpoint preceding the final fight of the mission.
 
@@ -1233,7 +1288,7 @@ After triggering and watching a holographic replay, you'll be allowed out the Se
 ## Mission 7: Fight: Exiting Security Station
 Opening the door, you'll see a Pinky:  but there's actually 2 Pinkies.  As well as 2 Revenants, 2 Imps.   You can use the Quad Power-Up but I usually save it for the more tough fight coming up.  Once you kill all these guys you'll get a Checkpoint.
 
-There's an Elite Guard on the top level.
+There's ELITE GUARD 7.3??? on the top level.
 
 Interact with the Munitions Crate in the far corner of the lower-level.
 Unfortunately you'll need to re-do this each time you die:  on the positive side, this Munitions Crate refills between most battles.
@@ -1312,7 +1367,7 @@ There's also a secret here.  Look up for a bloody ledge in the ceiling at the le
 
 Return to get the Yellow Keycard, watch the holographic replay, and use the Yellow Door.
 
-Drop down the elevator shaft.  Before exiting the obvious way, turn around and look up to find a square duct: jump into it and find Elite Guard #4.
+Drop down the elevator shaft.  Before exiting the obvious way, turn around and look up to find a square duct: jump into it and find ELITE GUARD 7.4.
 
 Exit the elevator shaft: you should recognize this as the site of an earlier Gore Nest battle.  Make a hairpin turn to the right and go in the Yellow Keycard Door.
 
@@ -1325,7 +1380,7 @@ A few Possessed Soldiers and a number of The Possessed lurk here, useful for som
 Enter a large lobby area, finding a Mancubus killing some The Possesseds.
 After killing these, look for a pair of restrooms.  In the Men's Restroom is some armor you can save for later maybe.
 
-In the Woman's Restroom is a hatch allowing access to a secret area.  Climb onto the sinks and look around for the bloody hatch: jump to it and follow the duct (there's Gas) to drop into a room (SECRET 8.7) with an Auto-Map and an Elite Guard.  The screen next to the door will open it.
+In the Woman's Restroom is a hatch allowing access to a secret area.  Climb onto the sinks and look around for the bloody hatch: jump to it and follow the duct (there's Gas) to drop into a room (SECRET 8.7) with an Auto-Map and an ELITE GUARD 8.1.  The screen next to the door will open it.
 
 After exiting the Secret Room, you'll enter a Security Area with 6? The Possesseds, a Health Station, an Argent Cell, a Plasma Gun, and a terminal to Release the Safety Lockdown:  do that.
 
@@ -1358,7 +1413,7 @@ When the door opens, find Codex Entry "UAC Personnel / Dr Samuel Hayden 3".
 
 ## Mission 8: Moxim Service Bay
 The olive green area has 4? The Possesseds.
-Kill them and find Elite Guard #2 in this area.
+Kill them and find ELITE GUARD 8.2 in this area.
 
 Continue along to get charged by a Possessed Engineer.
 
@@ -1499,7 +1554,7 @@ The second room has a Checkpoint (used for the next fight) and 4 Possessed Soldi
 ## Mission 9: Fight: Mancubus Operating Room
 Many Shielded Guards, The Possessed, Hell Razers, Possessed Solders, 3 Mancubi will spawn.  Toward the end of the fight is 2 Hell Knights.  I like using the Plasma Rifle Heat Wave with the Quad Damage to plow through the bad guys - but your mileage may vary.
 
-After the fight look at the empty mancubus bed at the back of the room, between the two exit doors.  Behind this, is a screen you can actuate to find Elite Guard #2 in SECRET 9.4.
+After the fight look at the empty mancubus bed at the back of the room, between the two exit doors.  Behind this, is a screen you can actuate to find ELITE GUARD 9.2 in SECRET 9.4.
 
 ## Mission 9: Fight: Stone Tablet Exhibit Hall
 There's a Munitions Crate in the entrance hallway to this area.  Once you've looted the area, look through the door to see if you're going to be ambushed by a Possessed Soldier right next to the entrance.  Open the door.
@@ -1568,7 +1623,7 @@ Two identical hallways take you to a symmetric 2-level area strewn with Imps, Po
 Once cleared, from the entry, go to the lounge on the right on the upper-floor.  Look around for a bloody duct at approximately head-height.
 It takes you to SECRET 9.9, Rune Trial #2, "Saving Throw".
 
-There's also Elite Guard #4. Outside the door, in the non-secret area, is a Munitions Crate.
+There's also ELITE GUARD 9.4. Outside the door, in the non-secret area, is a Munitions Crate.
 
 Then go to the waypoint: a large silo with green concentric circles surrounding the waypoint itself.
 
@@ -1677,7 +1732,7 @@ Continue through the hall (in the direction of the greenish area with the gibbet
 
 A grate will appear to block access to the yellow door.
 
-So, you must go left into a toxic area with a bunch of Unwilling staggering around.  You will see an Invulnerability Powerup here, and at the end of the corridor, an Elite Guard #2 and a Skull Switch.  Activate the Skull Switch.
+So, you must go left into a toxic area with a bunch of Unwilling staggering around.  You will see an Invulnerability Powerup here, and at the end of the corridor, an ELITE GUARD 10.2 and a Skull Switch.  Activate the Skull Switch.
 
 ## Mission 10: Fight: Toxic Sludge Area
 On return, two hatches will open exposing 2 Mancubi.  You can use the Invulnerability on them, or fight more carefully and save it for a minute.
@@ -1801,7 +1856,7 @@ The next platform has just one torch/pillar.  Peer carefully down from the edge 
 
 Continue hopping to the cave, where you will be greated by a Mancubus.
 
-Don't forget to get Elite Guard #1, and there's some armor too.
+Don't forget to get ELITE GUARD 11.1, and there's some armor too.
 
 Continue along to some shotgun ammo and the last Field Drone.
 
@@ -1816,7 +1871,7 @@ The same demons will spawn on each end of this hall.  I'll give total numbers:
 * 2 Mancubi
 * 4 Spectres
 
-There's quite a bit of ammo around, and Elite Guard #2.
+There's quite a bit of ammo around, and ELITE GUARD 11.2.
 
 ## Mission 11: Fight: Last Non-Boss Fight
 Exiting, 2 Cacodaemons will immediately stalk you:  kill them with the rocket launcher: there's ammo around.
