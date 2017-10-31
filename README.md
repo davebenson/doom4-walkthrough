@@ -123,6 +123,8 @@ You have to move constantly and keep a lookout to avoid getting hit.
 
 They can take a fairly large amount of damage when they are climbing around on vertical surfaces.
 
+For players in Nightmare mode, Imps will probably cause more deaths than any other demon.
+
 ### Possessed Soldiers and Possessed Securities
 
 These two monsters differ in that the latter has shields.
@@ -137,31 +139,48 @@ Otherwise, try running around them (around a structure) or jumping over them.
 Also they have to put their shields down when the jump/drop.
 
 ### Hell Razers
-These guys attack with a laser in their arm, or a melee attack.
+These hellions attack with a laser in their arm, or a melee attack.
 
 They have a lot of hit-points, but they aren't too hard to kill.
 
 ### Lost Souls
-...
+These little punks are very damaging,
+it's best to snipe them from afar (effective weapons: BFG, Rocket Launch, Assault Rifle/Tacticle Scope).
+
+They can make little turns, but you can sneak behind pillars or protected areas.
 
 ### Hell Knights
-...
+These are brutal melee attackers.
+
+They will jump toward to very fast.
+
+It is best to approach them right after an attack (Super Shotgun, Gauss Cannon), or just use the Chainsaw which'll definitely kill them if you have fuel.
 
 ### Summoners
-...
+These red-dressed ladies fire intense energy beams along the floor.
+Fortunately, the shot come with a pre-shot, so if you see a short red flame running along the ground, get away from it.
+
+The Rocket Launcher / Lock-On's Multi-Target Upgrade requires 5 kills on Summoners, so if you want to get that upgrade, you'll want to kill every summoner with lock-on rockets.
 
 ### Cacodemons
-...
+Big floating eyeballs with gigantic purple missiles.
+
+They do (as a hint notes) have a weak point near their eye opening,
+and precision shots with the tactical shot of the assault rifle can kill it from afar pretty quickly.
 
 ### Pinkies and Spectres
-...
+These are big charging idiot monsters.  The Pinkies are substantially heartier.
+They are literally pink.  The Spectres are essentially camoflaged Pinkies.  They blend into their surroundings.
+
+I suggest using Super Shotgun, Chainsaw, Gauss Cannon on these guys.  But really, any weapon will work.
 
 ### Mancubi and Cyber-Mancubi
-...
+These large (obese) demons shoot damaging fireballs.  The Cyber-Mancubi are somewhat more annoying because their shots leave a toxic (green) residue that you must avoid (it only lasts a few seconds).
 
 ### Hell Barons
-...
+These are like Hell Knights except that they can shoot missiles.
 
+They are really not that tough, because they can be taken down by 2 Gauss Cannon / Siege Mode shots.
 
 ## Level Overview
 Mission | Subtitle | Elite Guards | Argent Cells | Field Drones | Rune Trials | Secrets | Data Logs
@@ -198,7 +217,7 @@ but it doesn't give a coordinate system, nor labels for places,
 nor even a reference direction, like North.
 It does provide some icons that can be used as landmarks.
 
-Fortunately, almost every location in this game looks somewhat different, so it's not so bad.  But pay attention to the names given to certain major rooms/locations, since usually if i give it a name, then you run back to it a few times.
+Fortunately, almost every location in this game looks somewhat different, so it's not so bad.  But pay attention to the names given to certain major rooms/locations, since usually if i give it a name, then you'll arrive there a few times.
 
 # Using this Guide
 Secrets, Field Drones, Argent Cells, Rune Challenges are all written in uppercase at their secret location, with dotted notation where the first number is the mission and the secret is the index of the location in the Dossier Overview/Map page.  For example, SECRET 14.3 would be the third secret in the dossier in mission 14 (but there's really only 13 missions).  This is intended to facilitate searching.
@@ -905,7 +924,7 @@ Across the bridge is a guard house, which is Secret #2.  Inside is a Hell Knight
 When done, jump down to a long walkway that goes almost the whole length of the bridge.  There's a long gap that have been torn apart: you'll have to double-jump.
 
 ## Mission 5: The Far Side of the Bridge
-After the destroyed section of the bridge, look down and right to see ELITE GUARD 5.1 (SECRET 5.3) propped up against a wall.  Jump down.  Getting back up is slightly more difficult: jump across the gap them nearly vertically up a few ledges, looking for green lights (a yellow ledge for the last jump).
+After the destroyed section of the bridge, look down and right to see ELITE GUARD 5.1 (SECRET 5.3) propped up against a wall.  Jump down.  Getting back up is slightly more difficult: jump across the gap to jump nearly vertically up a few ledges, looking for green lights (a yellow ledge for the last jump).
 
 Note:  You can get back, but it's not necessary and more difficult than jumping forward.
 
@@ -1043,7 +1062,7 @@ Look down to the next lower platform and you'll see an Imp spawn: you can kill i
 Stand on ledge that has a suit of armor on it.  Look down below into the Main Pit Area, and soon you'll see 2 Mancubi lumbering around that you can carefully attack with the Rocket Launcher (preferably with Lock-On modification).
 
 Quickly jump down the Pit area, to trigger two waves: 
-* a bunch of Imps (and HR?) ending with a Hell Knight
+* a bunch of Imps and a Hell Razer, ending with a Hell Knight
 * a bunch of Imps and a few Hell Razers, ending with 2 Hell Knights
 
 ## Mission 6:  Accessing and Using the Yellow Skull
@@ -1063,7 +1082,7 @@ Once you get to the edge of the plateau is when the bulk of the demons spawn.
 On the center of the bridge, a Summoner will spawn.  Lock-On Rocket Launcher is a good way to get her (as suggested by the Weapon Upgrade challenge).
 Another Summoner spawns on the left side of the lower area.
 
-2 Hell Knights soon spawn, along with a mess of Hell Razers (etc???).
+2 Hell Knights soon spawn, along with a mess of Hell Razers (etc).
 
 ## Mission 6: Getting the Blue Skull
 Follow the game's marker to a Chainsaw and Shotgun Ammo.
@@ -1089,7 +1108,7 @@ At some point, to trigger more demons, you'll have to descend to the floor.  Tak
 There is a wave of Revenants and a Hell Knight, another Cacodaemon, more Revenants, a Mancubus, and a number of Imps.
 
 ## Mission 6: Rune Challenge and Using the Blue Skull
-/PONR/ WARNING:  This Rune Challenge is only accessible for a short while.  The protective gates around it are closed until you get the Blue Skull, and after ...  (XXX: is the Rune accessible during the above Fight??)
+Point of No Return:  This Rune Challenge is only accessible for a short while.  The protective gates around it are closed until you get the Blue Skull, and after ...  (XXX: is the Rune accessible during the above Fight??)
 
 Accessing the Rune Challenge requires jumping onto the central Rock that held the Quad Powerup.  Jump onto the smaller upper island (there are two: jump toward the one closer to the Blue Door?).  Then you should see a man-made (or demon-made) ledge to your right, with a few small Healths.
 Jump, and turn around and look up to see a higher island.  Jump to it - then continue the same direction to an upper ledge.  Climb a short ledge to a tunnel leading left to the Savagery Rune Challenge.
@@ -1167,7 +1186,7 @@ Or use the map: it looks quite distinct with a visible arrow drawn into the map 
 Go back to the subarena that once held the Quad Powerup, and now should be decorated with a glowing green circular symbol.  When you approach the door, it will open.
 
 ## Mission 6: Fight: some small easy fights
-First, there's about 6 Unwilling in this corridor... they are useful for Weapon Upgrade Challenges (eg Tactical Scope, Heat Blast, Super Shotgun, Pistol).
+First, there's about 6 Unwilling in this corridor. they are useful for Weapon Upgrade Challenges (eg Tactical Scope, Heat Blast, Super Shotgun, Pistol).
 And 2 Lost Souls to watch out for.
 
 Instead of charging out island-hopping, turn right, and go up some stairs to overlook a Mancubus and 2 Revenants fighting.  Help them kill each other with a suitable weapon (ie Rocket Launch or Gauss Cannon).
@@ -1198,7 +1217,7 @@ It comes in unseparated waves:
 
 I tend to save the Quad Powerup and for the end; get the Armor on the toplevel (a sometimes overlooked location) early on to make it easier.  Keep on the move and kill quickly.
 
-Walk up the hill to a holographic replay of some sort of ritual with a casket???
+Walk up the hill to a holographic replay of some sort of ritual with a casket.
 
 Interact with the screen ??? to exit the level.
 
@@ -1277,7 +1296,7 @@ Interact with the door to get a short cut-scene introducing us to the Pinky.
 
 The fight begins with 2 Pinkies and at least 1 Possessed Soldier (and a hard-to-count number of The Possessed in the peripheries- most of these get killed by other demons!).
 
-After killing those Pinkies, another way of 4? Pinkies (etc???) is triggered.
+After killing those Pinkies, another wave of 4? Pinkies (etc) is triggered.
 
 After the fight, visit the Auto-Map, and get the Codex Entry "UAC Personnel / Dr Samuel Hayden 2".
 
