@@ -73,23 +73,45 @@ Each individual shot from the Assault Rifle is rather weak and becomes weaker an
 expect a cacodaemoon (etc) to take 30+ shots even up close.
 
 The Tactical Scope changes things a bit: it makes the thing pretty effective for sniping, and the upgrades make it pretty damaging.
-Even so, it's a bit tedious killing things with this weapon (just replay Mission 1 and kill all the Possessed before you jump into the first fight - it's not hard, but it's boring).
+Even so, it's a bit tedious killing things with this weapon.  
 However, it makes for a nice change, since the opportunities for sniping are few in this game.
+You can usually get the challenge upgrade naturally over the course of the game, but you can also replay an earlier mission to get it pretty easily.
 
 The Mini-Missiles seems like a cool upgrade but they aren't that powerful or predictable.  One nice use is for dealing with multiple Lost Souls.  Most other monsters are too strong for this to be an elegant attack.
 
 ### Super Shotgun (available Mission 4)
 
+A weapon big enough that it'll at least distract anything.  Fully upgraded, it's my weapon of choice for Hell Knights, or combats with a long chain of individual demos.
+
+The challenge upgrade can be a bit difficult:  I usually get very close to one demon and shoot through it to get to another one close behind; this seems easier than lining them up side-to-side.
+
 ### Chain Gun (available Mission 6)
 
+A powerful weapon that is a bit annoying to use because it takes a
+a few seconds to start up.
+
+The Gattling Rotator works, but you have to hold down the modifications button
+the entire time: I don't really like that.
+
+The Mobile Turret mod is a great way to deliver a lot of damage.
+I usually try to fully upgrade this modification since it's useful against bosses.
+
 ### Gauss Cannon (available Mission 5)
+The most powerful standard weapon, even without mods.  Siege Mode is the most powerful mod (by far), and it strongly recommended.  Its challenge upgrade is easy too.
+
+The Precision Bolt mod is also pretty good but it's a lot harder to fully upgrade and only kills once thing at a time, so I seldom use it.
 
 ### BFG (available Mission 8)
+The Big F-ing Gun.  This will clear out a whole room of demons, but it can be a little unpredictable in how it works.
+
+Ammo is found individually, and you always have a limit of 3.  However, the Ammo Boost II rune WILL cause enemies to randomly drop BFG ammo when they die so there isn't too much of a shortage.
 
 ### Chainsaw (available Mission 2)
 This crazy melee weapon will definitely kill any monster in range that
-you have enough fuel to kill.
-This is considered a Glory Kill that'll dump a huge pile of ammo.
+you have enough fuel to kill.  The initial capacity is 3 Fuel Units, which is the amount in every gas can.  Each Argent Cell upgrade to the Ammo Capacity increases your capacity by 1 Fuel.
+So fully upgraded, you have a capacity of 7 Fuel Units.
+
+Killing with a chainsaw is considered a Glory Kill that'll dump a huge pile of ammo.
 
 Fuel to kill various demons:
 * Imp: 1
@@ -267,6 +289,10 @@ After killing it, kill the remaining 4 weaklings.
 
 ## Mission 0: Meet the Imp
 
+Interact with a corpse to get the SHOTGUN.
+
+Enter the next room.
+
 A quick cut-scene will play as the IMP scurries down from the rafters.
 Kill it, obviously (using the Shotgun).
 
@@ -293,7 +319,7 @@ As you approach another tall cliff, you can see Imps running off into the horizo
 This is the first real fight of the game.  It occurs on a 2-level dual-figure-eight structure.
 
 Like many fights throughout the game, you will learn your own opening gambit.
-For me, I target the 2 Possessed Soldiers that appear right in front of you:  one in the center in front of a pinnacle, and one near a barrel that can be shot.
+For me, I target the 2 POSSESSED SOLDIERS that appear right in front of you:  one in the center in front of a pinnacle, and one near a barrel that can be shot.
 After that, just keep moving and shooting.
 
 You'll be able to recharge over the next easy fight, so use up all the health and armor during the fight.
@@ -333,21 +359,21 @@ Mostly, this fight isn't worth the effort.
 
 After this, jump onto the crates at the end of the landing bay, and jump the chasm.
 
-At the end of this area, you may catch a glance of the Field Drone flying away to the right.  But go left to an area with Health and Armor, and the second Codex Entry "Environments / The UAC".
+At the end of this area, you may catch a glance of the Field Drone flying away to the right.  But go left to an area with Health and Armor, and the second CODEX ENTRY "Environments / The UAC".
 
 ## Mission 1: Fight: Just Across the Chasm
 Go back, and to the right where you saw the Field Drone; it's floating right ahead.  Interact with it:  I tend to get Explosive Shot as it makes an upcoming challenge easier, but it isn't necessary.
 
 You will come across some The Possesseds worshipping a corpse.  There are 3 Possessed Soldiers around in the peripheries as well, and they will be join in the fun by some Imps that'll spawn, potentially close to you.
 
-After killing them, Checkpoint.
+After killing them, CHECKPOINT.
 
 ## Mission 1: Fight: Pre Entranceway Area
 This canyon can be approached in two ways: (1) go directly up the canyon, (2) back up and ascend some cliffs (there's a Health), cross over the canyon on a land bridge, then turn left and climb up a yellow metal wall.
 
 Either way, expect 5+ Imps (plus some The Possesseds).
 
-Checkpoint.
+CHECKPOINT.
 
 You should see a suit of Armor on a small plateau.  Just before that, at the canyon's bottom, look around for a small backfacing greenlit "secret" tunnel.
 It leads to a cliff with SECRET 1.3 to "Imp Model, Classicguy".
@@ -395,7 +421,7 @@ A battle awaits after opening the next door.
 ## Mission 2:  Fight:  U-shaped catwalk area
 This can be a difficult fight, but judicious use of Grenades, Barrels, and Possessed Engineers can make it fairly painless.
 
-Post Fight:  There's a Codex Entry "Environments / Resource Operations" and a door.
+Post Fight:  There's CODEX ENTRY "Environments / Resource Operations" and a door.
 
 You can enter the room through a path with more goodies by looking for a screen in the left of the control console that you can interact to "???".  This will stop the fast moving elevators at the central part of the U.  Climb up the elevators and enter through the second story for health, armor, and shotgun ammo.
 
@@ -407,7 +433,7 @@ A long hallway fight, with a bit of a side-corridor at the end.
 You can fight it from the entrance gate, or you can charge in.
 It doesn't really make much difference.
 
-??? Checkpoint
+??? CHECKPOINT.
 
 ## Mission 2:  Getting the yellow keycard
 Cross the train-tracks on the far-side of the room from your entrance.  You will see a gas canister across the tracks.  Turn left and carefully go through the hatch which automatically opens and closes.  It is an elevator.  When the door opens on the upper level, there should be a large armor.  Take it and go forward.  There should be a train on the left leading back to the Industrial Train Depot, and on the right is a Security Station.
@@ -485,12 +511,12 @@ Take the platform back toward the building: there should be a suit of armor in f
 An automatic door will open, with 2 Possessed Soldiers and 1 Possessed Security.
 Toss a grenade back in.  The chainsaw can be a good way to deal with the Shielded guy.
 
-Checkpoint.
+CHECKPOINT.
 
 ## Mission 2:  Fight: Entranceway / Control Room Area
 Three Imps and a few The Possesseds.
 
-There's a assault rifle and Codex Entry "Monsters / Possessed Security" here.
+There's a assault rifle and CODEX ENTRY "Monsters / Possessed Security" here.
 
 In the control console area is a screen you can use to open the next door.
  
@@ -525,6 +551,11 @@ Here's a quick description of each Gore Nest:
 
 The Main Foundry Area is the large open area with molten metal floors and platform-walkways.
 
+Notes on Combat Challenges:
+* Three Possessed, One Barrel: the easiest opportunity for this is early on, but you can also do it in the Argent Cell fight.
+* Curb Stomp: Gore Nest 2 in the yellow molten Main Foundry Area is the easiest, but there's a lot of random Possessed Soldier around.  ??? do Hell Razers count for this?
+* Quite the Collector: easy with this guide, I hope.
+
 ## Mission 3: Fight: The Tunnel Of Secrets
 I'm not really sure where to include this protected tunnel system
 that connects various points of the Main Foundary Area.
@@ -533,7 +564,7 @@ This is more of an exploratory area than a fight, but it is strewn with minor de
 
 It is hard to describe all the turns and the 3 entrances to this area,
 but it can be explored easily enough.  Just make sure you find:
-* Codex Entry "..." in a dead-end room with some armor
+* CODEX ENTRY "..." in a dead-end room with some armor
 * SECRET 3.4 / Rocket Launcher:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, ELITE GUARD 3.1???
 
 There are three access points to this convoluted area.
@@ -552,7 +583,7 @@ To the right is a Possessed Soldier you can Death-From-Above Glory Kill (as need
 
 Go back, though, through the door and find FIELD DRONE 3.1.
 Use it as you wish (I tend to like Assault Rifle's Tactical Scope).
-There is also Codex Entry "Environments / Foundry" here.
+There is also CODEX ENTRY "Environments / Foundry" here.
 
 Keep going back past some firey doors to a control console.  You can try to unlock the door (you don't have access) or watch a replay to see where the Yellow Keycard Guard has gone.
 
@@ -587,7 +618,7 @@ To get here, go out of the Field Drone area, and go straight veering around the 
 
 4 Imps, a Possessed Security and two Possessed Soldiers in back are ready to fight you.  The Shielded guy is the biggest problem, and the chainsaw may be the most effective way to deal with him.
 
-Taking the Keycard creates a Checkpoint.
+Taking the Keycard creates a CHECKPOINT.
 
 ## Mission 3: Fight: Getting Away with the Yellow Keycard
 
@@ -602,11 +633,11 @@ SECRET 3.3 is the classic doom level.  From the yellow keycard area, look back o
 
 ## Mission 3: Using the Yellow Keycard
 As you approach the yellow keycard door, a Hell Knight will surprise you.
-Entering the door creates a Checkpoint, so it is advisable to stock up on ammo, armor and health before entering.
+Entering the door creates a CHECKPOINT, so it is advisable to stock up on ammo, armor and health before entering.
 
 ## Mission 3: Fight: Hall after Yellow Keycard, before Gore Nest 3
 After picking up whatever supplies from the anteroom,
-including Codex Entry, "UAC Personnel / Samuel Hayden",
+including CODEX ENTRY, "UAC Personnel / Samuel Hayden",
 enter a hall where some repair robots appear to be working on a crate.
 
 Initially there are just two Possessed Soldiers (on the left-hand side)  If you stay near the entrance wall, nobody else will spawn, and it is suggested to kill these guys before charging in.
@@ -647,7 +678,7 @@ You may be ambushed by some Imps as you find your way to the waypoint.
 
 The Turbine Room door, which the game will guide you to, is now unlocked.
 
-/PONR/:  Once you enter this area, you can't return to get anything.  Also, you will get a Checkpoint before a big fight, so it is advisable to stock up on supplies before entering.
+POINT OF NO RETURN:  Once you enter this area, you can't return to get anything.  Also, you will get a CHECKPOINT before a big fight, so it is advisable to stock up on supplies before entering.
 
 ## Mission 3:  Fight:  Turbine Room
 This fight as two waves, both consisting of Imps and Hell Razers (XXX: are there PS?).  At the end of the first wave is 1 Hell Knight; the second wave ends with 2 Hell Knights.
@@ -662,6 +693,12 @@ Open the Shutters (interact with the screen), to watch a cut-scene with Olivia P
 Immediately after that, an Imp and 2 The Possesseds will spawn.
 
 # Mission 4:  Argent Facility "Beginning of the End"
+
+Notes on Combat Challenges:
+* Walk the Path and Bird's Eye View: easy with this walkthrough, hopefully.
+* To Be Knighted:  this is pretty hard since these guys are so tall.
+The Dazed and Confused rune can be useful to give you more time to figure out how to jump over them - it usually requires jumping from above, unless they are crouched.  Of course, a cheesy way is to replay this mission after you have the Jump Boots which make it substatially easier.
+
 ## Mission 4: Introduction
 Go forward and Open the Airlock to find yourself in an industrial open-air area:
 immediately in front of you is a trash fire and ahead of you is a blocked-off bridge.
@@ -679,7 +716,7 @@ After succeeding at the Rune Challenge, the Rune is NOT automatically equipped, 
 If you want, grab the ammo on the right pathway, but the mission continues to the left.
 
 In front of a closed door, you'll see some Health and Ammo,
-and a Codex Entry "Environments / Argent Facility".
+and CODEX ENTRY "Environments / Argent Facility".
 Less obviously, befind some barrels to the left, is a Classic Doom Level Lever -
 the lever is in the dark and hard to see.
 Pull it: the "retro" level itself will be easy to see ahead.
@@ -692,7 +729,7 @@ Continue out the hall to run into 2 Possessed Securities and a bunch of The Poss
 
 You can retreat into Hall (and it can be a good way to start the fight, say, with a few Grenades).  But the new monsters will start to spawn behind you, and it may be easier just to stay in the open.
 
-Checkpoint.
+CHECKPOINT.
 
 ## Mission 4: Fight: Force-Field Gore Nest #1
 Jump over a crude but wide blockade to get to a view of a big glowing rectangular blue force-field.  The gore nest is just behind it.
@@ -703,7 +740,7 @@ Destroy the Gore Nest.
 
 You'll have to deal with 2 Hell Knights, 2 Hell Razers, and a bunch of Imps.
 
-Checkpoint.
+CHECKPOINT.
 
 It's probably worth going back to the Blockade you entered from, and look around for a cave (it'll be on the left as you walk toward the Force Field).
 The cave has ELITE GUARD 4.1.  There's some ammo (etc) here.
@@ -717,14 +754,14 @@ The Argent Cell is in the building on the left side of the force-field when look
 
 Entering, there will above 5 Imps spawned gradually.
 
-Once they are gone, Checkpoint.
+Once they are gone, CHECKPOINT.
 
 Now, find ARGENT CELL 4.1 behind some tanks.  Use it: most players will opt for Health.
 
 ## Mission 4: Argent Filter associated with Gore Nest #1
 Open the small door on the lower floor near the Gore Nest's old location.
 Enter to find a Possessed Engineer and a few The Possesseds.
-There is also a Codex Entry "Personnel / VEGA".
+There is also CODEX ENTRY "Personnel / VEGA".
 Make a left to follow the waypoint and interact with the Argent Filter
 for a cut scene.
 
@@ -748,7 +785,7 @@ Fight:  Imps and Hell Razers with 2 Hell Knights.
 ## Mission 4: Argent Filter associated with Gore Nest #2
 Go into the closest door to Gore Nest 2, on its same level - it is somewhat inset - a waypoint should be leading in this general direction.
 Inside the building, go along the walkway to a closed green door with the waypoint behind it by 15 meters.
-Enter and interact to destroy the Argent Filter #2 and get a Checkpoint.
+Enter and interact to destroy the Argent Filter #2 and get a CHECKPOINT.
 
 There is also a Plasma Rifle here.
 
@@ -784,7 +821,7 @@ Start at the Force Field (Gore Nest #1) - when facing the field, go down the pat
 You should see an active door, and a series of plateaus that lead to a Munitions Crate.  Immediately to the right of that is a level path that becomes a sidewalk for a building.  Some Possesseds appear here.  At the end of the walkway is ELITE GUARD 4.3.
 
 ## Mission 4: Fight: Lab (Optional)
-This area has a Health Station, FIELD DRONE 4.2, Gas, and Codex Entry "Monsters / Hell Razer", but isn't necessary to the completion of the Mission.
+This area has a Health Station, FIELD DRONE 4.2, Gas, and CODEX ENTRY "Monsters / Hell Razer", but isn't necessary to the completion of the Mission.
 
 Field Drone #2 is on the upper level - it can sometimes take a few seconds to fly in once combat is over.
 
@@ -796,12 +833,12 @@ The Possessed Guards tend to be in the lower story and entering there catches th
 
 There are also 5? Imps and a bunch of Possesseds and Possessed Engineers.
 
-You'll get a Checkpoint when the bad guys are cleared.
+You'll get a CHECKPOINT when the bad guys are cleared.
 
 
 ## Mission 4:  Fight: Icy Gore Nest #3
 There are 3 entrances to this area:
-* Lower Entrance: from Gore Nest 2, go down ... to a active motion-sensing door.
+* Lower Entrance: from Gore Nest 2 (the Union Aerospace tank), go down a dirt path to where it becomes a catwalk instead, to the end at a active motion-sensing door.
 * Mid-Lower Entrance: ... [on opposite side of building]
 * Upper Entrance: ... [above Auto-Map area]
 
@@ -812,21 +849,21 @@ bunch of The Possesseds.
 
 SECRET 4.1: You can actually use this area at any time.  
 It is the through the door on the lowest floor area.
-There's the Auto-Map in here, and it'll Checkpoint.  Of course, the Auto-Map achieves the "Bird's Eye View" Combat Challenge.
+There's the Auto-Map in here, and it'll CHECKPOINT.  Of course, the Auto-Map achieves the "Bird's Eye View" Combat Challenge.
 
 Fight: Once the Gore's Nest is destroyed, 1 Hell Knight spawns immediately along with a wave of Hell Razers and Imps.  There's Gas on the second level (and other supplies) in case you want to chainsaw anyone.
 
 Post-Fight:
 Now, go in to destroy the Argent Filter.
 
-There's a Munitions Crate, Gas??, a Health Station, Codex Entry "Monsters / Hell Knight".  Destroy the Argent Filter and go outside for the last battle in this icy area.
+There's a Munitions Crate, Gas??, a Health Station, CODEX ENTRY "Monsters / Hell Knight".  Destroy the Argent Filter and go outside for the last battle in this icy area.
 
 ## Mission 4:  Fight: Destroying the Icy Argent Filter
 This is your introduction to the Summoner.  She will spawn centrally the instant you exit the control booth.  The Rocket Launcher (especially with Lock-On) is a nice approach, as is the Chainsaw, but she can really be killed by any weapon.
 
 Besides her, there are 3? Imps and a Hell Razer, making this an otherwise small fight.
 
-Checkpoint.
+CHECKPOINT.
 
 I recommend leaving the building through the top exit, above the Auto-Map.
 
@@ -867,6 +904,12 @@ Then we cross a damaged bridge to the Tower itself.
 
 The tower is big and tall - most of the level is spent ascending it.
 
+Notes on Combat Challenges:
+* Chiropractor: Imps are a bit scarce in convenient locations.
+There are a lot on the bridge, but you'll have to be slightly patient to lure them into Glory Kill range, and even then sometimes they'll be at the back of a platform and it's not possible to get behind them.  There are a number in the fight outside the tower, including 4 near the entrance to the fight (and checkpoint).  There are a few in the first big fight, and there's 4 scattered at the upper regions of the tower.  Finally, there's some in the giant fight at the end of the level.
+* Searching High and Low: easy.
+* Overkiller: there are 3 Quad Damage Powerups: in the fight just outside the tower, in the fight in the base of the tower, and in the truncated big fight at the end of the mission.  It is quite possible to achieve this in any of those fights: as long as you use the powerup you'll probably be fine.  I recommend Plasma Gun/Heat Blast for bulk killing.
+
 ## Mission 5: Fight: Intro to Level, and Revenants
 
 You start on a useless platform, and have to jump left to get to the Maintenance Hangar that VEGA alludes to.
@@ -878,7 +921,7 @@ In total, there's about 3 Possessed Soldiers, 3 Hell Razers, 3 Possessed Enginee
 
 ## Mission 5: Maintenance Hanger miscellany
 
-Enter the locker room and retrieve the Jump Boots, as well as a Codex Entry "Environments / Argent Energy Tower", various Ammo, and a Health Station.
+Enter the locker room and retrieve the Jump Boots, as well as CODEX ENTRY "Environments / Argent Energy Tower", various Ammo, and a Health Station.
 
 Exiting the locker room, go right (back toward the entrance) and double-jump up onto a platform;
 U-turn and look left for another platform to up-jump.
@@ -919,7 +962,7 @@ As you are working over, you'll go through a pair of tunnels.  The flat area ahe
 From the tunnels, you can and should access FIELD DRONE 5.1 and a SECRET 5.2.  Get on top of either tunnel, and double-jump across to a platform (it has a green light).  Jump left up a series of airy platforms to an enclosed bluish area with 8 The Possessed stumbling about with a Possessed Engineer on the upper deck (near a suit of armor).
 Right outside (on a bridge) is a Possessed Security.
 
-Across the bridge is a guard house, which is Secret #2.  Inside is a Hell Knight who will charge at you; and 2 Possessed Soldiers and a Possessed Security who will stay in the shed.  Take them out to find Field Drone #1, some health, Codex Entry "Monsters / Revenant".  Continue along a walkway to some armor.
+Across the bridge is a guard house, which is Secret #2.  Inside is a Hell Knight who will charge at you; and 2 Possessed Soldiers and a Possessed Security who will stay in the shed.  Take them out to find Field Drone #1, some health, CODEX ENTRY "Monsters / Revenant".  Continue along a walkway to some armor.
 
 When done, jump down to a long walkway that goes almost the whole length of the bridge.  There's a long gap that have been torn apart: you'll have to double-jump.
 
@@ -930,7 +973,7 @@ Note:  You can get back, but it's not necessary and more difficult than jumping 
 
 Cut scene.
 
-Enter the next room to find a Health Station, Codex Entry "Monsters / Summoner", and most important Auto-Map.
+Enter the next room to find a Health Station, CODEX ENTRY "Monsters / Summoner", and most important Auto-Map.
 
 ## Mission 5: Fight: Tower Exterior
 Enter the next area to surprise 2 Imps.  Looking at the Imps, there's some Plasma ammo to your left.  Ahead, the platform has an upper outer story and a lower inner story.  Further ahead, on a higher platform, is a Quad Powerup - it glows purple brightly.
@@ -962,7 +1005,7 @@ Drop down the train area to get back to the Elite Guard, and continue back to wh
 
 OK, continue down this short dingy corridor, and you'll find a Hatch, at left, along with some a rocket launcher.
 
-/PONR/: Dropping down this hatch is irreversible, and a Checkpoint is created immediately on hitting the ground.
+POINT OF NO RETURN: Dropping down this hatch is irreversible, and a CHECKPOINT is created immediately on hitting the ground.
 
 ## Mission 5: Fight: Base of Tower
 This fight begins with a cut-scene introducing us (somewhat) to the Mancubus.
@@ -1046,6 +1089,11 @@ TODO: Timings
 
 # Mission 6:  Kadingir Sanctum "Into the Fire"
 
+Notes on Combat Challenges:
+* Dead Man Stalking: these guys can be easy to miss.
+* Momentum Swing: fairly easy if you use all the powerups (just don't "save" them for too long).
+* Sweep the Leg: there's not a huge number of these guys in convenient locations, and the glory kill is a bit hard to execute anyways.  Don't miss any opportunities!
+
 ## Mission 6: Fight: To get the Yellow Skull
 Because there are no Checkpoints, this sequence of fights is gathered together.
 
@@ -1068,7 +1116,7 @@ Quickly jump down the Pit area, to trigger two waves:
 ## Mission 6:  Accessing and Using the Yellow Skull
 The game's waypoint will lead you to a switch (only accessible once all the above demons are killed).  After actuating the switch, walk across the pit to a newly opened area with armor and the Yellow Skull.
 
-Now, find the Yellow Skull Door, by walking up the path from where the last fight started.  Open the Door to walk in and find Codex Entry "Artifacts / Slayer's Testament #1" and ELITE GUARD 6.1.
+Now, find the Yellow Skull Door, by walking up the path from where the last fight started.  Open the Door to walk in and find CODEX ENTRY "Artifacts / Slayer's Testament #1" and ELITE GUARD 6.1.
 
 Proceed onward to the next fight.
 
@@ -1133,7 +1181,7 @@ Detour for SECRET 6.2:  Jump to the Island with the Armor and jump across to a l
 
 Island-Hop using the upper chain of islands.  At the end of this sequence of 5? Islands is a Skull Switch:  you will see the Iron Gate to the next part of the level raise when you actuate it.
 
-You won't get a Checkpoint until everything is cleared (except the Hell Knight)- usually that occurs after the pair of Cacodaemons.
+You won't get a CHECKPOINT until everything is cleared (except the Hell Knight)- usually that occurs after the pair of Cacodaemons.
 
 ## Mission 6: Fight: Second Pit
 
@@ -1149,18 +1197,18 @@ You can continue up the stairs for the main campaign path, or you can return to 
 
 The right-hand cave has a suit of armor and an Automap.
 
-The left-hand cave has a green teleporter to a treasure room of sorts with Codex Entry "Artifacts / Slayer's Testament #2".
-You could teleport back, but instead look for the exit corridor and find another Codex Entry "Environments / Kadingir Sanctum" and ELITE GUARD 6.3.
+The left-hand cave has a green teleporter to a treasure room of sorts with CODEX ENTRY "Artifacts / Slayer's Testament #2".
+You could teleport back, but instead look for the exit corridor and find another CODEX ENTRY "Environments / Kadingir Sanctum" and ELITE GUARD 6.3.
 
 Finish the detour by following the corridor and using the yellow lift to cross the chasm.  If you go straight, then left, you should see the stairs leading down to Rune Challenge #2 (and a suit of armor).
 
 Descend the stairs about halfway (above the decorative gate) and look for a ledge to the left you can jump onto to find SECRET 6.3: "Mancubus Model, Redguy".
 
-Back at the top of the stairs, find a FIELD DRONE 6.1 (now's time to get the Gauss Cannon's Siege Mode) and a Codex Entry "Artifacts / Doom Marine".
+Back at the top of the stairs, find a FIELD DRONE 6.1 (now's time to get the Gauss Cannon's Siege Mode) and CODEX ENTRY "Artifacts / Doom Marine".
 
 A few stray small armor mark the top of a steep staircase.  Descend it to see a holographic replay of Dr Hayden and some guards.
 
-/PONR/: Once you go through the gate ahead, you will no longer to able to get back to the earlier parts of the level.
+POINT OF NO RETURN: Once you go through the gate ahead, you will no longer to able to get back to the earlier parts of the level.
 
 Pass through the gate (it'll open for you), into a fight scene.
 
@@ -1191,20 +1239,20 @@ And 2 Lost Souls to watch out for.
 
 Instead of charging out island-hopping, turn right, and go up some stairs to overlook a Mancubus and 2 Revenants fighting.  Help them kill each other with a suitable weapon (ie Rocket Launch or Gauss Cannon).
 
-Go ahead and island-hop over to the largest platform which should have some shotgun ammo.  Turning left, 2 Cacodaemons will appear: kill them (using e.g. the rocket launcher).  Go to the edge where the Cacodaemons appeared, and look across the chasm to see that a few islands connect you to another dilapidated staircase across the way.  Make your way over.  The landing hand a few small health, a Codex Entry "Monsters / Mancubus" and Gas.
+Go ahead and island-hop over to the largest platform which should have some shotgun ammo.  Turning left, 2 Cacodaemons will appear: kill them (using e.g. the rocket launcher).  Go to the edge where the Cacodaemons appeared, and look across the chasm to see that a few islands connect you to another dilapidated staircase across the way.  Make your way over.  The landing hand a few small health, CODEX ENTRY "Monsters / Mancubus" and Gas.
 
 3 Unwilling and a Mancubus guard another tunnel: you should get a Checkpoint here.
 
 Continue up some stairs, to find 4 more Unwilling wandering around some armor:
 good target fodder.
 
-A Codex Entry "Artifacts / Slayer's Testament #3" is found.
+A CODEX ENTRY "Artifacts / Slayer's Testament #3" is found.
 
 The last easy fight is about 5 Imps fighting 10 Unwilling.  (I like to work on the Savagery Rune and the Seek and Destroy Rune for this easy fight).
 
 Don't miss ELITE GUARD 6.4 here!  (to the left from the way you entered)
 
-Enter a well-stocked tunnel ending with a Codex Entry "UAC Personnel / Olivia Pierce" for a Checkpoint preceding the final fight of the mission.
+Enter a well-stocked tunnel ending with CODEX ENTRY "UAC Personnel / Olivia Pierce" for a Checkpoint preceding the final fight of the mission.
 
 ## Mission 6:  Fight: Finale
 
@@ -1223,9 +1271,16 @@ Interact with the screen ??? to exit the level.
 
 # Mission 7:  Argent Facility (Destroyed)  "Hell on Mars"
 
+Notes on Combat Challenges:
+* Skeet Shot:  Revenants fly into the air periodically to target you,
+and so the challenge isn't so much shooting them as killing them (they can take a lot of damage).  Gauss Cannon/Siege Mode will reliably kill them in one hit;
+Rocket Launcher/Lock-On will reliably kill them in two hits.  So these are my favorite weapons for this challenge.
+* Close Encounters:  there's a fair amount of gas in this level, but it can be easy to forget to use the Chainsaw.  Note that it can be best just to mostly fulfill the challenge on some easier demons, since they take much less fuel.
+* Knowledge is Power: easy
+
 ## Mission 7: Introduction
 
-Pick up a Codex Entry "Monsters / Barons of Hell"
+Pick up CODEX ENTRY "Monsters / Barons of Hell"
 
 Go ahead and exit to the outdoor walkway, turning right (since left is blocked by fire).
 
@@ -1244,7 +1299,7 @@ You'll get a Checkpoint shortly before a long double-jump.  It's not really diff
 
 Drop into the hallway through the gaping hole in its roof.  Turn around to find an ELITE GUARD 7.1 (along with some armor and shotgun ammo).
 
-Go forward to the computer area.  Find a Codex Entry "Environments / Argent Facility".
+Go forward to the computer area.  Find CODEX ENTRY "Environments / Argent Facility".
 
 Interact with the computer for a 48 second cut scene, whose immediate consequence is that you need a yellow keycard.  A marker will take you to the airlock, which has a screen you can interact with.
 
@@ -1298,7 +1353,7 @@ The fight begins with 2 Pinkies and at least 1 Possessed Soldier (and a hard-to-
 
 After killing those Pinkies, another wave of 4? Pinkies (etc) is triggered.
 
-After the fight, visit the Auto-Map, and get the Codex Entry "UAC Personnel / Dr Samuel Hayden 2".
+After the fight, visit the Auto-Map, and get the CODEX ENTRY "UAC Personnel / Dr Samuel Hayden 2".
 
 There's also a Health Station here.
 
@@ -1322,7 +1377,7 @@ A second wave (somewhat indistinct), is another Revenant, Cacodaemon and a few I
 The third wave is different: two Pinkies and a Mancubus.   These guys come out of the hangar ahead of you, and if you time it right, you can take them out with a single satisfying Quad-Damage Siege Cannon on the bridge.
 
 ## Mission 7: Fight: Indoor Gore Nest
-Enter the building picking up health, Gas, Plasma, and Codex Entry "Monsters / Mancubus 3".
+Enter the building picking up health, Gas, Plasma, and CODEX ENTRY "Monsters / Mancubus 3".
 
 Almost the entire pre-fight can be handled with a single Gauss Cannon Siege Mode shot.
 Except you may have to deal with a pernicious Hell Razer, plus a lurking Possessed Security (use the Gauss Cannon on this fool, who hides on the left as you approach the Nest).
@@ -1360,7 +1415,7 @@ After killing all that, you should find a Checkpoint.
 ## Mission 7: Fight: Upper Gore Nest
 
 Continue along the ledge, jumping around to the green-lit ledges.
-At the top, you'll find an airship with some loot - including a Codex Entry "Monsters / Cacodaemon", a Hell Knight, a few Imps, and a bunch of Possessed worshipping the Nest.
+At the top, you'll find an airship with some loot - including CODEX ENTRY "Monsters / Cacodaemon", a Hell Knight, a few Imps, and a bunch of Possessed worshipping the Nest.
 
 Kill the Hell Knight and the Imps, and use the Possesseds for target practice.
 
@@ -1395,6 +1450,11 @@ A few Possessed Soldiers and a number of The Possessed lurk here, useful for som
 
 # Mission 8: Advanced Resource Complex "A Brighter Tomorrow"
 
+Notes on Combat Challenges:
+* Bottle Opener:  quite easy as there's a lot of The Possesseds wandering around in non-threatening situations
+* Double Take:  watch out!  you can't do this in replay if you miss a Rune!
+* Hide and Seek: easy
+
 ## Mission 8: Introductory Lobby (with small Fight)
 Enter a large lobby area, finding a Mancubus killing some The Possesseds.
 After killing these, look for a pair of restrooms.  In the Men's Restroom is some armor you can save for later maybe.
@@ -1406,7 +1466,7 @@ After exiting the Secret Room, you'll enter a Security Area with 6? The Possesse
 ## Mission 8: Fight: Main Lobby
 Exiting the security area, there's a handful of The Possessed to dispatch.  Then a Possessed Soldier or two, and finally a Possessed Security and a Hell Knight in the main lobby area.  Keep moving and focus on the meaner demons.
 
-Watch a holographic replay of Dr Hayden and Olivia Pierce arguing about her research.  Meanwhile, pick up a Codex Entry "Environments / Advanced Research Complex 2" from the main desk.  When you interact with the panel to open the main building, there will be a Checkpoint, so gather supplies before that - the upcoming fight can be a bit difficult.
+Watch a holographic replay of Dr Hayden and Olivia Pierce arguing about her research.  Meanwhile, pick up CODEX ENTRY "Environments / Advanced Research Complex 2" from the main desk.  When you interact with the panel to open the main building, there will be a Checkpoint, so gather supplies before that - the upcoming fight can be a bit difficult.
 
 ## Mission 8:  Fight: Central Area of ARC
 The entryway contains 6 Imps worshipping or something.  Use a grenade or whatever you need for weapon or rune upgrades.
@@ -1421,14 +1481,14 @@ Once the Summoner comes into existence, grab the Beserk Powerup.  In a mad rage 
 
 All the bad guys being dispatched, follow the in-game waypoint to Dr Samuel Hayden's office.  
 
-/PONR/: You can't come back here, so if you are missing the Auto-Map or the Elite Guard, get them now.  (??? check that they're even still available post-fight?)
+POINT OF NO RETURN: You can't come back here, so if you are missing the Auto-Map or the Elite Guard, get them now.  (??? check that they're even still available post-fight?)
 
 Dr Hayden will resupply you to a large extent (he could really use a Mega Health but whatever).
 He will also explain about the "Helix Stone" and Dr Pierce's private lab "across the chasm".
 Finally he directs you to the service elevator: classy.
 
 The Dr is in no mood for futher conversation, so take the service elevator.
-When the door opens, find Codex Entry "UAC Personnel / Dr Samuel Hayden 3".
+When the door opens, find CODEX ENTRY "UAC Personnel / Dr Samuel Hayden 3".
 
 ## Mission 8: Moxim Service Bay
 The olive green area has 4? The Possesseds.
@@ -1493,7 +1553,7 @@ I'm going to go clockwise (as seen from above) starting at the Yellow Door.
 * Bluish Door "Prototype Lab 02".  4 The Possesseds.
 * Red-lit Door-ish area: there's a corpse, a Gauss Cannon and some plasma fuel.
 * Bluish Door "Prototype Lab 01".  4 The Possesseds.
-Once these guys are dead, stand on the machinery and look for an open duct.  SECRET 8.2: "Pinky Model: Pinkguy" ???  Follow the duct to drop into a room with a The Possessed, plus a Codex Entry "Weapons / BFG-9000".  Go out this door into the main circular hall
+Once these guys are dead, stand on the machinery and look for an open duct.  SECRET 8.2: "Pinky Model: Pinkguy" ???  Follow the duct to drop into a room with a The Possessed, plus CODEX ENTRY "Weapons / BFG-9000".  Go out this door into the main circular hall
 
 That's it: now go to the in-game waypoint and interact with it.
 
@@ -1535,8 +1595,13 @@ To conclude the level, enter the elevator and "Exit Facility".
 
 # Mission 9: Lazarus Labs "Lazarus"
 
+Notes on Combat Challenges:
+* Variety is the Spice of Death II:  note that glory kills on Hell Razers count as well.
+* Thread the Needle: use the BFG.  There's two fights shortly after acquiring it that should reliably achieve this.
+* Time Well Spent: easy, but also easy to miss.  Make sure you do it before leaving Olivia's back lab.
+
 ## Mission 9: Intro
-Grab Gas, the Codex Entry "Environments / Lazarus Labs", and recharge your health (you can't get back here).  In the next room you can get the rarely used Siphon Grenade.  Then jump down the chute.
+Grab Gas, the CODEX ENTRY "Environments / Lazarus Labs", and recharge your health (you can't get back here).  In the next room you can get the rarely used Siphon Grenade.  Then jump down the chute.
 
 Following the waypoint, you'll remove a corpse-chunk that's blocking the elevator, and 3 Imps will jump out.  Kill them, then use the Munitions Crate.  The non-Secret flow is to jump into the shaft and open a grate.  Instead, look behind the crates behind the Munitions Crate.  There's a duct (SECRET 9.1):  follow it to a Mega Health that'll drop you into the next fight.
 
@@ -1547,13 +1612,13 @@ Kill all these guys, and enter the green-lit doorway.
 
 ## Mission 9: More Secrets
 
-Go up some stairs in a red-lit area.  Before continuing on, turn around to see a duct with shotgun ammo.  Jump into the duct, and follow it to a grate, that you must interact with.  Enter SECRET 9.5.  Here is ELITE GUARD 9.1 and Codex Entry "Database / Elite Guard 2".
+Go up some stairs in a red-lit area.  Before continuing on, turn around to see a duct with shotgun ammo.  Jump into the duct, and follow it to a grate, that you must interact with.  Enter SECRET 9.5.  Here is ELITE GUARD 9.1 and CODEX ENTRY "Database / Elite Guard 2".
 
 Now, continue toward the in-game waypoint.  You'll pass through a transparent walkway while Dr Hayden tries to explain things.  There's lots of activity outside.
 
 At the end of this walkway, find FIELD DRONE 9.1 (probably unnecessary if you have used most of the Field Drones up to this point).
 
-You'll find yourself in a curving hallway with 4 The Possesseds, and a Codex Entry "Monsters / Cyberdaemon 2".
+You'll find yourself in a curving hallway with 4 The Possesseds, and CODEX ENTRY "Monsters / Cyberdaemon 2".
 
 Continue down the hall to a few Possessed Soldiers and a Hell Knight.
 
@@ -1566,9 +1631,9 @@ From the hatch, go into the next room: there should be two large steamy windows 
 ## Mission 9: Fight: Miscellaneous Hallway Guards
 The first room has a few Possessed Securities and many The Possesseds and a couple of Possessed Engineers.
 
-The second room has a Checkpoint (used for the next fight) and 4 Possessed Soldiers and a Hell-Razer.  The next room has a bunch of ammo and a Health Station, then drop down the hatch to enter the next fight.
+The second room has a CHECKPOINT (used for the next fight) and 4 Possessed Soldiers and a Hell-Razer.  The next room has a bunch of ammo and a Health Station, then drop down the hatch to enter the next fight.
 
-/PONR/ Once you finish the next fight, you cannot get back to this tunnel area (so make sure you interacts with Rich Get Richer, even if you didn't solve it)
+POINT OF NO RETURN:  Once you finish the next fight, you cannot get back to this tunnel area (so make sure you interacts with Rich Get Richer, even if you didn't solve it)
 
 ## Mission 9: Fight: Mancubus Operating Room
 Many Possessed Securities, The Possessed, Hell Razers, Possessed Solders, 3 Mancubi will spawn.  Toward the end of the fight is 2 Hell Knights.  I like using the Plasma Rifle Heat Wave with the Quad Damage to plow through the bad guys - but your mileage may vary.
@@ -1598,7 +1663,7 @@ This really just involves interacting with a few screens, in all cases, the in-g
 
 SECRET 9.6 "Samuel Hayden Model, Toxicguy" is found in the circular archive room.  Look on the upper floor for a red display screen (there's another similar display in a cyan color: ignore it).  Behind it, a single archive cell's light is red -- all the other lights are yellow.  Interact with this to obtain the doll.
 
-The anteroom to Olivia's Lab holds a Codex Entry "UAC Personnel / Olivia Pierce".
+The anteroom to Olivia's Lab holds CODEX ENTRY "UAC Personnel / Olivia Pierce".
 
 After a few screens, you be in Olivia's Private Lab: there's a central hologram of a stone coffin-like thing being guarded.  There's BFG Ammo, a Munitions Crate, an ARGENT CELL 9.1, and a screen to interact with.  On the left is a lone dilapidated computer where Demon Destruction can be "played": just interact with the running computer on the side and exit to get the Combat Challenge.
 
@@ -1656,7 +1721,7 @@ Use another BFG if helpful - there's a few lying around.
 When the Pinkie or Hell Knights show up, grab the Quad Powerup: it (along with Heat Blast) should be easy work of the remaining heaps of demons.
 
 ## Mission 9: Prepare for Boss fight
-Follow waypoints, grabbing supplies, along with Codex Entry "Monsters / Cyberdemon".
+Follow waypoints, grabbing supplies, along with CODEX ENTRY "Monsters / Cyberdemon".
 
 Dr Hayden explains that this fight will have two parts.  The first part is the easier one.
 
@@ -1687,8 +1752,13 @@ When the fight is over, jump into the red teleporter.
 
 # Mission 10: Titan's Realm "Titan's Realm"
 
+Notes on Combat Challenges:
+* Trick Shot:  I don't know why, but using the Rocket Launcher's Lock On mode seems to achieve this reliably.  There are other ways, but I haven't found anything as consistent.
+* Atop the Mountain:  there's a number of fights that end with the Hell Baron.  For some reason, i often accidentally kill them instead of staggering them.
+* Dominator: there's a Berserk Powerup that is your main helper here.
+
 ## Mission 10: Introduction
-From the walkway, find Codex Entry "Artifacts / Slayer's Testament #4".
+From the walkway, find CODEX ENTRY "Artifacts / Slayer's Testament #4".
 
 ## Mission 10: First Fight
 Jump far down to a bloody pit to be immediately attacked by 3 Cacodaemons.
@@ -1696,7 +1766,7 @@ As proceed up the stairs to be attacked by another Cacodaemon and a Cyber-Mancub
 
 Continue up the hellish path to a yellowish cave guarded by 4 Lost Souls and 2 Cacodaemons.
 
-Checkpoint.
+CHECKPOINT.
 
 Enter this room: you should see a bridge over a pool of toxic sludge.  If you look under the bridge, you can see a Skull Switch.  Actuate it and get out of the sludge.
 Facing into the room from the entrance, this caused an alcove to open up on the toxic floor, right next to a green torch.
@@ -1710,7 +1780,7 @@ Proceed to the right.  When you grab the suit of armor, it'll trigger 2 Hell Kni
 
 This'll trigger the spawning of a Cyber-Mancubus, which will end this fight.
 
-Checkpoint.
+CHECKPOINT.
 
 Now, pick up loot and search around for the FIELD DRONE 10.1, SECRET 10.2 (it was visible before so it may be on the map).
 
@@ -1723,7 +1793,7 @@ A gaggle of other daemons come along as well.  A few Imps, few Revenants, 2 Pink
 
 Use the Haste since this is the only fight in this area - use it to work on the Dominator Combat Challenge.
 
-Once you get the Checkpoint, approach the Teleporter and the bars will lift.  Enter for an iconic fight.
+Once you get the CHECKPOINT, approach the Teleporter and the bars will lift.  Enter for an iconic fight.
 
 ## Mission 10: Fight: Bloody Cave
 Dave's Opening: I usually turn right coming out of the Teleporter, picking up shutgun ammo and a suit of armor.  Look left into a cave before a Yellow Lift: there should be Rockets on the ground and a Quad Powerup in the background.  In a few seconds, a Mancubus will appear right on the rockets:  lob some grenades and go up the stairs right past the Yellow Lift.  You should find a Gas can, and down the hallway, the only Pinkie in this fight.  Kill it and then run and fight as usual.
@@ -1758,9 +1828,9 @@ On return, two hatches will open exposing 2 Mancubi.  You can use the Invulnerab
 
 Once they are gone, take the Invulnerability if you haven't and run up the stairs to fight 3 Pinkies.
 
-After that, the Yellow Skull Door is accessible, and a Checkpoint.
+After that, the Yellow Skull Door is accessible, and a CHECKPOINT.
 
-Before going through the Yellow Door, though, note that another passage has opened and get ARGENT CELL 10.1 and Codex Entry "Monster / Pinky".
+Before going through the Yellow Door, though, note that another passage has opened and get ARGENT CELL 10.1 and CODEX ENTRY "Monster / Pinky".
 
 ## Mission 10: Fight: Pounding Rock Area
 The Yellow Skull Door opens to reveal what appears to be a red skull switch, but it's a trap: the floor drops out and suddenly you are fighting a Mancubus, then 2 Revenants with some Imps in the background.
@@ -1782,7 +1852,7 @@ Go in to what I call the Treasure Room, and pick up some loot and a Blue Skull, 
 ## Mission 10: Fight: Treasure Room
 It starts right near the entrance/exit with 3 Spectres.  This is quickly followed by some Imps and 4 Lost Souls.  Then 2 Cacodaemons and 3 Mancubi.  Finally, a Hell Baron.
 
-Checkpoint.
+CHECKPOINT.
 
 ## Mission 10: Segue
 
@@ -1790,7 +1860,7 @@ Now, after checking for stray supplies, enter the green teleporter (the bars wil
 
 You'll be in a fiery yellow lit area.
 
-Grab Codex Entry "Artifacts / Slayer's Testament V".  Turn left for SECRET 10.6: a Mega Health (don't forget Rich Get Richer upgrade).
+Grab CODEX ENTRY "Artifacts / Slayer's Testament V".  Turn left for SECRET 10.6: a Mega Health (don't forget Rich Get Richer upgrade).
 
 Continuing along, you'll be back at the Rectangular Pit.
 
@@ -1804,10 +1874,15 @@ Use the Blue Skull and jump into the red teleporter.
 
 You find yourself in a central area of this level with the Yellow and Blue Skull doors adjacent.
 
+Notes on Combat Challenges:
+* A Pin Pops a Balloon: there are two clear opportunities for this.  Right at the beginning, and after crossing the floating islands with Cacodemons.  Try both, since it can be pretty easy to kill the Mancubus accidentally.  Dazed and Confused Rune can help a little as can ???.
+* Two Mouths to Feed: when you cross on the floating islands there's an easy place to get this.  Use Gauss Cannon / Siege Mode or BFG.
+* Wait For It:  By kicking the first barrel down the steps you can get 3 there; and the pre-fight in the Square room has 6 Possessed that are easy to get.  There's a number of other chances if you don't die on those scenes (the kills count even if you die!)
+
 ## Mission 11: Yellow Skull
 To your left at ground level is a teleporter.  Jump into it.
 
-Find a Codex Entry, "Monsters / Cyber-Mancubus".
+Find CODEX ENTRY, "Monsters / Cyber-Mancubus".
 
 ## Mission 11: Fight: Yellow Skull Prefight
 Continue along to a barrel at the top of the stairs, if you kick it down you can shoot it to kill some demons, for the Challenge.
@@ -1815,14 +1890,14 @@ Continue along to a barrel at the top of the stairs, if you kick it down you can
 Descend the stairs and quickly look back to shoot 2 Lost Souls.  A Mancubus appears at the top of the stairs:  he's a good one to use for the Pin Pops a Balloon Challenge.  If you climb the stairs, 2 more Lost Souls appear.
 
 ## Mission 11: Treats
-A Codex Entry "Artifacts / Slayer's Testament #6", Gas, and ARGENT CELL 11.1 (the last) are found by continuing down the corridor.
+A CODEX ENTRY "Artifacts / Slayer's Testament #6", Gas, and ARGENT CELL 11.1 (the last) are found by continuing down the corridor.
 
 ## Mission 11: Fight: Traps
 Go back up the stairs to where a gate has opened:  you should see a Skull Switch straight ahead in the next room, but as you approach it, a bunch of Unwilling and a Spectre spawn.
 
 Kill them and actuate the switch, causing 2 Hell Knights to spawn as you return.  Go back down the stairs and kill a Cyber-Mancubus.
 
-Checkpoint.
+CHECKPOINT.
 
 ## Mission 11: Fight: Square Arena
 This is a square torchlit bloody room with 4 big pillars.
@@ -1930,9 +2005,14 @@ After killing them, access the Crucible (which looks more like a dagger with a S
 
 # Mission 12: VEGA Central Processing
 
+Notes on Combat Challenges:
+* Variety is the Spice of Death III:  there's a lot of Imps, including 4 right soon after entering the building.
+* Gore Pinata: Plenty of opportunities for this as well.
+* My Teeth are Sharper: you can jump and chainsaw if needed.
+
 ## Mission 12: Intro
 
-Enter either door, and in the Console area look for Codex Entry "UAC Personnel / VEGA".
+Enter either door, and in the Console area look for CODEX ENTRY "UAC Personnel / VEGA".
 
 Proceed to open the airlock, and get Gas or Ammo if you want it.  Stop about 115 meters shy of the waypoint.  Look for a green-lit Mainenance Hatch.  Enter it instead of going to the waypoint.
 
@@ -1950,7 +2030,7 @@ Drop down to the area with the Security Switches.
 Note: you can use the Berserk from the earlier fight.
 
 A few Possessed Securities and 3 Pinkies and a Mancubus scattered across about 4 rooms.
-A Health Station and Codex Entry "Monsters / Revenant" are found near eachother.
+A Health Station and CODEX ENTRY "Monsters / Revenant" are found near eachother.
 There also two Elevator Shafts off to the side that have 2 Possessed Soldiers and a BFG ammo.
 
 ## Mission 12: Finding the Blue Keycard
@@ -1992,7 +2072,7 @@ After the Demonic Presence is eliminated, and you have taken all the remaining l
 
 Cheesy Strategy:  You can hide behind lowest switch: eventually Pinkies will gang up on you, but then you can take advantage of the Berserk Powerup in the tunnel leading out of the area.  So, the way I usually do the fight is go left past one switch, then go right and jump up across the gap to the second switch.  Use Tactical Scope to take out the first 2 switches from the same vantage.  Then go outside and jump down to the 3rd switch; sometimes a Cyber-Mancubus will spawn there before you jump: either chainsaw him or go over/around.  Destroy the 3rd switch and hide behind it, shooting out with the Gauss Cannon / Siege Mode etc.  At some point, grab the Berserk.  The cool thing about this is that the monsters mostly fight each other.
 
-There's also a Codex Entry in this room: "Monsters / Cyber-Mancubus".
+There's also CODEX ENTRY "Monsters / Cyber-Mancubus" in this room.
 
 Follow VEGA's suggestion to jump down onto a train below to enter the last big battle on Mars.
 
@@ -2016,14 +2096,19 @@ Wait on it, until you get to a dramatic platform area.
 
 Disable the Neural Networks on the left and right.
 
-Then go to the center console.  Pick up Codex Entry "Environments / VEGA Central Processing".  Then interact with the screen to get a cut scene that ends the level.
+Then go to the center console.  Pick up CODEX ENTRY "Environments / VEGA Central Processing".  Then interact with the screen to get a cut scene that ends the level.
 
 # Mission 13: Argent D'Nur
+
+Notes on Combat Challenges:
+* Hold Still: only the third fight is good for this, so be careful that you have both Barons in sight when you use the BFG.  It would be difficult to use the Gauss Cannon to achieve this.
+* Uncharted Territory: follow the guide.
+* Big [REDACTED] Gun: you'll probably get this without trying; you probably want to enable Ammo Boost II a lot to get even more BFG ammo.
 
 ## Mission 13: Introduction
 You start in a large upper courtyard area with loot scattered about.
 
-Eventually, go down to a Checkpoint for the fight.
+Eventually, go down to a CHECKPOINT for the fight.
 
 ## Mission 13: Fight: Sniper then Beserk
 You should start at an overlook, where you can see a Cacodaemon attacking a half dozen Imps.  I usually kill the Cacodaemon (Assault Rifle with Tactical Scope) from afar and save the Imps for up close.
@@ -2036,7 +2121,7 @@ I usually use one BFG after lots of demons have spawned, then grab the Beserk Po
 
 In theory it seems like the "Seek and Destroy" and "Savagery" Runes would may the beserk powerup more effective - I didn't really notice a difference though.
 
-When done, exit via the waypoint and Checkpoint near the blue teleporter.
+When done, exit via the waypoint and CHECKPOINT near the blue teleporter.
 
 ## Mission 13: Fight: Intro Stairs
 
@@ -2071,7 +2156,7 @@ Go back to the left route, and (I recommend) activate In-Flight Mobility.  Jump 
 
 Drop down to hear a demonic voice say "Kill Him".
 
-Checkpoint.
+CHECKPOINT.
 
 ## Mission 13: Fight: Big Fight 1
 You can start by sniping the Imps and Hell Knight, if you can see them from the cliff (you usually can).  This can be a good time to get the Gauss Cannon's Precision Shot upgrade.
@@ -2079,7 +2164,7 @@ You can start by sniping the Imps and Hell Knight, if you can see them from the 
 Once you go down (irreversibly) into the arena,
 this fight is dominated by 6 Pinkies and 2+ Hell Knights and a Cacodaemon.
 
-There's a Mega Health right after the Checkpoint for this, so it's quite a good place to start with Rich and Richer with Gauss Cannon / Siege Mode.
+There's a Mega Health right after the CHECKPOINT for this, so it's quite a good place to start with Rich and Richer with Gauss Cannon / Siege Mode.
 
 There's a Quad-Damage Powerup here as well.
 
