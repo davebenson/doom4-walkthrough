@@ -20,7 +20,7 @@ The game is heavy on action and fighting, and it keeps its cut-scenes short and 
 
 The visuals are impressive, contrasting space-tech with organic demons.
 They are also pretty gory: potential noghtmare fodder for kids.
-Even though you will plow your way through thousands of monsters in these missions, at least none were human at the time of death.
+Even though you will plow your way through hundreds of monsters in these missions, at least none were human at the time of death.
 
 ## Basic Plot Summary
 You awaken to being chained to a bed,
@@ -982,7 +982,7 @@ U-turn and look left for another platform to up-jump.
 Then down-jump into an enclosed area with a Rune Challenge (which was visible from before through some steamy glass),
 a suit of armor, and Gas can.  To exit this area, jump down.
 
-Jump up the same platforms used to access the Rune Challenge #1 "Ammo Boost", but look across the area for a floor you can jump to, under a low-beam; some armor is at the end of the jump.
+Jump up the same platforms used to access the RUNE CHALLENGE 5.1 "Ammo Boost", but look across the area for a floor you can jump to, under a low-beam; some armor is at the end of the jump.
 To the right is a crate and some rockets,
 but ignore them for now,
 and go left.
@@ -1212,7 +1212,7 @@ There is a wave of Revenants and a Hell Knight, another Cacodaemon, more Revenan
 ## Mission 6: Rune Challenge and Using the Blue Skull
 POINT OF NO RETURN:  This Rune Challenge is only accessible for a short while.  The protective gates around it are closed before you get the Blue Skull, and after you pass through a holographic ritual taking place in a corridor.  (XXX: is the Rune accessible during the above Fight??)
 
-Accessing the Rune Challenge requires jumping onto the central Rock that held the Quad Powerup.  Jump onto the smaller upper island (there are two: jump toward the one closer to the Blue Door?).  Then you should see a man-made (or demon-made) ledge to your right, with a few small Healths.
+Accessing RUNE CHALLENGE 6.1 requires jumping onto the central Rock that held the Quad Powerup.  Jump onto the smaller upper island (there are two: jump toward the one closer to the Blue Door?).  Then you should see a man-made (or demon-made) ledge to your right, with a few small Healths.
 Jump, and turn around and look up to see a higher island.  Jump to it - then continue the same direction to an upper ledge.  Climb a short ledge to a tunnel leading left to the Savagery Rune Challenge.
 
 After finishing it, go back to the main rock (where the Quad Powerup was), and jump to the "balcony" with the Blue Skull Door.  Interact, and you'll be in a pale green stone hallway: immediately on your right is an alcove containing Gas and a ARGENT CELL 6.1.  Further down, is rockets.
@@ -1244,7 +1244,7 @@ Enter to find yourself in yet another large arena centered around a "pit" with b
 In the pit, there's a tunnel with many small armor and a Haste Powerup.
 
 ## Mission 6:  Rune Challenge: "Seek and Destroy"
-After the fight a tunnel opens to the second Rune Challenge.
+After the fight a tunnel opens to the RUNE CHALLENGE 6.2.
 
 ## Mission 6:  Extracurricular Activities around the second pit
 You can continue up the stairs for the main campaign path, or you can return to the levels entrance and look for two small adjacent caves that opened up.
