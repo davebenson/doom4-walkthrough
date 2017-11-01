@@ -3,6 +3,9 @@
 # Acknowledgements and Caveats
 Thanks, id Software for making such a great game!
 
+Also, watching zomeister's Pistol-Only walkthrough helped me with several strategy points. So props to that individual: please watch the madness if you want to be inspired:
+        https://www.youtube.com/watch?v=AyVVc0FcS4E&t=6121s
+
 Caveats: I have not read the "Official" Guide by Prima Guides at this point.
 I may do so soon and amend this guide, as time permits.
 
@@ -200,9 +203,26 @@ I suggest using Super Shotgun, Chainsaw, Gauss Cannon on these guys.  But really
 These large (obese) demons shoot damaging fireballs.  The Cyber-Mancubi are somewhat more annoying because their shots leave a toxic (green) residue that you must avoid (it only lasts a few seconds).
 
 ### Hell Barons
-These are like Hell Knights except that they can shoot missiles.
+These are like Hell Knights except that they can shoot missiles.  With horns.
 
 They are really not that tough, because they can be taken down by 2 Gauss Cannon / Siege Mode shots.
+
+## Equipment
+
+Generally speaking, most players use mostly one type of Equipment: the Frag Grenade.
+It is effective, you get it early on, and it is easy to understand.
+
+The Siphon Grenade is substantially harder to aim, and less damaging, so it isn't used too much.
+
+The Hologram (sometimes called the Decoy) seems like a good idea, but I really haven't found places I personally like to use it.
+
+Contact me if you have suggestions for Siphon Grenades or Holograms!
+
+### Frag Grenades
+These have both good radius and damage and are recommended.  I know that as a beginner, I under-used them.  One problem is that they take a long time to regenerate until you get the first Praetor Suit Equipment Upgrade.
+
+### Siphon Grenades
+These pull energy from demons in their radius and give it to you.  But the amount transferred isn't that great, so it tends to be overlooked.
 
 ## Level Overview
 Mission | Subtitle | Elite Guards | Argent Cells | Field Drones | Rune Trials | Secrets | Data Logs
@@ -241,8 +261,33 @@ It does provide some icons that can be used as landmarks.
 
 Fortunately, almost every location in this game looks somewhat different, so it's not so bad.  But pay attention to the names given to certain major rooms/locations, since usually if i give it a name, then you'll arrive there a few times.
 
+# Difficulty Levels
+Based on my own experience (and I could be wrong):
+* difficulty levels affect:
+  * damage done by demons
+  * gains from ammo, armor, and healh pickups
+* difficulty levels do not affect:
+  * number or placement of demons
+  * chainsaw
+  * secrets (except the size of an Armor pickup)
+* i'm not sure if these are affected:
+  * health of monsters
+  * damage of user's weapons
+  * environmental damage to the user
+  * environmental damage to the demons
+
+Difficulty level     | Max Imp Fireball Damage | Small Armor Pickup
+---                  | ---                     | ---
+Please Don't Hurt Me | ...                     | 5
+Hurt Me Plenty       | ...                     | ...
+Ultra-Violence       | ...                     | ...
+Nightmare            | ...                     | 1
+
+Ultra-Nightmare is the same as Nightmare for this information.
+
 # Using this Guide
-Secrets, Field Drones, Argent Cells, Rune Challenges are all written in uppercase at their secret location, with dotted notation where the first number is the mission and the secret is the index of the location in the Dossier Overview/Map page.  For example, SECRET 14.3 would be the third secret in the dossier in mission 14 (but there's really only 13 missions).  This is intended to facilitate searching.
+Secrets, Field Drones, Argent Cells, Rune Challenges are all written in uppercase at their secret location, with dotted notation where the first number is the mission and the secret is the index of the location in the Dossier Overview/Map page.
+For example, SECRET 14.3 would be the third secret in the dossier in mission 14 (but there's really only 13 missions).  This is intended to facilitate searching.
 
 As a perhaps dubious consistency I will use all-caps the first time you meet a monster or can collect a weapon.  Subsequently, I will use title case.
 
@@ -369,7 +414,9 @@ You will come across some The Possesseds worshipping a corpse.  There are 3 Poss
 After killing them, CHECKPOINT.
 
 ## Mission 1: Fight: Pre Entranceway Area
-This canyon can be approached in two ways: (1) go directly up the canyon, (2) back up and ascend some cliffs (there's a Health), cross over the canyon on a land bridge, then turn left and climb up a yellow metal wall.
+This canyon can be approached in two ways:
+* go directly up the canyon
+* back up and ascend some cliffs to the left (there's a Medium Health visible), cross over the canyon on a land bridge, then turn left and climb up a yellow metal wall.
 
 Either way, expect 5+ Imps (plus some The Possesseds).
 
@@ -393,8 +440,8 @@ Enter into either of the twin doors, there's some armor - pick it up if needed, 
 # Mission 2:  Resource Operations "Know Your Enemy"
 
 ## Mission 2: Notes on Combat Challenges
-* Two-fer: kill two Possesed with one Shotgun shot.  This is easy with the Explosive Shot: use the Weapons Mod key and shoot a Possessed that is in close range of another Possessed.  Or stagger one in order to line them up carefully.
-* Variety is the Spice of Death I: perform 5 different Glory Kills on the Possessed.
+* Two-fer:  This is easy with the Explosive Shot: use the Weapons Mod key and shoot a Possessed that is in close range of another Possessed.  Or stagger one in order to line them up carefully.  It can be done without weapon mods by staggering two Possessed and getting really close to one and shooting through it to the other staggered being.
+* Variety is the Spice of Death I: perform 5 different Glory Kills on the Possessed.  There's a lot of options; use the Pistol (instead of Shotgun) to more reliably stagger (as opposed to kill) them.
 * Quite the Explorer: Find 3 Secrets.  This should be pretty easy, with this guide.
 
 ## Mission 2:  Fight:  Tiny fight before opening hatch
@@ -542,6 +589,7 @@ I recommend directing the Argent Energy toward your Health.
 This mission has 4 Gore Nests you need to destroy.
 The first two can be destroyed at any time.
 The third requires a Yellow Keycard and the fourth requires a Blue Keycard.
+Getting the Blue Keycard requires a Yellow Keycard.
 
 Here's a quick description of each Gore Nest:
 * Gore Nest 1:  In the area behind the Field Drone
@@ -555,29 +603,6 @@ Notes on Combat Challenges:
 * Three Possessed, One Barrel: the easiest opportunity for this is early on, but you can also do it in the Argent Cell fight.
 * Curb Stomp: Gore Nest 2 in the yellow molten Main Foundry Area is the easiest, but there's a lot of random Possessed Soldier around.  ??? do Hell Razers count for this?
 * Quite the Collector: easy with this guide, I hope.
-
-## Mission 3: Fight: The Tunnel Of Secrets
-I'm not really sure where to include this protected tunnel system
-that connects various points of the Main Foundary Area.
-
-This is more of an exploratory area than a fight, but it is strewn with minor demons.
-
-It is hard to describe all the turns and the 3 entrances to this area,
-but it can be explored easily enough.  Just make sure you find:
-* CODEX ENTRY "Monsters / Imp" in a dead-end room with some armor
-* SECRET 3.4:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, ELITE GUARD 3.3 and the ROCKET LAUNCHER.
-
-There are three access points to this convoluted area.
-Here's a description of each of them:
-
-* Gore Nest #2 Access
-  * From the vicinity of Gore Nest #2: looking out to the main area, the catwalks on the right should have two stories.  Get to the upper story, and you'll find a small doorway.
-  * From the tunnel, look for blood streams and an obvious exit.
-* Mid-level Entrance
-  * From the tunnel: look for an observation room; the door it outside the window looking in.
-* Yellow Keycard Guy Access
-  * From the guy: go out to a downward staircase; at its bottom turn into a small door.
-  * From Tunnel: look for a green-lit room with 2 large white boxes.  Stand on the box(es) and jump to a yellow patterned ledge.
 
 ## Mission 3:  Gore Nest 1
 From the entrance area, exit into the Main Foundry Area.
@@ -615,6 +640,32 @@ Pre-Fight: A good place to use the heat blast, and a fine place to work on the C
 Gather supplies then destroy the Gore Nest.
 
 As suggested by the Gas tank near the Nest, you may wish to use chainsaw here since you might be low on ammo.  Otherwise, just use a mix of weapons; I often mostly use Heat Blast here.  This is a mix of Possessed Soldiers, Imps, and Hell Razers.
+
+## Mission 3: Fight: The Tunnels Above Gore Nest 2
+This system of tunnels can be entered any time, except during combat.
+But you'll probably want to do it right after Gore Nest 2.
+
+It connects various stories of the Main Foundary Area overlooking Gore Nest 2.
+
+This is more of an exploratory area than a fight, but it is strewn with minor demons.
+
+It is hard to describe all the turns and the 3 entrances to this area,
+but it can be explored easily enough.  Just make sure you find:
+* CODEX ENTRY "Monsters / Imp" in a dead-end room with some armor
+* SECRET 3.4:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, ELITE GUARD 3.3 and the ROCKET LAUNCHER.
+
+There are three access points to this convoluted area.
+Here's a description of each of them:
+
+* Lower Entrance / Gore Nest #2 Access
+  * From the vicinity of Gore Nest #2: looking out to the main area, the catwalks on the right should have two stories.  Get to the upper story, and you'll find a small doorway.
+  * From the tunnel, look for blood streams and an obvious exit.
+* Middle Entrance
+  * From the tunnel: look for an observation room; the door it outside the window looking in.
+* Upper Entrance / Yellow Keycard Guy Access
+  * From the guy: go out to a downward staircase; at its bottom turn into a small door.
+  * From Tunnel: look for a green-lit room with 2 large white boxes.  Stand on the box(es) and jump to a yellow patterned ledge.
+
 
 ## Mission 3: Fight: Obtaining the Yellow Keycard
 To get here, go out of the Field Drone area, and go straight veering around the Blue Keycard Area.  Before you enter, you may see some Plasma Ammo.
@@ -793,7 +844,7 @@ Enter and interact to destroy the Argent Filter #2 and get a CHECKPOINT.
 There is also a Plasma Rifle here.
 
 ## Mission 4: Rune and Secret
-From the small room containing the Argent Filter, turn right to a large floor with large lifts.  You can probably see the glowing green Rune Challenge #2: "Dazed and Confused" on the lift in the opposite corner of the building (from the entrance, look at the opposite corner - the rune is on the structure just to the right of center).
+From the small room containing the Argent Filter, turn right to a large floor with large lifts.  You can probably see the glowing green RUNE CHALLENGE 4.2: "Dazed and Confused" on the lift in the opposite corner of the building (from the entrance, look at the opposite corner - the rune is on the structure just to the right of center).
 
 Once done with the rune, look for a large hole that is serviced by a lift (now down).  Jump down there, and into a hallway.  On the left you should see a small block on a larger block, making a natural stairway. (A drone delivers it- wait a few seconds if the blocks aren't climbable.)  Climb up, and turn right to see a service walkway which you can jump onto to find SECRET 4.2, "Hell Knight Model, UACguy".
 
@@ -1337,13 +1388,13 @@ This is the area that had the Lever for the classic doom secret in Mission 4.
 
 
 ## Mission 7: Accessing Rune Challenge "In-Flight Mobility"
-From the Old Platform Area, there's a blue lift that'll drop you on the rock for this Rune.
+From the Old Platform Area, there's a blue lift that'll drop you on the rock for this Rune, RUNE CHALLENGE 7.1.
 
 Or, you can jump across from the cargo crates in front of the Security Station Doors.
 
 NOTE: This challenge is frustrating for many people, since it has little margin for error.  However, it is worth the practice, because the Rune is critical for some of the bosses.
 
-From this location, you can drop down SECRET 7.2 which has a Mega Health and ELITE GUARD 7.2.  Equip In-Flight Mobility.  Go to the edge of the rock with the chasm and go to the edge of the rock.  Turn around so that so can drop backward off the rock and face into it.  Walk backward and fell to a cave, jumping forward right as you see it, so that you'll land on the Mega Health.  The Elite Guard is in the shaft behind it.  To get back, jump to a rock with a blue booster.
+From this location, you can drop down SECRET 7.2 which has a Mega Health and ELITE GUARD 7.2.  Equip the In-Flight Mobility Rune (which you just got).  Go to the edge of the rock with the chasm and go to the edge of the rock.  Turn around so that so can drop backward off the rock and face into it.  Walk backward and fell to a cave, jumping forward right as you see it, so that you'll land on the Mega Health.  The Elite Guard is in the shaft behind it.  To get back, jump to a rock with a blue booster.
 
 ## Mission 7: Fight: Security Station
 To get here, from the Main Cargo Bay, look for a pile of 3 crates to climb on.  The door should have a marker on it (an in-game destination) and there should be Gas here.
@@ -1406,7 +1457,7 @@ Exit through the door near the Health Station.
 ## Mission 7: Accessing Rune Challenge: Armored Offensive
 Exit the building and turn left, killing an Imp and Revenant.
 
-Jump across to the right and follow the walkway to the end to find the Rune Challenge "Armored Offensive" (which is also SECRET 7.3).
+Jump across to the right and follow the walkway to the end to find RUNE CHALLENGE 7.2 "Armored Offensive" (which is also SECRET 7.3).
 
 This is a useful Rune for hard fights, since getting more armor is the same as more health, for the most part.
 
@@ -1510,7 +1561,7 @@ The initially a Cyber-Mancubus appears in front of you; then 2 Mancubi; then ano
 Go to the marker indicated by the game, and interact with the screen
 to "Lower Security Field".
 
-First, there's the Rune Trial (SECRET 8.8).
+First, there's the RUNE CHALLENGE 8.1 (SECRET 8.8).
 Look out onto the big chasm and turn 90 degrees left to find an airlock.  Use it to access Rune Trial "Blood Fueled" (I personally don't use this one).  There also a suit of armor.
 
 Second, there's the Classic Doom Level, SECRET 8.10.  This jump to the lever is pretty tricky.  
@@ -1578,7 +1629,7 @@ But it's probably better to work on all kinds of Weapon Upgrades (Super Shotgun,
 
 Watch the holographic replay.
 
-Before going ahead, go right through a newly green-lit door; turn left into a yellow-gold-lit narrow opening to SECREt 8.9, Rune Challenge "Intimacy is Best"
+Before going ahead, go right through a newly green-lit door; turn left into a yellow-gold-lit narrow opening to SECREt 8.9, RUNE CHALLENGE 8.2 "Intimacy is Best"
 
 ## Mission 8: Gore Nest 2
 Now, charge forward into a battle designed to showcase the BFG (and you may as well use it, since you can only store 3 charges.
@@ -1625,7 +1676,7 @@ You'll find yourself in a curving hallway with 4 The Possesseds, and CODEX ENTRY
 
 Continue down the hall to a few Possessed Soldiers and a Hell Knight.
 
-Continue up a short flight of stairs and look for a white hatch in the floor right in front of you.  Interact with it to drop with for SECRET 9.2.  Climb up to find Rune Challenge #1 "Rich Get Richer".
+Continue up a short flight of stairs and look for a white hatch in the floor right in front of you.  Interact with it to drop with for SECRET 9.2.  Climb up to find RUNE CHALLENGE 9.1 "Rich Get Richer".
 
 When done, actuate the screen near the door to exit - you'll be back at the hatch.
 
@@ -1708,7 +1759,7 @@ The hallway become increasingly bloody, and you finally open a door onto a conso
 Two identical hallways take you to a symmetric 2-level area strewn with Imps, Possessed Soldiers but mostly The Possessed.
 
 Once cleared, from the entry, go to the lounge on the right on the upper-floor.  Look around for a bloody duct at approximately head-height.
-It takes you to SECRET 9.9, Rune Trial #2, "Saving Throw".
+It takes you to SECRET 9.9, RUNE CHALLENGE 9.2, "Saving Throw".
 
 There's also ELITE GUARD 9.4. Outside the door, in the non-secret area, is a Munitions Crate.
 
@@ -2064,7 +2115,7 @@ Continue on.
 
 ## Mission 12: Fight: Coolant Generator Room
 Four Switches must be destroy (by shooting) to reroute the energy.
-It doesn't seem to matter much what order you go in. (???)
+It doesn't seem to matter much what order you go in.
 
 * Switch 1:  2 Cacodaemons and a Summoner spawn, and a long parade of Possessed Soldiers and Hell Razers and a few Imps.
 * Switch 2:  A Hell Baron, 2 Pinkies, another Summoner, 4 Lost Souls.
@@ -2224,11 +2275,14 @@ When she gets to 0% she'll stand up like she's going to attack or something, but
 
 After that, watch a cut-scene and the credits.
 
-# Ultra-Nightmare Practice Sheet: Abbreviations
+# Appendix: Ultra-Nightmare Practice Sheet: Abbreviations
+You can download a practice sheet if you want to try to train for Ultra-Nightmare, and any player could use it to improve their skills.  (TODO: as of 10-31-2017 I haven't yet actually made the practice sheet)
+
 Abbreviations for the Demon that killed you:
 * tp: The Possessed
 * uw: The Unwilling
 * ps: Possessed Soldier
+* ss: Possessed Security (aka Shielded Soldier)
 * hk: Hell Knight
 * imp: Imp
 * ls: Lost Soul
@@ -2243,9 +2297,3 @@ Modifiers:
 * immed: Immediate (w/i a few seconds) death from Checkpoint
 * oob: Out-of-the-Blue
 * ow: Overwhelmed
-
-# Ultra-Nightmare Practice Sheet: Fight List
-Fight List:
-* 0/Glory-Kill-Tutorial
-* 0/Blue-Elevator-Room
-
