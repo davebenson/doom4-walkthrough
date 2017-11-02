@@ -4,7 +4,7 @@
 Thanks, id Software for making such a great game!
 
 Also, watching zomeister's Pistol-Only walkthrough helped me with several strategy points. So props to that individual: please watch the madness if you want to be inspired:
-        https://www.youtube.com/watch?v=AyVVc0FcS4E&t=6121s
+        https://www.youtube.com/watch?v=AyVVc0FcS4E
 
 Caveats: I have not read the "Official" Guide by Prima Guides at this point.
 I may do so soon and amend this guide, as time permits.
@@ -123,7 +123,7 @@ Fuel to kill various demons:
 * Possessed Guard: 1
 * Possessed Securities: 1
 * Hell Razer: 1
-* Hell Knight: ???
+* Hell Knight: 3
 * Summoner: 3
 * Cacodaemon: 3
 * Pinkie: 3
@@ -601,7 +601,7 @@ The Main Foundry Area is the large open area with molten metal floors and platfo
 
 Notes on Combat Challenges:
 * Three Possessed, One Barrel: the easiest opportunity for this is early on, but you can also do it in the Argent Cell fight.
-* Curb Stomp: Gore Nest 2 in the yellow molten Main Foundry Area is the easiest, but there's a lot of random Possessed Soldier around.  ??? do Hell Razers count for this?
+* Curb Stomp: Gore Nest 2 in the yellow molten Main Foundry Area is the easiest, but there's a lot of random Possessed Soldiers around.  (Unlike Mission 9's "Variety Is the Spice of Death II", Hell Razers do not count for this challenge)
 * Quite the Collector: easy with this guide, I hope.
 
 ## Mission 3:  Gore Nest 1
@@ -654,7 +654,7 @@ but it can be explored easily enough.  Just make sure you find:
 * CODEX ENTRY "Monsters / Imp" in a dead-end room with some armor
 * SECRET 3.4:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, ELITE GUARD 3.3 and the ROCKET LAUNCHER.
 
-There are three access points to this convoluted area.
+There are three access points, all overlooking Gore Nest #2.
 Here's a description of each of them:
 
 * Lower Entrance / Gore Nest #2 Access
@@ -893,8 +893,8 @@ You'll get a CHECKPOINT when the bad guys are cleared.
 ## Mission 4:  Fight: Icy Gore Nest #3
 There are 3 entrances to this area:
 * Lower Entrance: from Gore Nest 2 (the Union Aerospace tank), go down a dirt path to where it becomes a catwalk instead, to the end at a active motion-sensing door.
-* Mid-Lower Entrance: ... [on opposite side of building]
-* Upper Entrance: ... [above Auto-Map area]
+* Mid-Lower Entrance: This is probably the "main entrance". From the blue force field, go on the path on its left side to a building labelled in large letters "COOLING TOWER".
+* Upper Entrance: Access from the long curved exterior walkway with Elite Guard #2.
 
 It matters little.
 
