@@ -243,8 +243,9 @@ Mission 13: Argent D'Nur | The Well | 0 | 0 | 0 | 0 | 5 | 0
 
 ## Weapon Upgrade Tokens
 You spend these to improve you weapons:
---- | --- | ---
+
 Weapon | Upgrades | Upgrade Points Required For All Mods
+--- | --- | ---
 Assault Right | Tactical Scope, Mini Missiles | 18
 Combat Shotgun | , Explosive Shot | 18
 Plasma Rifle | Heat Blast, Stun Gun | 18
@@ -255,6 +256,7 @@ Pistol | - | 9
 Total | | 108
 
 You earn these as follows:
+
 Type | Missions | Earned per Mission | Total
 --- | --- | --- | ---
 Secrets/Exploration | 1-13 | 2 | 26
