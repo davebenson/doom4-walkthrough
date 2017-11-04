@@ -1,5 +1,7 @@
 # Doom 4 Walkthrough
 
+Version 1.0.
+
 # Acknowledgements and Caveats
 Thanks, id Software for making such a great game!
 
