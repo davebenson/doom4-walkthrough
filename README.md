@@ -241,6 +241,31 @@ Mission 11: The Necropolis | The Crucible | 2 | 1 | 1 | 2 | 3 | 3
 Mission 12: VEGA Central Processing | I am VEGA | 3 | 0 | 0 | 0 | 5 | 4
 Mission 13: Argent D'Nur | The Well | 0 | 0 | 0 | 0 | 5 | 0
 
+## Weapon Upgrade Tokens
+You spend these to improve you weapons:
+--- | --- | ---
+Weapon | Upgrades | Upgrade Points Required For All Mods
+Assault Right | Tactical Scope, Mini Missiles | 18
+Combat Shotgun | , Explosive Shot | 18
+Plasma Rifle | Heat Blast, Stun Gun | 18
+Chain Gun | Gattling Revolver, Mobile Turret | 18
+Super Shotgun | - | 9
+Pistol | - | 9
+--- | --- | ---
+Total | | 108
+
+You earn these as follows:
+Type | Missions | Earned per Mission | Total
+--- | --- | --- | ---
+Secrets/Exploration | 1-13 | 2 | 26
+Challenges | 2-13 | 3 | 36
+Combat | 3-13 | 5 | 55
+Boss Fights | 9,11,13 | 1 | 3
+--- | --- | --- | ---
+Total | | | 120
+
+
+## Checkpoints
 
 # Your Dossier
 These are accessed by the central button on PS4.
@@ -266,10 +291,12 @@ Based on my own experience (and I could be wrong):
 * difficulty levels affect:
   * damage done by demons
   * gains from ammo, armor, and healh pickups
+  * runes: Rich Get Richer
 * difficulty levels do not affect:
   * number or placement of demons
   * chainsaw
   * secrets (except the size of an Armor pickup)
+  * runes: In-Flight Mobility
 * i'm not sure if these are affected:
   * health of monsters
   * damage of user's weapons
@@ -374,7 +401,7 @@ You'll be able to recharge over the next easy fight, so use up all the health an
 After the demonic threat is neutralized, a gate opens up, opposite the entrance location.
 However, another gate immediately (requiring the Blue Keycard) blocks progress.  Turn right and walk down a tunnel.  Behind a large block is a corpse with a Blue Keycard.
 
-After getting the keycard, stand on the block and look around for a tunnel above you.  You should jump to it, and pick up SECRET 1.1 and your first collectible, "Combat Shotgun Model, Blueguy".
+After getting the keycard, stand on the block and look around for a tunnel above you.  You should jump to it, and pick up SECRET 1.1 and your first collectible, COLLECTIBLE 1.1 "Combat Shotgun Model, Blueguy".
 
 Continuing through the tunnel, you'll get to the gate, which will open.
 
@@ -392,7 +419,7 @@ As you drop down the last level of this spit of land, 5 Imps will attack from va
 
 CHECKPOINT.
 
-After that, look for the large tank with TRI 9-C printed on it, and enter its lower level.  There is a lever through that you should interact with then enter the Classic Doom Level.  Exit the structure and you should be able to see up the path to SECRET 1.2, Classic Map "Doom II: Entryway".
+After that, look for the large tank with TRI 9-C printed on it, and enter its lower level.  There is a lever through that you should interact with then enter the Classic Doom Level.  Exit the structure and you should be able to see up the path to SECRET 1.2, CLASSIC MAP 1.1 "Doom II: Entryway".
 
 ## Mission 1: Fight: Classic Doom Level
 
@@ -459,7 +486,7 @@ Continue to the waypoint and an Open the Maintenance Bay Door.
 ## Mission 2:  Fight:  Tiny fight in catwalk area with Original Doom Level
 Some Possessed are followed by 3 Imps.  Go where they originated onto a crane-like catwalk.  Jump over its left railing, and look for a platform somewhat above you:  jump to it.  Look for the Lever and pull it.
 
-Jump back down, keeping an eye out for some Imps that'll spawn right around you.  You should see the SECRET 2.8, Classic Map "Doom - Hangar" up a small staircase with some Health and Shotgun ammo.
+Jump back down, keeping an eye out for some Imps that'll spawn right around you.  You should see the SECRET 2.8, CLASSIC MAP 2.1 "Doom - Hangar" up a small staircase with some Health and Shotgun ammo.
 
 After that, open the door with the waypoint to meet the Possessed Engineer.  Shoot him and he'll fly back, killing the numerous Possesseds in the background.
 
@@ -683,7 +710,7 @@ In order to use the Yellow Keycard, you'll have to find a mishmash of demons in 
 
 ARGENT CELL 3.1 is found in the corner, in front of a defunct door.
 
-SECRET 3.3 is the classic doom level.  From the yellow keycard area, look back on the walkway you came in on.  There should be a box/crate on its right side.  On the side of that is a Lever, which will open a door in the fight area that enters Classic Map "Doom - Nuclear Plant".
+SECRET 3.3 is the classic doom level.  From the yellow keycard area, look back on the walkway you came in on.  There should be a box/crate on its right side.  On the side of that is a Lever, which will open a door in the fight area that enters CLASSIC MAP 3.1 "Doom - Nuclear Plant".
 
 ## Mission 3: Using the Yellow Keycard
 As you approach the yellow keycard door, a Hell Knight will surprise you.
@@ -777,7 +804,7 @@ Pull it: the "retro" level itself will be easy to see ahead.
 
 ## Mission 4: Fight: Gore Hallway
 Enter the automated door to a hallway that has been thoroughly decorated with entrails.
-Midway down this hall, to your right, is (assuming you pulled the lever above) the SECRET 4.5, Classic Map "Doom - Toxin Refinery".
+Midway down this hall, to your right, is (assuming you pulled the lever above) the SECRET 4.5, CLASSIC MAP 4.1 "Doom - Toxin Refinery".
 
 Continue out the hall to run into 2 Possessed Securities and a bunch of The Possesseds.  Some Imps will spawn soon; once you kill them you'll get more Imps and a Hell Knight.
 
@@ -1096,7 +1123,7 @@ This will cause two pairs of cars (drones) to transport stuff vertically from th
 Exit the control room and find that there's one pair of drones right in front of you.
 
 Instead, go around to the opposite side of the column where the second pair of drones is (this is also where the Invulnerability Powerup is).
-Jump onto a drone and go up:  you'll see a platform at the top, with (if you look carefully) a lever.  Jump to it and actuate the Lever.  Hitch a ride down with the drone.  At the bottom, the drone will plug into a socket; when it disengages, you'll see SECRET 5.7, the Classic Map "Doom - Halls of the Damned" in the back of the socket.
+Jump onto a drone and go up:  you'll see a platform at the top, with (if you look carefully) a lever.  Jump to it and actuate the Lever.  Hitch a ride down with the drone.  At the bottom, the drone will plug into a socket; when it disengages, you'll see SECRET 5.7, the CLASSIC MAP 5.1 "Doom - Halls of the Damned" in the back of the socket.
 
 After that, take any drone up to the top and jump up to the highest platform you can.  You'll see another rotating plug train.  When it stops you should be able to jump straight onto it.  When it stops again, follow the plug and some on to a platform on either side.
 
@@ -1281,7 +1308,7 @@ Finally, 2 Hell Barons spawn.  I use the Quad Powerup and the Super Shotgun.  If
 ## Mission 6:  Onward, after a short Secret Detour
 
 OK, go back to the large main arena from the last fight.  There is a big cave.
-Inside the cave (which can be a bit dark) is a lever: an Original Doom Level trigger.  The location of SECRET 6.6, Classic Map "Doom - Slough of Despair" itself is on the lower floor closer to where you entered the arena, or simple walk off the ledge between the two subarenas, and drop down.
+Inside the cave (which can be a bit dark) is a lever: an Original Doom Level trigger.  The location of SECRET 6.6, CLASSIC MAP 6.1 "Doom - Slough of Despair" itself is on the lower floor closer to where you entered the arena, or simple walk off the ledge between the two subarenas, and drop down.
 
 Or use the map: it looks quite distinct with a visible arrow drawn into the map in the Dossier.  Once there, the arrow marks the correct switch to press (ie the Left switch).  It accesses a Mega Health Bonus (although crudely rendered, it is just as effective as a modern-looking one).
 
@@ -1740,7 +1767,7 @@ Exit to the right to a blood-strewn corridor with books and candles.
 
 You will get to a circular room with a pit in the center.  Looking in, you can see an Elite Guard, but before that, look right for a Lever to access a Classic Map.
 
-Now, jump in (SECRET 9.7) and get ELITE GUARD 9.3 and SECRET 9.8 "Classic Map / Tower of Babel".
+Now, jump in (SECRET 9.7) and get ELITE GUARD 9.3 and SECRET 9.8, CLASSIC MAP 8.1 "Doom - Tower of Babel".
 
 Jump back out, and go to the screen with the waypoint:  "Cycle Hatch".
 
@@ -1809,6 +1836,7 @@ When the fight is over, jump into the red teleporter.
 Notes on Combat Challenges:
 * Trick Shot:  I don't know why, but using the Rocket Launcher's Lock On mode seems to achieve this reliably.  There are other ways, but I haven't found anything as consistent.
 * Atop the Mountain:  there's a number of fights that end with the Hell Baron.  For some reason, i often accidentally kill them instead of staggering them.
+You have to jump from higher ground to do this!  This fight where you get the Blue Skull is probably the easiest to get this on, because the Hell Baron starts in a pit.
 * Dominator: there's a Berserk Powerup that is your main helper here.
 
 ## Mission 10: Introduction
@@ -1896,7 +1924,7 @@ Note that there's BFG ammo here, so if you are full, feel free to use it!
 ## Mission 10: Pounding Rock Area
 When the pounding rock is down, quickly climb onto it.  It'll lift you up to a Skull Switch: press it, and drop down.
 
-Before continuing, to toward the Yellow Door, which is currently gated off.  Look for a small alcove continuing the Classic Doom Map Lever.  Pull it.  The gate to the Yellow Skull Door will open: go that way and go back to the lower Toxic Sludge room (where the Mancubi appeared with the Elite Guard), and you'll find the Classic Map "Phobos Anomaly": SECRET 10.5.
+Before continuing, to toward the Yellow Door, which is currently gated off.  Look for a small alcove continuing the Classic Doom Map Lever.  Pull it.  The gate to the Yellow Skull Door will open: go that way and go back to the lower Toxic Sludge room (where the Mancubi appeared with the Elite Guard), and you'll find CLASSIC MAP 10.1 "Phobos Anomaly": SECRET 10.5.
 
 Go back to the Pounding Rock Area.
 Go toward a gated off green teleporter.  Look left to see a large room with 2 Yellow Lifts and a Suit of Armor in the middle.
@@ -1965,7 +1993,7 @@ Then 2? Hell Knights and a Summoner.
 
 Grab the Auto-Map, pull the Classic Map Doom Lever, and grab the Yellow Skull.
 
-The Classic Map "Doom - House of Pain" is SECRET 11.3.  Go back outside this room and down a hall to an area that looks funky on the map.
+CLASSIC MAP 11.1 "Doom - House of Pain" is SECRET 11.3.  Go back outside this room and down a hall to an area that looks funky on the map.
 
 This will trigger the teleporter to open, and you can take it to return to the central room you started in.
 
@@ -2101,7 +2129,7 @@ Turn Left to find the Auto Map (if you haven't already), and continue in through
 
 You'll find a SECRET 12.2, ELITE GUARD 12.2 here, and get surprised by a Revenant.
 
-Behind the crate that the Guard is leaning on is a Lever:  pull it to open access to the classic doom level.  Then go back past the Blue Keycard guy and look for a nested pair of crude circles on the map.  That is SECRET 12.5, Classic Map "Doom - Commend Control".
+Behind the crate that the Guard is leaning on is a Lever:  pull it to open access to the classic doom level.  Then go back past the Blue Keycard guy and look for a nested pair of crude circles on the map.  That is SECRET 12.5, CLASSIC MAP 12.1 "Doom - Commend Control".
 
 Look down the shaft the Revenant popped out of.  You'll see a Mega Health, drop down, making sure to get it.
 
@@ -2231,7 +2259,7 @@ Go to the waypoint by first jumping to the high platform on the far side of the 
 Immediately past the mouth, turn right to a passage that only opens after the Skull Switch is pressed: this is SECRET 13.2.  You'll find Gas and BFG Ammo.
 
 Continue down this secret passage, looking for bloodsmears and a lever on the left wall.
-As usual, interact with the level to open SECRET 13.5, Classic Map "Doom - Pandemonium".
+As usual, interact with the level to open SECRET 13.5, CLASSIC MAP 13.1 "Doom - Pandemonium".
 
 ## Mission 13: Fight: Big Fight 2
 Again, snipe a Hell Knight and 2 Imps from above, if you like.
@@ -2271,7 +2299,7 @@ When the demon gets to 50% health, she'll add:
 
 When she gets to around 10% health, she kind-of goes nuts, shooting many (fairly weak) lasers in all directions, and emitting these weird cubic missiles that do a lot of damage (dodge them).
 
-When she gets to 0% she'll stand up like she's going to attack or something, but she actually flops down and is Glory Killable.
+When she gets to 0% she'll stand up like she's going to attack or something, but she actually flops down and is Glory Killable.  (There's no time limit, she'll won't recover from being staggered)
 
 After that, watch a cut-scene and the credits.
 
