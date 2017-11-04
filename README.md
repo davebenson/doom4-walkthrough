@@ -242,7 +242,7 @@ Mission 12: VEGA Central Processing | I am VEGA | 3 | 0 | 0 | 0 | 5 | 4
 Mission 13: Argent D'Nur | The Well | 0 | 0 | 0 | 0 | 5 | 0
 
 ## Weapon Upgrade Tokens
-You spend these to improve you weapons:
+You spend these to improve your weapons:
 
 Weapon | Upgrades | Upgrade Points Required For All Mods
 --- | --- | ---
@@ -255,7 +255,7 @@ Pistol | - | 9
 --- | --- | ---
 Total | | 108
 
-You earn these as follows:
+You earn Weapon Upgrade Tokens as follows:
 
 Type | Missions | Earned per Mission | Total
 --- | --- | --- | ---
@@ -271,6 +271,11 @@ So, if you 100% the game you should have 12 unusable Weapon Upgrade points at th
 That said, the extra combat upgrades have to be earnedd, so earning 100% on one playthough (ie without taking advantage of Mission Replay or dying), is logistically tricky, if not impossible.
 
 ## Checkpoints
+Checkpoints save your ammo, health and armor levels, as well as the locations of pickups of the same nature.
+
+On the other hand, Secrets, Argent Cells, and Elite Guards are all saved without making a checkpoint.
+
+This system usually works quite well, but the Argent Cells have a side-effect of filling up whatever power you upgrade.  This isn't saved unless you find a checkpoint elsewhere.  This rarely comes up besides in Mission 7 where we provide some advice.
 
 ## Your Dossier
 These are accessed by the central button on PS4.
@@ -557,7 +562,7 @@ Go through the Yellow Keycard door, and Open the Airlock from the control room i
 Enter the Airlock, then Cycle it to access the red outdoors.
 
 ## Mission 2:  Fight:  Outdoor Fight
-This sprawling fight occurs mostly in the lower level of a two-level area.  It's mostly Possessed Soldiers and Imps- lot's of them.  I recommend running through using Heat Blast, and using the Chainsaw on the Possessed Securities.  Then grab the Beserk Powerup to kill the majority of the remainder.
+This sprawling fight occurs mostly in the lower level of a two-level area.  It's mostly Possessed Soldiers and Imps- lot's of them.  I recommend running through using Heat Blast, and using the Chainsaw on the Possessed Security.  Then grab the Berserk Powerup to kill the majority of the remainder.
 
 ## Mission 2:  Accessing the Secret after the Outdoor Fight
 Follow the uphill path from the entrance to the second floor.  Right as you get onto the second floor, look for a bloody crate.
@@ -972,7 +977,7 @@ Pre-Fight: there are 2 Possessed Soldiers, a Hell Razer, and an Imp.
 Destroy the Nest.
 
 Fight: a Hell Knight and a Summoner are the main act in this fight - there's also a few Imps and Hell Razers.
-However, there's a Beserk Powerup, which compensates a lot (in fact, if you have all the Powerups for the Praetor Suit, you can probably kill everything with that single Beserk Powerup).
+However, there's a Berserk Powerup, which compensates a lot (in fact, if you have all the Powerups for the Praetor Suit, you can probably kill everything with that single Berserk Powerup).
 
 
 ## Mission 4: Destroy Primary Argent Filter
@@ -1397,14 +1402,14 @@ Drop down to another former gore nest location, near the large Union Aerospace t
 
 There is a Hologram device near some ammo.
 
-Look down into the next area.  This is the area that used to have a blue Force Field, but now just has some fires.  You should see the pale-orange glow of a Beserk Powerup.  Drop down.
+Look down into the next area.  This is the area that used to have a blue Force Field, but now just has some fires.  You should see the pale-orange glow of a Berserk Powerup.  Drop down.
 
 ## Mission 7: Fight: Main Cargo Bay
 First to appear will be 2 Cacodaemons and 1 Imp.  One Cacodaemon often starts very low and can be chainsawed to solve several problems at once.
 
 After that, Imps, 3? Revenants, and a Summoner appear.
 
-In fact, the Beserk may outlast the fight: you can perhaps even you it to kill some stuff in an adjacent area.
+In fact, the Berserk may outlast the fight: you can perhaps even you it to kill some stuff in an adjacent area.
 
 ## Mission 7: Fight: Main Cargo Bay Adjacent: old platform area
 This area is easily skipped.
@@ -1561,7 +1566,7 @@ Drop down to the lower central area, where you'll find 6-8? The Possesseds worsh
 
 My strategy for the start of this fight:  Destroy the Gore Nest;  lob a grenade into the center where Imps are forming in front of you (this tends to be quite effective), do a U-Turn to find 2 Imps to blow away with Super Shotgun.  A Mancubus has formed in the tunnel to your left:  kill it with whatever means, including Chainsaw (there's more fuel in the central area near the Gore Nest's location).
 
-Once the Summoner comes into existence, grab the Beserk Powerup.  In a mad rage you'll likely be able to kill nearly all the remaining demons, but focus on the hard to kill demons just in case, as possible.
+Once the Summoner comes into existence, grab the Berserk Powerup.  In a mad rage you'll likely be able to kill nearly all the remaining demons, but focus on the hard to kill demons just in case, as possible.
 
 ## Mission 8: Meeting Dr Hayden
 
@@ -1952,7 +1957,7 @@ Grab CODEX ENTRY "Artifacts / Slayer's Testament V".  Turn left for SECRET 10.6:
 Continuing along, you'll be back at the Rectangular Pit.
 
 ## Mission 10: Fight: Rectangular Pit, Blue Skull Door Fight
-A Beserk Powerup has been placed for this fight.
+A Berserk Powerup has been placed for this fight.
 It starts with many Imps and also include a 3 Hell Knights, 2 Summoners, a Mancubus.  It ends with a Hell Baron.
 
 Use the Blue Skull and jump into the red teleporter.
@@ -2197,14 +2202,14 @@ You start in a large upper courtyard area with loot scattered about.
 
 Eventually, go down to a CHECKPOINT for the fight.
 
-## Mission 13: Fight: Sniper then Beserk
+## Mission 13: Fight: Sniper then Berserk
 You should start at an overlook, where you can see a Cacodaemon attacking a half dozen Imps.  I usually kill the Cacodaemon (Assault Rifle with Tactical Scope) from afar and save the Imps for up close.
 
 Jump down to the courtyard area below and polish off the Imps who will come to you.  The next wave won't start until you enter the main area.
 
 In short order, 2 Hell Knights and a Summoner appear, followed by 2 Pinkies and many Imps.
 
-I usually use one BFG after lots of demons have spawned, then grab the Beserk Powerup from the very center of the courtyard.
+I usually use one BFG after lots of demons have spawned, then grab the Berserk Powerup from the very center of the courtyard.
 
 In theory it seems like the "Seek and Destroy" and "Savagery" Runes would may the beserk powerup more effective - I didn't really notice a difference though.
 
