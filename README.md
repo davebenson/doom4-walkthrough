@@ -1,6 +1,6 @@
 # Doom 4 Walkthrough
 
-Version 1.0.
+Version 1.1-pre.
 
 # Acknowledgements and Caveats
 Thanks, id Software for making such a great game!
@@ -47,7 +47,7 @@ Left Arrow | DPad Left | Previous Equipment
 Right Arrow | DPad Right | Next Equipment
 Down Arrow | DPad Down | Mission Objective Summary
 
-## Weapon Use Summary
+## Weapons
 
 ### Pistol
 What the Pistol lacks in power it makes up for by having unlimited ammo.
@@ -63,21 +63,25 @@ Because of this, it isn't really worth putting Weapon Upgrade points into the sh
 
 When you get to the first Field Drone, the Shotgun is the only weapon you have to modify, so you have to get a mod at this early point:  go for Explosive Shot, which is easier to use to get the "Twofer" Challenge (for Mission 2).
 
+Cyber-Mancubi count as Mancubi for the Changed Shot Upgrade Challenge.
+
+(Technically, the game refers to this weapon as the "Combat Shotgun", but nobody calls it that.)
+
 ### Plasma Gun (available Mission 2)
 Although it's individual shots are rather weak, it fires quite rapidly.
 
 More importantly, Heat Blast is a really powerful Weapon Modification.
 Basically, it allows you to kill everything near you at the same time without using ammo, BUT it requires you to shoot the gun to charge up the blast.
-There 2-4 places you can use the Heat Blast and Quad Damage Powerup to really plow through large numbers of demons.
+There are 2-4 places you can use the Heat Blast and Quad Damage Powerup to really plow through large numbers of demons.
 
-I haven't found the Stun modification to be very useful.
+I haven't found the Stun modification to be very useful: it wastes ammo, it's hard to stun more than 2 demons, they don't stay stunned long, and you still have to kill them (taking both time and ammo usually).
 
 ### Assault Rifle (available Mission 2)
 
 Each individual shot from the Assault Rifle is rather weak and becomes weaker and harder to hit from a difference.  Few demons can be killed with a single shot;
 expect a cacodaemoon (etc) to take 30+ shots even up close.
 
-The Tactical Scope changes things a bit: it makes the thing pretty effective for sniping, and the upgrades make it pretty damaging.
+ihe Tactical Scope changes things a bit: it makes the thing pretty effective for sniping, and the upgrades make it pretty damaging.
 Even so, it's a bit tedious killing things with this weapon.  
 However, it makes for a nice change, since the opportunities for sniping are few in this game.
 You can usually get the challenge upgrade naturally over the course of the game, but you can also replay an earlier mission to get it pretty easily.
@@ -102,7 +106,7 @@ The Mobile Turret mod is a great way to deliver a lot of damage.
 I usually try to fully upgrade this modification since it's useful against bosses.
 
 ### Gauss Cannon (available Mission 5)
-The most powerful standard weapon, even without mods.  Siege Mode is the most powerful mod (by far), and it strongly recommended.  Its challenge upgrade is easy too.
+The most powerful standard weapon, even without mods.  Siege Mode is the most powerful mod (by far), and it is strongly recommended.  Its challenge upgrade is easy too.
 
 The Precision Bolt mod is also pretty good but it's a lot harder to fully upgrade and only kills once thing at a time, so I seldom use it.
 
@@ -152,6 +156,15 @@ They can take a fairly large amount of damage when they are climbing around on v
 
 For players in Nightmare mode, Imps will probably cause more deaths than any other demon.
 
+## Possessed Engineers
+
+Somewhat like the Possessed, except they explode when they die, and they charge at you to cause trouble.
+
+These guys are walking bombs - typically when they die they'll fly away from you which mitigates the problems.  But some weapons might cause them to fly at you, and they'll do moderate damage.
+
+Even if you jump from above them and Glory Kill them, it does not count as a Death From Above Glory Kill (at least for the purposes of Rune or Combat Challenges).  I'm assuming they their firey plume keeps them safe ?  TODO: read the damn codex on this
+
+
 ### Possessed Soldiers and Possessed Securities
 
 These two monsters differ in that the latter has shields.
@@ -171,8 +184,14 @@ These hellions attack with a laser in their arm, or a melee attack.
 They have a lot of hit-points, but they aren't too hard to kill.
 
 ### Lost Souls
-These little punks are very damaging,
-it's best to snipe them from afar (effective weapons: BFG, Rocket Launch, Assault Rifle/Tacticle Scope).
+These little punks are very damaging.
+
+It's best to snipe them from afar
+(effective weapons:
+Assault Rifle/Tacticle Scope,
+Rocket Launcher/Lock-On,
+BFG).
+At the last moment when they are swooping in on you, the Shotgun or Super-Shotgun is probably the best, if you're quick.
 
 They can make little turns, but you can sneak behind pillars or protected areas.
 
@@ -181,13 +200,13 @@ These are brutal melee attackers.
 
 They will jump toward to very fast.
 
-It is best to approach them right after an attack (Super Shotgun, Gauss Cannon), or just use the Chainsaw which'll definitely kill them if you have fuel.
+It is best to approach them right after an attack (Super Shotgun, Gauss Cannon) then back-off - a kind-of dance, or just use the Chainsaw which'll definitely kill them if you have fuel.
 
 ### Summoners
 These red-dressed ladies fire intense energy beams along the floor.
 Fortunately, the shot come with a pre-shot, so if you see a short red flame running along the ground, get away from it.
 
-The Rocket Launcher / Lock-On's Multi-Target Upgrade requires 5 kills on Summoners, so if you want to get that upgrade, you'll want to kill every summoner with lock-on rockets.
+The Rocket Launcher / Lock-On's Multi-Target Upgrade requires 5 kills on Summoners, so if you want to get that upgrade, you'll want to kill every summoner with lock-on rockets.  That said, this upgrade isn't particularly useful.
 
 ### Cacodemons
 Big floating eyeballs with gigantic purple missiles.
@@ -200,6 +219,8 @@ These are big charging idiot monsters.  The Pinkies are substantially heartier.
 They are literally pink.  The Spectres are essentially camoflaged Pinkies.  They blend into their surroundings.
 
 I suggest using Super Shotgun, Chainsaw, Gauss Cannon on these guys.  But really, any weapon will work.
+
+Their tail/backside is their weakness.  A single well-aimed up-close Super Shotgun blast to the base of the tail will usually kill it.  (Two such shots definitely will, but most of the time the Pinky will start moving before you can get a second shot)
 
 ### Mancubi and Cyber-Mancubi
 These large (obese) demons shoot damaging fireballs.  The Cyber-Mancubi are somewhat more annoying because their shots leave a toxic (green) residue that you must avoid (it only lasts a few seconds).
@@ -265,10 +286,11 @@ Secrets/Exploration | 1-13 | 2 | 26
 Challenges | 2-13 | 3 | 36
 Combat | 3-13 | 5 | 55
 Boss Fights | 9,11,13 | 1 | 3
+unknown | ??? | ??? | 4
 --- | --- | --- | ---
-Total | | | 120
+Total | | | 124
 
-So, if you 100% the game you should have 12 unusable Weapon Upgrade points at the end.  Another way to look at it:  there are 12 extra Weapon Upgrades Points.
+So, if you 100% the game you should have 124 - 108 = 16 unusable Weapon Upgrade points at the end.  Another way to look at it:  there are 16 extra Weapon Upgrades Points.
 
 That said, the extra combat upgrades have to be earnedd, so earning 100% on one playthough (ie without taking advantage of Mission Replay or dying), is logistically tricky, if not impossible.
 
@@ -324,6 +346,39 @@ Nightmare            | ...                     | 1
 
 Ultra-Nightmare is the same as Nightmare for this information.
 
+## Runes
+
+I provide hints about how to complete the Runes Challenges where you come across them.  These are hints about when to use runes, and how to upgrade them (as easily as possible- both on a single playthrough as well as using Mission Replay).
+
+
+### Vacuum
+
+Easy to get and the most important rune.  Upgrading is easy as well - jump make sure to remember to equip it after you complete the challenge (it won't remind you in nightmare mode).
+
+### Dazed and Confused
+
+This rune comes in handy for the Bosses at the end of Mission 11, and for fulfulling the Combat Challenge "To Be Knighted" for Mission 4: without the Jump Boots, Death From Above Glory Kills on Hell Knights can require some setup.
+
+### Ammo Boost
+
+### Equipment Power
+
+### Seek and Destroy
+
+### Savagery
+
+### In-Flight Mobility
+
+### Armored Offensive
+
+### Blood-Fueled
+
+### Intimacy is Best
+
+### Rich Get Richer
+
+### Saving Throw
+
 # Using this Guide
 Secrets, Field Drones, Argent Cells, Rune Challenges are all written in uppercase at their secret location, with dotted notation where the first number is the mission and the secret is the index of the location in the Dossier Overview/Map page.
 For example, SECRET 14.3 would be the third secret in the dossier in mission 14 (but there's really only 13 missions).  This is intended to facilitate searching.
@@ -355,7 +410,7 @@ I welcome contributions, compliments, suggestions, errata, strategies, complaint
 
 # Mission 0:  Pre-UAC
 
-At the beginning of the game, you wake up chained to an operating table
+At the beginning of the game, you wake up chained to an operating table.
 As you break out of your bonds, four demons surround you, your first encounter with THE POSSESSED.
 
 Before you have control, you kill one by hand, and grab a pistol.
@@ -1110,7 +1165,7 @@ Once you damage a lot of demons, look for the Yellow Lift that jams you into a Q
 
 Post-Fight:  pick up all the Gas and Ammo.
 
-Midway up there's a tricky little secret.  You'll find to and area where the central red beam (of Argent Energy) since surrounded by rotating metal shields that make a horrible grating sound.
+Midway up there's a tricky little secret.  You'll find to and area where the central red beam (of Argent Energy) since surrounded by rotating and stridulating metal shields.
 
 Continue up, across a long jump to where the red beam is protected by shutters that periodically open and close.  Look on the map.  You should see two symmetric arms going up.  But one of them has a walkway underneath.  This is SECRET 5.5, COLLECTIBLE 5.2 with "Summoner Model, Purpleguy".
 With the In-Flight Mobility Rune, this is a piece of cake, but you don't have that yet, so you'll have to use one of two approaches.
@@ -1962,7 +2017,9 @@ Continuing along, you'll be back at the Rectangular Pit.
 A Berserk Powerup has been placed for this fight.
 It starts with many Imps and also include a 3 Hell Knights, 2 Summoners, a Mancubus.  It ends with a Hell Baron.
 
-Use the Blue Skull and jump into the red teleporter.
+Use the Blue Skull, and find immediately on the floor CODEX ENTRY "UAC Personnel / Olivia Pierce".
+
+Jump into the red teleporter.
 
 # Mission 11: The Necropolis
 
@@ -2313,7 +2370,7 @@ When she gets to around 10% health, she kind-of goes nuts, shooting many (fairly
 
 When she gets to 0% she'll stand up like she's going to attack or something, but she actually flops down and is Glory Killable.  (There's no time limit, she won't recover from being staggered)
 
-You'll get COLLECTIBLE 13.2 "Spider Mastermind, Goldguy".
+You'll get COLLECTIBLE 13.2 "Spider Mastermind Model, Goldguy".
 
 After that, watch a cut-scene and the credits.
 
