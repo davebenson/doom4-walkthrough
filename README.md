@@ -21,7 +21,7 @@ The game is set mostly in a large energy facility on Mars, with occasional foray
 The game is heavy on action and fighting, and it keeps its cut-scenes short and punchy.
 
 The visuals are impressive, contrasting space-tech with organic demons.
-They are also pretty gory: potential noghtmare fodder for kids.
+They are also pretty gory: potential nightmare fodder for kids.
 Even though you will plow your way through hundreds of monsters in these missions, at least none were human at the time of death.
 
 ## Basic Plot Summary
@@ -198,13 +198,13 @@ They can make little turns, but you can sneak behind pillars or protected areas.
 ### Hell Knights
 These are brutal melee attackers.
 
-They will jump toward to very fast.
+They will jump toward you very fast.
 
 It is best to approach them right after an attack (Super Shotgun, Gauss Cannon) then back-off - a kind-of dance, or just use the Chainsaw which'll definitely kill them if you have fuel.
 
 ### Summoners
 These red-dressed ladies fire intense energy beams along the floor.
-Fortunately, the shot come with a pre-shot, so if you see a short red flame running along the ground, get away from it.
+Fortunately, the shot comes with a harmless pre-shot, so if you see a short red flame running along the ground, get away from it.
 
 The Rocket Launcher / Lock-On's Multi-Target Upgrade requires 5 kills on Summoners, so if you want to get that upgrade, you'll want to kill every summoner with lock-on rockets.  That said, this upgrade isn't particularly useful.
 
@@ -214,16 +214,24 @@ Big floating eyeballs with gigantic purple missiles.
 They do (as a hint notes) have a weak point near their eye opening,
 and precision shots with the tactical shot of the assault rifle can kill it from afar pretty quickly.
 
+### Revenants
+These tough lanky flying demons wear a backpack to shoot you from above.
+They can take a significant amount of damage.
+
+The visible patch on the sternum (center of the chest) is a weak point.
+
 ### Pinkies and Spectres
 These are big charging idiot monsters.  The Pinkies are substantially heartier.
 They are literally pink.  The Spectres are essentially camoflaged Pinkies.  They blend into their surroundings.
 
 I suggest using Super Shotgun, Chainsaw, Gauss Cannon on these guys.  But really, any weapon will work.
 
-Their tail/backside is their weakness.  A single well-aimed up-close Super Shotgun blast to the base of the tail will usually kill it.  (Two such shots definitely will, but most of the time the Pinky will start moving before you can get a second shot)
+Their tail/backside is their weakness.  A single point-blank Super Shotgun blast to the base of the tail will usually kill it.  (Two such shots definitely will, but most of the time the Pinky will start moving before you can get a second shot)
 
 ### Mancubi and Cyber-Mancubi
 These large (obese) demons shoot damaging fireballs.  The Cyber-Mancubi are somewhat more annoying because their shots leave a toxic (green) residue that you must avoid (it only lasts a few seconds).
+
+The visible patch on the sternum (center of the chest) is a weak point.
 
 ### Hell Barons
 These are like Hell Knights except that they can shoot missiles.  With horns.
@@ -273,6 +281,7 @@ Assault Right | Tactical Scope, Mini Missiles | 18
 Combat Shotgun | Charged Shot, Explosive Shot | 18
 Plasma Rifle | Heat Blast, Stun Gun | 18
 Chain Gun | Gattling Revolver, Mobile Turret | 18
+Gauss Cannon | Precision Bolt, Siege Mode | 18
 Super Shotgun | - | 9
 Pistol | - | 9
 --- | --- | ---
@@ -289,6 +298,22 @@ Boss Fights | 9,11,13 | 1 | 3
 unknown | ??? | ??? | 4
 --- | --- | --- | ---
 Total | | | 124
+
+Mission | Exploration | Challenges | Combat | Bosses | Total | Cumulative
+--- | --- | --- | --- | --- | --- | ---
+Mission 1: The UAC | 2 | 0 | 0 | 0 | 2 | 2
+Mission 2: Resource Operations | 2 | 3 | 0 | 0 | 7 | 9
+Mission 3: Foundry | 2 | 3 | 5 | 0 | 10 | 19
+Mission 4: Argent Facility | 2 | 3 | 5 | 0 | 10 | 29
+Mission 5: Argent Energy Tower | 2 | 3 | 5 | 0 | 10 | 39
+Mission 6: Kadingir Sanctum | 2 | 3 | 5 | 0 | 10 | 49
+Mission 7: Argent Facility (Destroyed) | 2 | 3 | 5 | 0 | 10 | 59
+Mission 8: Advanced Resource Complex | 2 | 3 | 5 | 0 | 10 | 69
+Mission 9: Lazarus Labs |
+Mission 10: Titan's Realm |
+Mission 11: The Necropolis |
+Mission 12: VEGA Central Processing |
+Mission 13: Argent D'Nur |
 
 So, if you 100% the game you should have 124 - 108 = 16 unusable Weapon Upgrade points at the end.  Another way to look at it:  there are 16 extra Weapon Upgrades Points.
 
@@ -857,7 +882,7 @@ Jump to the Lower Platform.
 Now, look left for some green marker lights on the cliff-like rocks.
 Jump up a few of them (follow the green marker lights), and on to the Upper Platform.
 
-Now, look for an broken bridge - jump there and cross another small bridge, to your first Rune Challenge: "Vacuum".  This challenge is not too bad, and the rewards are quite good, so you should do it.  Time is really of the essence on this challenge.
+Now, look for an broken bridge - jump there and cross another small bridge, to your first Rune Challenge, RUNE CHALLENGE 4.1: "Vacuum".  This challenge is not too bad, and the rewards are quite good, so you should do it.  Time is really of the essence on this challenge.
 
 After succeeding at the Rune Challenge, the Rune is NOT automatically equipped, so go to the Rune section of your Dossier and select the Vacuum Rune.
 
@@ -865,7 +890,7 @@ If you want, grab the ammo on the right pathway, but the mission continues to th
 
 In front of a closed door, you'll see some Health and Ammo,
 and CODEX ENTRY "Environments / Argent Facility".
-Less obviously, befind some barrels to the left, is a Classic Doom Level Lever -
+Less obviously, behind some barrels to the left, is a Classic Doom Level Lever -
 the lever is in the dark and hard to see.
 Pull it: the "retro" level itself will be easy to see ahead.
 
@@ -1218,7 +1243,7 @@ Before going on, look at the twin elevator shafts.  Between them, in the hall is
 
 Continue up the stairs and through the door to another elevator shaft on left, and audio of Olivia.
 
-Carefully peer down the elevator shaft - you'll see an opening about 6 lights down:  jump and hold forward to land in it - this is SECRET 5.6.  Here we acquire the Gauss Cannon, the most powerful "standard" weapon.  "Open the Turbine" by interacting with the screen, which will open a exit from the shaft.
+Carefully peer down the elevator shaft - you'll see an opening about 6 lights down:  jump and hold forward to land in it - this is SECRET 5.6.  Here we acquire the GAUSS CANNON, the most powerful "standard" weapon.  "Open the Turbine" by interacting with the screen, which will open a exit from the shaft.
 
 Take it, and retrace your steps all the way back up to the top of the shaft.
 Note there's a Hologram (sometimes known as a Decoy) and a Plasma Gun here.
@@ -1323,7 +1348,7 @@ Island-Jump across to be surprised by 3 Lost Souls, and a Hell Razer.  The HR ca
 
 Walk through the tunnel behind the Hell Razer, and you'll be on a new cliff, with a fire and ELITE GUARD 6.2.  First, look left and down and you'll see the first Cacodaemon.  There is second one, probably behind that rocky pinnacle.  Lock-On Rocket Launcher is a fool-proof way to deal with these guys.
 
-Visit the Elite Guard.
+(Do not forget to visit the Elite Guard)
 
 Detour for SECRET 6.2:  Jump to the Island with the Armor and jump across to a lower ledge.  Turn right, and a Hell Knight will spawn.  Behind him (to the left) is a small cave with the Chaingun (the cave is the secret).  Retrace your steps to the spent Elite Guard across the cavern.
 
