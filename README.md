@@ -391,8 +391,18 @@ This rune comes in handy for the Bosses at the end of Mission 11, and for fulful
 ### Seek and Destroy
 
 ### Savagery
+TODO: my theory is that this is useful with Berserk Powerups, but i need to test that.
+
+Upgrade hint: although you might think this would be efficient to get in conjunction with
+the various glory-kill upgrades, it's probably best to upgrade this by finding a group of The Possesseds and staggering them over and over again with the pistol.  It only takes about a minute or so.
 
 ### In-Flight Mobility
+
+This rune is almost vital for the last boss fight - and the upgrade is pretty critical too.
+
+Challenge tips:  there is very little room for error.  You must single jump across the split every time - if you double-jump (which is tempting, because the separation is pretty wide for a single-jump), it'll waste valuable time.  The crux is probably hitting the annoying mid-air relic in the second half of this course, but note that you have two chances at it, since you have to jump left-to-right then right-to-left in that area.  Obviously most people aim to get it in the first jump, but it's good to keep cool if you miss it on the first jump since you have another chance.
+
+Upgrade notes:  You need to get 25 Mid-Air kills.  Note that "Mid-Air" refers to you, not the demon.  As a result, glory-kills from above are probably the easiest way to get this, so it makes sense to try to combine this upgrade with the Dazed and Confused upgrade.
 
 ### Armored Offensive
 
@@ -482,8 +492,10 @@ As you approach another tall cliff, you can see Imps running off into the horizo
 
 This is the first real fight of the game.  It occurs on a 2-level dual-figure-eight structure.
 
+If you are quick and accurate, you can target some imps on the cliffs above, and you can shoot at The Possesseds below.  In my opinion, these aren't worth spending time on.
+
 Like many fights throughout the game, you will learn your own opening gambit.
-For me, I target the 2 POSSESSED SOLDIERS that appear right in front of you:  one in the center in front of a pinnacle, and one near a barrel that can be shot.
+For me, I target the 2 POSSESSED SOLDIERS that appear right in front of you:  one in the center in front of a pinnacle, and one at right near a barrel that can be shot.
 After that, just keep moving and shooting.
 
 You'll be able to recharge over the next easy fight, so use up all the health and armor during the fight.
@@ -1140,13 +1152,13 @@ Across the bridge is a guard house, which is Secret #2.  Inside is a Hell Knight
 When done, jump down to a long walkway that goes almost the whole length of the bridge.  There's a long gap that have been torn apart: you'll have to double-jump.
 
 ## Mission 5: The Far Side of the Bridge
-After the destroyed section of the bridge, look down and right to see ELITE GUARD 5.1 (SECRET 5.3) propped up against a wall.  Jump down.  Getting back up is slightly more difficult: jump across the gap to jump nearly vertically up a few ledges, looking for green lights (a yellow ledge for the last jump).
+After the destroyed section of the bridge, look down and right to see ELITE GUARD 5.1 (SECRET 5.3) propped up against a wall.  Jump down.  Getting back up is slightly more difficult: jump across the gap to jump nearly vertically up a few ledges, looking for yellow ledges; you'll have to shimmy left at some point.
 
 Note:  You can get back, but it's not necessary and more difficult than jumping forward.
 
 Cut scene.
 
-Enter the next room to find a Health Station, CODEX ENTRY "Monsters / Summoner", and most important Auto-Map.
+Enter the next room to find a Health Station, CODEX ENTRY "Monsters / Summoner", and an AUTO-MAP.
 
 ## Mission 5: Fight: Tower Exterior
 Enter the next area to surprise 2 Imps.  Looking at the Imps, there's some Plasma ammo to your left.  Ahead, the platform has an upper outer story and a lower inner story.  Further ahead, on a higher platform, is a Quad Powerup - it glows purple brightly.
@@ -1172,7 +1184,7 @@ At some point, the passage becomes narrower and darker, and we can make a detour
 To get SECRET 5.4, COLLECTIBLE 5.1: "UAC Pistol Model / Orangeguy", re-enter the unused Train corridor at this point (by veering right).  Continuing down the corridor, you'll arrive at an unused, stationary train car.  Get onto it, by double-jumping onto the ledge to your right, then double-jumping onto the train car (don't worry: the upper-train won't hit you).
 You should be able to see another dimly-lit ledge near where the upper train cars keep entering.
 I found this jump to be quite tricky. but the trick is that you must be facing at the ledge (ie facing perpendicular to it / straight at it), which mean you must jump almost sideways, which in turn makes dodging the train above more difficult.
-Once you are on this ledge, turn left and go up (parallel to train), then turn around and jump into the hole that the train is entering.
+Once you are on this ledge, turn left and go up (parallel to train), then turn around and jump into the hole that the upper train is entering.
 You must keep moving, but when you run out of floor, drop to the left, and you'll find the Model.
 Drop down the train area to get back to the Elite Guard, and continue back to where the passage narrows and becomes darker.
 
@@ -1425,7 +1437,7 @@ The last easy fight is about 5 Imps fighting 10 Unwilling.  (I like to work on t
 
 Don't miss ELITE GUARD 6.4 here!  (to the left from the way you entered)
 
-Enter a well-stocked tunnel ending with CODEX ENTRY "UAC Personnel / Olivia Pierce" for a Checkpoint preceding the final fight of the mission.
+Enter a well-stocked tunnel ending with CODEX ENTRY "UAC Personnel / Olivia Pierce" for a CHECKPOINT preceding the final fight of the mission.
 
 ## Mission 6:  Fight: Finale
 
@@ -1458,7 +1470,7 @@ Pick up CODEX ENTRY "Monsters / Barons of Hell"
 Go ahead and exit to the outdoor walkway, turning right (since left is blocked by fire).
 
 ## Mission 7: Fight: One Cacodaemon on Walkway
-Be surprised by a Cacodaemon; it's a bit annoying on this narrow walkway- with timing you can get it in one Gauss Siege Cannon, but one have space to dodge it as well.
+Be surprised by a Cacodaemon; it's a bit annoying on this narrow walkway- with timing you can get it in one Gauss Siege Cannon, but one have space to dodge it as well.  (You can actually get the drop on it, if you are prepared)
 
 ## Mission 7: Getting back into Argent Facility 
 At the end of the walkway, turn around and look for a walkway to jump up to.  Next, jump across to a train and follow it to a small landing with two tarp-covered crates.  Behind these crates is a lever for the Original Doom Level.
@@ -1468,7 +1480,7 @@ Immediately upon exiting this area, turn right, to see a right-dirt floored alco
 
 Now, jump your way up to the highest accessible walkway.
 
-You'll get a Checkpoint shortly before a long double-jump.  It's not really difficult though.  Continue until you are looking into a damaged corridor which crosses the chasm.
+You'll get a CHECKPOINT shortly before a long double-jump.  It's not really difficult though.  Continue until you are looking into a damaged corridor which crosses the chasm.
 
 Drop into the hallway through the gaping hole in its roof.  Turn around to find an ELITE GUARD 7.1 (along with some armor and shotgun ammo).
 
@@ -1735,7 +1747,7 @@ You can probably figure out how to get the BFG from here, but the next section w
 ## Mission 8: Accessing the BFG (Defeating the Security Measure)
 Enter the chamber; the alarm will sound, i guess it noticed that the retina was attached to a corpse.  Anyways, jump onto any of the symmetric metal platforms, and watch the crazy security apparatus.
 
-After about 10 seconds, a sequence of lamps will light up and ypu can to shoot the obvious cells (you need to shoot 4 of the 6 cells).  Do so, and the security system collapses and you can claim the BFG for your arsenal.
+After about 10 seconds, a sequence of lamps will light up and you can to shoot the obvious cells (you need to shoot 4 of the 6 cells).  Do so, and the security system collapses and you can claim the BFG for your arsenal.
 
 Watch the cut-scene.
 
@@ -1744,7 +1756,7 @@ Watch the cut-scene.
 This fight is designed to be a nice place to use the BFG, for casual players.
 But it's probably better to work on all kinds of Weapon Upgrades (Super Shotgun, Gauss Cannon-Siege Mode, Chain Gun-Mobile Turret).
 
-## Mission 8: Before heading out ???: Rune Challenge "Intimacy is Best"
+## Mission 8: Before heading out: Rune Challenge "Intimacy is Best"
 
 Watch the holographic replay.
 
@@ -2182,7 +2194,7 @@ After killing them, access the Crucible (which looks more like a dagger with a S
 # Mission 12: VEGA Central Processing
 
 Notes on Combat Challenges:
-* Variety is the Spice of Death III:  there's a lot of Imps, including 4 right soon after entering the building.
+* Variety is the Spice of Death III:  there's a lot of Imps, including 4 right soon after entering the building.  Possessed Engineers also can be glory-killed to satisfy this requirement.
 * Gore Pinata: Plenty of opportunities for this as well.
 * My Teeth are Sharper: you can jump and chainsaw if needed.
 
@@ -2199,8 +2211,15 @@ Another Maintenance Door at ground level is followed by a green-lit hatch in the
 Drop down to the area with the Security Switches.
 
 ## Mission 12: First Switch Fight
+...
 
 ## Mission 12: Security Shutdown Fight
+Flipping the second switch does not cause any new demons to spawn.
+
+But, disabling security does cause 2 Cacodaemons and a Cyber-Mancubus to spawn.
+This fight can be won in a single BFG shot if you venture forward about 5 seconds after disabling the security system.
+
+...
 
 ## Mission 12: Cooling Access Fight
 Note: you can use the Berserk from the earlier fight.
