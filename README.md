@@ -139,6 +139,17 @@ Fuel to kill various demons:
 * Cyber-Mancubus: 5
 * Hell Baron: 5
 
+### Weapon Upgrade Path: In My Humble Opinion
+Here's how I upgrade my weapons.  I usually upgrade one-at-a-time, simply because that spaces the Upgrade Challenges out more.
+
+* Plasma Rifle / Heat Blast
+* Assault Rifle / Tactical Scope
+* Either order:
+  * Super Shotgun
+  * Rocket Launcher / Lock-On
+* Gauss Cannon / Siege Mode
+
+
 ## Monsters
 
 ### The Possessed, Unwilling
@@ -267,8 +278,8 @@ Mission 6: Kadingir Sanctum | Into the Fire | 4 | 1 | 1 | 2 | 6 | 7
 Mission 7: Argent Facility (Destroyed)  | Hell on Mars | 4 | 1 | 1 | 2 | 6 | 5
 Mission 8: Advanced Resource Complex | A Brighter Tomorrow | 3 | 2 | 1 | 2 | 10 | 4
 Mission 9: Lazarus Labs | Lazarus | 4 | 1 | 1 | 2 | 9 | 5
-Mission 10: Titan's Realm | Titan's Realm | 2 | 1 | 1 | 2 | 6 | 4
-Mission 11: The Necropolis | The Crucible | 2 | 1 | 1 | 2 | 3 | 3
+Mission 10: Titan's Realm | Titan's Realm | 2 | 1 | 1 | 0 | 6 | 4
+Mission 11: The Necropolis | The Crucible | 2 | 1 | 1 | 0 | 3 | 3
 Mission 12: VEGA Central Processing | I am VEGA | 3 | 0 | 0 | 0 | 5 | 4
 Mission 13: Argent D'Nur | The Well | 0 | 0 | 0 | 0 | 5 | 0
 
@@ -282,42 +293,33 @@ Combat Shotgun | Charged Shot, Explosive Shot | 18
 Plasma Rifle | Heat Blast, Stun Gun | 18
 Chain Gun | Gattling Revolver, Mobile Turret | 18
 Gauss Cannon | Precision Bolt, Siege Mode | 18
+Rocket Launcher | Lock-On, Remote Detonation | 18
 Super Shotgun | - | 9
 Pistol | - | 9
 --- | --- | ---
-Total | | 108
+Total | | 126
 
 You earn Weapon Upgrade Tokens as follows:
 
-Type | Missions | Earned per Mission | Total
---- | --- | --- | ---
-Secrets/Exploration | 1-13 | 2 | 26
-Challenges | 2-13 | 3 | 36
-Combat | 3-13 | 5 | 55
-Boss Fights | 9,11,13 | 1 | 3
-unknown | ??? | ??? | 4
---- | --- | --- | ---
-Total | | | 124
+Mission | Exploration | Challenges | Combat | Bonus | Bosses | Total | Cumulative
+--- | --- | --- | --- | --- | --- | --- | ---
+Mission 1: The UAC | 2 | 0 | 0 | 0 | 0 | 2 | 2
+Mission 2: Resource Operations | 2 | 3 | 0 | 0 | 0 | 5 | 7
+Mission 3: Foundry | 2 | 3 | 5 | 0 | 0 | 10 | 17
+Mission 4: Argent Facility | 2 | 3 | 5 | 0 | 0 | 0 | 10 | 27
+Mission 5: Argent Energy Tower | 2 | 3 | 5 | 0 | 0 | 10 | 37
+Mission 6: Kadingir Sanctum | 2 | 3 | 5 | 0 | 0 | 10 | 47
+Mission 7: Argent Facility (Destroyed) | 2 | 3 | 5 | 0 | 0 | 10 | 57
+Mission 8: Advanced Resource Complex | 2 | 3 | 5 | 0 | 0 | 10 | 67
+Mission 9: Lazarus Labs | 2 | 3 | 5 | 2 | 6 | 18 | 85
+Mission 10: Titan's Realm | 2 | 3 | 5 | 0 | 0 | 10 | 95
+Mission 11: The Necropolis | 2 | 3 | 5 | 0 | 6 | 16 | 111
+Mission 12: VEGA Central Processing | 2 | 3 | 5 | 5 | 0 | 15 | 126
+Mission 13: Argent D'Nur | 2 | 3 | 5 | 0 | 6 | 16 | 142
 
-Mission | Exploration | Challenges | Combat | Bosses | Total | Cumulative
---- | --- | --- | --- | --- | --- | ---
-Mission 1: The UAC | 2 | 0 | 0 | 0 | 2 | 2
-Mission 2: Resource Operations | 2 | 3 | 0 | 0 | 7 | 9
-Mission 3: Foundry | 2 | 3 | 5 | 0 | 10 | 19
-Mission 4: Argent Facility | 2 | 3 | 5 | 0 | 10 | 29
-Mission 5: Argent Energy Tower | 2 | 3 | 5 | 0 | 10 | 39
-Mission 6: Kadingir Sanctum | 2 | 3 | 5 | 0 | 10 | 49
-Mission 7: Argent Facility (Destroyed) | 2 | 3 | 5 | 0 | 10 | 59
-Mission 8: Advanced Resource Complex | 2 | 3 | 5 | 0 | 10 | 69
-Mission 9: Lazarus Labs |
-Mission 10: Titan's Realm |
-Mission 11: The Necropolis |
-Mission 12: VEGA Central Processing |
-Mission 13: Argent D'Nur |
+So, if you 100% the game you should have 142 - 126 = 16 unusable Weapon Upgrade points at the end.  Another way to look at it:  there are 16 extra Weapon Upgrades Points.
 
-So, if you 100% the game you should have 124 - 108 = 16 unusable Weapon Upgrade points at the end.  Another way to look at it:  there are 16 extra Weapon Upgrades Points.
-
-That said, the extra combat upgrades have to be earnedd, so earning 100% on one playthough (ie without taking advantage of Mission Replay or dying), is logistically tricky, if not impossible.
+That said, the extra combat upgrades have to be earned, so earning 100% on one playthough (ie without taking advantage of Mission Replay or dying), is logistically tricky, if not impossible.
 
 ## Checkpoints
 Checkpoints save your ammo, health and armor levels, as well as the locations of pickups of the same nature.
@@ -393,9 +395,6 @@ This rune comes in handy for the Bosses at the end of Mission 11, and for fulful
 ### Savagery
 TODO: my theory is that this is useful with Berserk Powerups, but i need to test that.
 
-Upgrade hint: although you might think this would be efficient to get in conjunction with
-the various glory-kill upgrades, it's probably best to upgrade this by finding a group of The Possesseds and staggering them over and over again with the pistol.  It only takes about a minute or so.
-
 ### In-Flight Mobility
 
 This rune is almost vital for the last boss fight - and the upgrade is pretty critical too.
@@ -409,6 +408,10 @@ Upgrade notes:  You need to get 25 Mid-Air kills.  Note that "Mid-Air" refers to
 ### Blood-Fueled
 
 ### Intimacy is Best
+
+Upgrade hint: although you might think this would be efficient to get in conjunction with
+the various glory-kill upgrades, it's probably best to upgrade this by finding a group of The Possesseds and staggering them over and over again with the pistol.  It only takes about a minute or so.
+
 
 ### Rich Get Richer
 
@@ -1642,9 +1645,9 @@ Notes on Combat Challenges:
 
 ## Mission 8: Introductory Lobby (with small Fight)
 Enter a large lobby area, finding a Mancubus killing some The Possesseds.
-After killing these, look for a pair of restrooms.  In the Men's Restroom is some armor you can save for later maybe.
+After killing these, look for a pair of restrooms.  There's a GAS CAN in the main hallway.  (In the Men's Restroom is some armor you can save for later maybe.)
 
-In the Woman's Restroom is a hatch allowing access to a secret area.  Climb onto the sinks and look around for the bloody hatch: jump to it and follow the duct (there's Gas) to drop into a room (SECRET 8.7) with an Auto-Map and an ELITE GUARD 8.1.  The screen next to the door will open it.
+In the Woman's Restroom is a hatch allowing access to a secret area.  Climb onto the sinks and look around for the bloody hatch: jump to it and follow the duct (there's another GAS CAN) to drop into a room (SECRET 8.7) with an Auto-Map and an ELITE GUARD 8.1.  The screen next to the door will open it.
 
 After exiting the Secret Room, you'll enter a Security Area with 6? The Possesseds, a Health Station, an ARGENT CELL 8.1, a Plasma Gun, and a terminal to Release the Safety Lockdown:  do that.
 
@@ -1910,6 +1913,8 @@ Follow waypoints, grabbing supplies, along with CODEX ENTRY "Monsters / Cyberdem
 
 Dr Hayden explains that this fight will have two parts.  The first part is the easier one.
 
+You will get 6 bonus Weapon Upgrade Points before the fight begins.
+
 ## Mission 9: Boss Fight, part 1: Mars
 Here's the most notable Cyberdemon moves for the first part:
 * the Rockets: he'll launch a volley of horizontal rockets; so long as you keep moving you should be ok.
@@ -1932,6 +1937,8 @@ He adds two new attacks to his repetoire:
 Same Rune Notes apply as above.
 
 Feel free to use all of your BFG ammo.
+
+You will get 2 Weapon Upgrade tokens.
 
 When the fight is over, jump into the red teleporter.
 
@@ -2189,6 +2196,8 @@ When one is stunned, you can often line them up to get double damage out of Sieg
 
 When they are getting low (20%), switch on Dazed and Confused so that you will have an easier time Glory Killing them.
 
+You will get 2 Weapon Upgrade points for killing these guys.
+
 After killing them, access the Crucible (which looks more like a dagger with a Skull at the top).
 
 # Mission 12: VEGA Central Processing
@@ -2290,6 +2299,7 @@ Take the elevator back up to the platform.
 Wait on it, until you get to a dramatic platform area.
 
 Disable the Neural Networks on the left and right.
+You will get 5 bonus Weapon Upgrade points after this is done.
 
 Then go to the center console.  Pick up CODEX ENTRY "Environments / VEGA Central Processing".  Then interact with the screen to get a cut scene that ends the level.
 
@@ -2414,7 +2424,8 @@ When she gets to around 10% health, she kind-of goes nuts, shooting many (fairly
 
 When she gets to 0% she'll stand up like she's going to attack or something, but she actually flops down and is Glory Killable.  (There's no time limit, she won't recover from being staggered)
 
-You'll get COLLECTIBLE 13.2 "Spider Mastermind Model, Goldguy".
+You'll get COLLECTIBLE 13.2 "Spider Mastermind Model, Goldguy",
+along with 6 Weapon Upgrade points.
 
 After that, watch a cut-scene and the credits.
 
