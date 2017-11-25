@@ -303,19 +303,19 @@ You earn Weapon Upgrade Tokens as follows:
 
 Mission | Exploration | Challenges | Combat | Bonus | Bosses | Total | Cumulative
 --- | --- | --- | --- | --- | --- | --- | ---
-Mission 1: The UAC | 2 | 0 | 0 | 0 | 0 | 2 | 2
-Mission 2: Resource Operations | 2 | 3 | 0 | 0 | 0 | 5 | 7
-Mission 3: Foundry | 2 | 3 | 5 | 0 | 0 | 10 | 17
-Mission 4: Argent Facility | 2 | 3 | 5 | 0 | 0 | 0 | 10 | 27
-Mission 5: Argent Energy Tower | 2 | 3 | 5 | 0 | 0 | 10 | 37
-Mission 6: Kadingir Sanctum | 2 | 3 | 5 | 0 | 0 | 10 | 47
-Mission 7: Argent Facility (Destroyed) | 2 | 3 | 5 | 0 | 0 | 10 | 57
-Mission 8: Advanced Resource Complex | 2 | 3 | 5 | 0 | 0 | 10 | 67
-Mission 9: Lazarus Labs | 2 | 3 | 5 | 2 | 6 | 18 | 85
-Mission 10: Titan's Realm | 2 | 3 | 5 | 0 | 0 | 10 | 95
-Mission 11: The Necropolis | 2 | 3 | 5 | 0 | 6 | 16 | 111
-Mission 12: VEGA Central Processing | 2 | 3 | 5 | 5 | 0 | 15 | 126
-Mission 13: Argent D'Nur | 2 | 3 | 5 | 0 | 6 | 16 | 142
+1: The UAC | 2 | 0 | 0 | 0 | 0 | 2 | 2
+2: Resource Operations | 2 | 3 | 0 | 0 | 0 | 5 | 7
+3: Foundry | 2 | 3 | 5 | 0 | 0 | 10 | 17
+4: Argent Facility | 2 | 3 | 5 | 0 | 0 | 0 | 10 | 27
+5: Argent Energy Tower | 2 | 3 | 5 | 0 | 0 | 10 | 37
+6: Kadingir Sanctum | 2 | 3 | 5 | 0 | 0 | 10 | 47
+7: Argent Facility (Destroyed) | 2 | 3 | 5 | 0 | 0 | 10 | 57
+8: Advanced Resource Complex | 2 | 3 | 5 | 0 | 0 | 10 | 67
+9: Lazarus Labs | 2 | 3 | 5 | 2 | 6 | 18 | 85
+10: Titan's Realm | 2 | 3 | 5 | 0 | 0 | 10 | 95
+11: The Necropolis | 2 | 3 | 5 | 0 | 6 | 16 | 111
+12: VEGA Central Processing | 2 | 3 | 5 | 5 | 0 | 15 | 126
+13: Argent D'Nur | 2 | 3 | 5 | 0 | 6 | 16 | 142
 
 So, if you 100% the game you should have 142 - 126 = 16 unusable Weapon Upgrade points at the end.  Another way to look at it:  there are 16 extra Weapon Upgrades Points.
 
@@ -388,9 +388,14 @@ This rune comes in handy for the Bosses at the end of Mission 11, and for fulful
 
 ### Ammo Boost
 
+Very useful: I have this on much of the time.
+
 ### Equipment Power
 
+Usually not as useful as other available runes, but at least it's easy to upgrade.
+
 ### Seek and Destroy
+TODO: my theory is that this is useful with Berserk Powerups, but i need to test that.
 
 ### Savagery
 TODO: my theory is that this is useful with Berserk Powerups, but i need to test that.
@@ -405,6 +410,8 @@ Upgrade notes:  You need to get 25 Mid-Air kills.  Note that "Mid-Air" refers to
 
 ### Armored Offensive
 
+Very useful, easy to upgrade, just keep it on a lot.
+
 ### Blood-Fueled
 
 ### Intimacy is Best
@@ -412,10 +419,15 @@ Upgrade notes:  You need to get 25 Mid-Air kills.  Note that "Mid-Air" refers to
 Upgrade hint: although you might think this would be efficient to get in conjunction with
 the various glory-kill upgrades, it's probably best to upgrade this by finding a group of The Possesseds and staggering them over and over again with the pistol.  It only takes about a minute or so.
 
-
 ### Rich Get Richer
 
+This is useful is several Argent D'Nur fights.
+
+Upgrade hint:  in Nightmare mode, getting up to full Armor is difficult, except when the Mega-Health powerup.  There's a fairly easy way to do this in the Tablet Room if you mind dying 11 times.
+
 ### Saving Throw
+
+A possibly useful safeguard in Ultra-Nightmare, but not too useful.
 
 # Using this Guide
 Secrets, Field Drones, Argent Cells, Rune Challenges are all written in uppercase at their secret location, with dotted notation where the first number is the mission and the secret is the index of the location in the Dossier Overview/Map page.
@@ -2043,7 +2055,7 @@ Go toward a gated off green teleporter.  Look left to see a large room with 2 Ye
 Go in to what I call the Treasure Room, and pick up some loot and a Blue Skull, a fight is triggered on the way out.
 
 ## Mission 10: Fight: Treasure Room
-It starts right near the entrance/exit with 3 Spectres.  This is quickly followed by some Imps and 4 Lost Souls.  Then 2 Cacodaemons and 3 Mancubi.  Finally, a Hell Baron.
+It starts right near the entrance/exit with 3 SPECTRES.  This is quickly followed by some Imps and 4 Lost Souls.  Then 2 Cacodaemons and 3 Mancubi.  Finally, a Hell Baron.
 
 CHECKPOINT.
 
