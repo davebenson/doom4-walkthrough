@@ -328,6 +328,20 @@ On the other hand, Secrets, Argent Cells, and Elite Guards are all saved without
 
 This system usually works quite well, but the Argent Cells have a side-effect of filling up whatever power you upgrade.  This isn't saved unless you find a checkpoint elsewhere.  This rarely comes up besides in Mission 7 where we provide some advice.
 
+### Checkpoints, in Summary
+
+Things that are captured immediately:
+* Secrets, Argent Cell, Elite Guard usage
+
+Things that are preserved by checkpoints:
+* demon kills
+* pickups (except those dropped by demons)
+* Health, Armor and Ammo levels
+
+Things that are lost by dying after a checkpoint:
+* the fill-up delivered by Argent Cells
+* partial (pending) powerups at the time of the checkpoint
+
 ## Your Dossier
 These are accessed by the central button on PS4.
 
@@ -421,7 +435,7 @@ the various glory-kill upgrades, it's probably best to upgrade this by finding a
 
 ### Rich Get Richer
 
-This is useful is several Argent D'Nur fights.
+This is quite useful is several Argent D'Nur fights.
 
 Upgrade hint:  in Nightmare mode, getting up to full Armor is difficult, except when the Mega-Health powerup.  There's a fairly easy way to do this in the Tablet Room if you mind dying 11 times.
 
@@ -444,7 +458,7 @@ The significance of that is that it is nice to load up on supplies right before 
 (So that if you die, you won't have to get the supplies again)
 
 # About this Guide
-This is the first Walkthrough I have written.
+This is the first Walkthrough that I (Dave Benson) have written.
 I hope you find it useful.
 
 I am no expert game player.
@@ -471,12 +485,14 @@ Interact with the screen (to the right of the door) and
 proceed into the central room with the Praetor Suit.  Interact with it, and
 meet Dr Hayden.
 
-## Mission 0: Fight: Glory Kill Tutorial
+Ultra-Nightmare skips the Mission 0 fights.
+
+## Mission 0: Mini-Fight 0.1: Glory Kill Tutorial
 
 You will come upon a staggered The Possessed.
 After killing it, kill the remaining 4 weaklings.
 
-## Mission 0: Meet the Imp
+## Mission 0: Mini-Fight 0.2: Meet the Imp
 
 Interact with a corpse to get the SHOTGUN.
 
@@ -485,7 +501,7 @@ Enter the next room.
 A quick cut-scene will play as the IMP scurries down from the rafters.
 Kill it, obviously (using the Shotgun).
 
-## Mission 0: Fight: Blue Elevator Chamber
+## Mission 0: Fight 0.3: Blue Elevator Chamber
 
 You exit the anteroom to see 8? The Possessed worshipping an Orb.  You can Glory Kill them if you need health or kill them en masse by shooting the barrel.
 
@@ -503,7 +519,7 @@ The mission starts with you exiting an elevator, and dropping onto a lower plane
 
 As you approach another tall cliff, you can see Imps running off into the horizon: these can be shot but it's not worth the effort.  You can also shoot The Possesseds below, but it's better to use them as walking health bonuses.
 
-## Mission 1: Fight: Pre-Blue-Keycard
+## Mission 1: Fight 1.1: Pre-Blue-Keycard
 
 This is the first real fight of the game.  It occurs on a 2-level dual-figure-eight structure.
 
@@ -526,13 +542,13 @@ Continuing through the tunnel, you'll get to the gate, which will open.
 
 You'll get some ammo, but more importantly, the FRAG GRENADE, which is very useful, especially once your suit's equipment upgrades are done.
 
-## Mission 1:  Fight: Stray Possessed and Imps
+## Mission 1:  Mini-Fight 1.2: Stray Possessed and Imps
 
 There's about 6 The Possesseds and 3 Imps.
 
 After killing those guys, enter the cave to the right (at the top of the incline).  You will find some worshipping Possessed and an Auto-map.  Continue out the cave to find a Praetor Token (ELITE GUARD 1.1) on the right before jumping down.
 
-## Mission 1:  Fight: Stray Imps
+## Mission 1:  Mini-Fight 1.3: Stray Imps
 
 As you drop down the last level of this spit of land, 5 Imps will attack from various directions.
 
@@ -540,7 +556,7 @@ CHECKPOINT.
 
 After that, look for the large tank with TRI 9-C printed on it, and enter its lower level.  There is a lever through that you should interact with then enter the Classic Doom Level.  Exit the structure and you should be able to see up the path to SECRET 1.2, CLASSIC MAP 1.1 "Doom II: Entryway".
 
-## Mission 1: Fight: Classic Doom Level
+## Mission 1: Classic Fight 1.4: Classic Doom Level
 
 There are 4 Possessed Soldiers standing on pedestals in here.
 I usually use a Frag Grenade to kill the left one, then snipe the right one from just under the pillar.  The remaining two can be taken out one-at-a-time.
@@ -552,14 +568,14 @@ After this, jump onto the crates at the end of the landing bay, and jump the cha
 
 At the end of this area, you may catch a glance of the Field Drone flying away to the right.  But go left to an area with Health and Armor, and the second CODEX ENTRY "Environments / The UAC".
 
-## Mission 1: Fight: Just Across the Chasm
+## Mission 1: Fight 1.5: Just Across the Chasm
 Go back, and to the right where you saw the Field Drone; it's floating right ahead.  Interact with it:  I tend to get Explosive Shot as it makes an upcoming challenge easier, but it isn't necessary.
 
 You will come across some The Possesseds worshipping a corpse.  There are 3 Possessed Soldiers around in the peripheries as well, and they will be join in the fun by some Imps that'll spawn, potentially close to you.
 
 After killing them, CHECKPOINT.
 
-## Mission 1: Fight: Pre Entranceway Area
+## Mission 1: Fight 1.6: Pre Entranceway Area
 This canyon can be approached in two ways:
 * go directly up the canyon
 * back up and ascend some cliffs to the left (there's a Medium Health visible), cross over the canyon on a land bridge, then turn left and climb up a yellow metal wall.
@@ -571,7 +587,7 @@ CHECKPOINT.
 You should see a suit of Armor on a small plateau.  Just before that, at the canyon's bottom, look around for a small backfacing greenlit "secret" tunnel.
 It leads to a cliff with SECRET 1.3 to COLLECTIBLE 1.2 "Imp Model, Classicguy".
 
-## Mission 1: Fight: Entrance
+## Mission 1: Fight 1.7: Station Entrance
 You can approach this fight up the main road (over the plateau with a suit of armor), or from the side using the plateau to the right.
 Use grenades to knock these forces back, and retreat to snipe at the various demons.
 
@@ -590,7 +606,7 @@ Enter into either of the twin doors, there's some armor - pick it up if needed, 
 * Variety is the Spice of Death I: perform 5 different Glory Kills on the Possessed.  There's a lot of options; use the Pistol (instead of Shotgun) to more reliably stagger (as opposed to kill) them.
 * Quite the Explorer: Find 3 Secrets.  This should be pretty easy, with this guide.
 
-## Mission 2:  Fight:  Tiny fight before opening hatch
+## Mission 2:  Mini Fight 2.1:  Before opening hatch
 5 Possessed wait here, and 2 Imps spawn quickly.  Kill the Imps and use the Possesseds to work on either Challenge "Variety is the Spice of Death I" or "Twofer" (this is easiest using the Explosive Shot modification).
 
 You can't open the hatch yet: "Low Power".  Instead, open a door to find a number of The Possessed, and keep going to an Imp at the top of the stairs.
@@ -602,7 +618,7 @@ Back at the bottom of those steps, find an Auto-Map:  use it.
 
 Continue to the waypoint and an Open the Maintenance Bay Door.
 
-## Mission 2:  Fight:  Tiny fight in catwalk area with Original Doom Level
+## Mission 2:  Mini Fight 2.2:  Tiny fight in catwalk area with Original Doom Level
 Some Possessed are followed by 3 Imps.  Go where they originated onto a crane-like catwalk.  Jump over its left railing, and look for a platform somewhat above you:  jump to it.  Look for the Lever and pull it.
 
 Jump back down, keeping an eye out for some Imps that'll spawn right around you.  You should see the SECRET 2.8, CLASSIC MAP 2.1 "Doom - Hangar" up a small staircase with some Health and Shotgun ammo.
@@ -611,7 +627,7 @@ After that, open the door with the waypoint to meet the Possessed Engineer.  Sho
 
 A battle awaits after opening the next door.
 
-## Mission 2:  Fight:  U-shaped catwalk area
+## Mission 2:  Fight 2.3:  U-shaped catwalk area
 This can be a difficult fight, but judicious use of Grenades, Barrels, and Possessed Engineers can make it fairly painless.
 
 Post Fight:  There's CODEX ENTRY "Environments / Resource Operations" and a door.
@@ -620,7 +636,7 @@ You can enter the room through a path with more goodies by looking for a screen 
 
 No matter which way you go, you'll be in a locker room with some Shotgun Ammo, the Chainsaw, and a Health Station.
 
-## Mission 2:  Fight:  Industrial Train Depot
+## Mission 2:  Fight 2.4:  Industrial Train Depot
 A long hallway fight, with a bit of a side-corridor at the end.
 
 You can fight it from the entrance gate, or you can charge in.
@@ -633,13 +649,13 @@ Cross the train-tracks on the far-side of the room from your entrance.  You will
 
 Drop drop and take out the few The Possesseds.
 
-## Mission 2:  Fight: Tiny fight in front of Security Station
-A few The Possesseds.
+## Mission 2:  Mini Fight 2.5: In front of Security Station
+A few ??? The Possesseds.
 
 Since you don't have the Yellow Keycard yet, you will have to go down the hall
 to a developed outdoor area.
 
-## Mission 2:  Fight: Developed Outdoor Gore Nest
+## Mission 2:  Fight 2.6: Developed Outdoor Gore Nest
 Before destroying the gore nest, take out the 6? The Possesseds possibly using Glory Kills to get more health.  I tend to use the pistol to save ammo.
 
 After destroying the Gore Nest, a large number of Imps and Possessed Soldiers appear, keep moving and shoot the barrels to kill some of them while saving ammo.  Make note of the two supply caches containing ammo+health before starting.
@@ -656,7 +672,7 @@ Go through the hatch then drop down into the Industrial Train Depot, right in fr
 
 But, don't go there yet!  Instead, retrace your earlier steps to the Security Station which you can now access!  Take the supplies and ??? unlock the doors
 
-Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down for SECRET 2.2.  Find some The Possesseds and 2 Imps, along with ELITE GUARD 2.1 and a Plasma Rifle (SECRET 2.3).  To get out of this area, you'll find a Grate that you can kick open.
+Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down for SECRET 2.2.  Find some The Possesseds and 2 Imps, along with ELITE GUARD 2.1 and a PLASMA RIFLE (SECRET 2.3).  To get out of this area, you'll find a Grate that you can kick open.
 
 This will drop you into the location of the Developed Outdoor area fight, which is now vacant, but some Health may have re-appeared.
 
@@ -670,7 +686,7 @@ Go through the Yellow Keycard door, and Open the Airlock from the control room i
 
 Enter the Airlock, then Cycle it to access the red outdoors.
 
-## Mission 2:  Fight:  Outdoor Fight
+## Mission 2:  Fight 2.7:  Outdoor Fight
 This sprawling fight occurs mostly in the lower level of a two-level area.  It's mostly Possessed Soldiers and Imps- lot's of them.  I recommend running through using Heat Blast, and using the Chainsaw on the Possessed Security.  Then grab the Berserk Powerup to kill the majority of the remainder.
 
 ## Mission 2:  Accessing the Secret after the Outdoor Fight
@@ -691,7 +707,7 @@ There's a corpse whose handprint will grant you access to begin the realignment 
 
 Follow waypoints, to go down the elevator down to the next tiny fight.
 
-## Mission 2:  Fight: Tiny fight after realignment
+## Mission 2:  Mini Fight 2.8: Imps after Aligning the Bridge
 3 Imps climb up; one more on bridge.
 
 ## Mission 2:  Crossing the bridge
@@ -706,14 +722,18 @@ Toss a grenade back in.  The chainsaw can be a good way to deal with the Shielde
 
 CHECKPOINT.
 
-## Mission 2:  Fight: Entranceway / Control Room Area
+## Mission 2:  Mini Fight 2.9: VEGA Terminal Entrance
+1 Possessed Security and 2 Possessed Soldiers.
+(Use a grenade or Heat Blast or a chainsaw.)
+
+## Mission 2:  Fight 2.10: Entranceway / Control Room Area
 Three Imps and a few The Possesseds.
 
 There's a assault rifle and CODEX ENTRY "Monsters / Possessed Security" here.
 
 In the control console area is a screen you can use to open the next door.
  
-## Mission 2:  Fight: Hallway
+## Mission 2:  Fight 2.11: VEGA Hallway
 A Possessed Soldier will run in as soon as the door opens.
 
 Many The Possesseds, 3 Possessed Soldiers, and one Possessed Security.
@@ -750,14 +770,20 @@ Notes on Combat Challenges:
 * Curb Stomp: Gore Nest 2 in the yellow molten Main Foundry Area is the easiest, but there's a lot of random Possessed Soldiers around.  (Unlike Mission 9's "Variety Is the Spice of Death II", Hell Razers do not count for this challenge)
 * Quite the Collector: easy with this guide, I hope.
 
-## Mission 3:  Gore Nest 1
+## Mission 3: Mini Fight 3.1: Small Initial Gang
 From the entrance area, exit into the Main Foundry Area.
 Jump left over a gap in the catwalk.
-To the right is a Possessed Soldier you can Death-From-Above Glory Kill (as needed for the combat challenge) and many possessed you can kill with one barrel (another Combat Challenge).
 
+The following fight does not spawn every time, especially if you die.
+
+To the right, across a bridge, is a Possessed Soldier you can Death-From-Above Glory Kill (as needed for the combat challenge "Curb Stomp") and many possessed you can kill with one barrel (for Combat Challenge #1).
+
+## Mission 3:  Gore Nest 1 (Ante-Room)
 Go back, though, through the door and find FIELD DRONE 3.1.
 Use it as you wish (I tend to like Assault Rifle's Tactical Scope).
 There is also CODEX ENTRY "Environments / Foundry" here.
+
+## Mission 3:  Gore Nest 1: Mini Fight 3.2: Side-Foundry 
 
 Keep going back past some firey doors to a control console.  You can try to unlock the door (you don't have access) or watch a replay to see where the Yellow Keycard Guard has gone.
 
@@ -767,13 +793,13 @@ If you enter that passage, you'll see that the catwalk has broken, and you shoul
 
 If you try to jump across, you'll land on a platform below.  To your right is a small room with ELITE GUARD 3.1.
 
-Follow the green light to jump around and get up to a platform at the same height as you started.  The highest platform should say MIXOM.  Look around at you should see a square opening you can jump into:  this is SECRET 3.1, there is a suit of armor here.
+Follow the green lights to jump around and get up to a platform at the same height as you started.  The highest platform should say MIXOM.  Look up and right to see a square opening you can jump into:  this is SECRET 3.1, there is a suit of armor here.
 
-Finally, jump to the platform you could see from across the gap.  Interact with the corpse to grab his biometric ID (ie his arm).  You can jump the gap easily in this direction.  The flaming door ahead is where the Gore's Nest is located.
+Finally, jump to the platform you could see from across the gap.  Interact with the corpse to grab his biometric ID (ie his arm).  Turn around: you can jump the gap easily in this direction - but watch out for an Imp that appears. The flaming door ahead is where the Gore's Nest is located.
 
-Go to the control console and use the dude's arm.  Turn left twice to find the Gore's Nest.
+Go to the control console (veering left) and use the dude's arm.  Turn left twice to find the Gore's Nest.
 
-## Mission 3: Fight: Gore Nest 1
+## Mission 3: Fight 3.3: Gore Nest 1
 This fight takes place in a somewhat dim and dirty one-story area.
 But, it's just ~5 Imps and ~3 Hell Razers so it is fairly quick.
 
@@ -893,6 +919,7 @@ Open the Shutters (interact with the screen), to watch a cut-scene with Olivia P
 Immediately after that, an Imp and 2 The Possesseds will spawn.
 
 # Mission 4:  Argent Facility "Beginning of the End"
+This area will be revisited in Mission 6: Argent Facility (Destroyed), which mostly shares the outdoor areas, but the indoor areas are completely separate.
 
 Notes on Combat Challenges:
 * Walk the Path and Bird's Eye View: easy with this walkthrough, hopefully.
@@ -1902,7 +1929,7 @@ The hallway become increasingly bloody, and you finally open a door onto a conso
 
 ## Mission 9: Fight: Two Level Lounges
 
-Two identical hallways take you to a symmetric 2-level area strewn with Imps, Possessed Soldiers but mostly The Possessed.
+Two identical hallways (with bloody skeleton wallpaper), take you to a symmetric 2-level area strewn with Imps, Possessed Soldiers but mostly The Possessed.
 
 Once cleared, from the entry, go to the lounge on the right on the upper-floor.  Look around for a bloody duct at approximately head-height.
 It takes you to SECRET 9.9, RUNE CHALLENGE 9.2, "Saving Throw".
@@ -2375,7 +2402,7 @@ Drop down to hear a demonic voice say "Kill Him".
 
 CHECKPOINT.
 
-## Mission 13: Fight: Big Fight 1
+## Mission 13: Fight: Wraith Fight 1
 You can start by sniping the Imps and Hell Knight, if you can see them from the cliff (you usually can).  This can be a good time to get the Gauss Cannon's Precision Shot upgrade.
 
 Once you go down (irreversibly) into the arena,
@@ -2396,7 +2423,7 @@ Immediately past the mouth, turn right to a passage that only opens after the Sk
 Continue down this secret passage, looking for bloodsmears and a lever on the left wall.
 As usual, interact with the level to open SECRET 13.5, CLASSIC MAP 13.1 "Doom - Pandemonium".
 
-## Mission 13: Fight: Big Fight 2
+## Mission 13: Fight: Wraith Fight 2
 Again, snipe a Hell Knight and 2 Imps from above, if you like.
 
 This fight starts with a Pinkie but I think there's only 1.  There's tons of Hell Knights, Revenants, Imps, Hell Razers.  And a string of about 4 Cyber-Mancubi that tend to come at the end.  The finale is a Cyber-Mancubi and Hell Baron that spawn at the same time.
@@ -2412,7 +2439,7 @@ At you walk up this tunnel, keep an eye out for the third Skull Switch, on the r
 Interact, then walk back toward the entrance to find an newly opened alcove, SECRET 13.4,
 containing Meta Health and BFG Ammo (don't forget to activate Rich get Richer before taking the health).
 
-## Mission 13: Fight: Big Fight 3
+## Mission 13: Fight: Wraith Fight 3
 Again, snipe a Hell Knight and an Imp before jumping down, if possible.
 
 This fight is a long sequence of Hell Knights and Pinkies and Imps.
