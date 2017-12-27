@@ -143,11 +143,12 @@ Fuel to kill various demons:
 Here's how I upgrade my weapons.  I usually upgrade one-at-a-time, simply because that spaces the Upgrade Challenges out more.
 
 * Plasma Rifle / Heat Blast
-* Assault Rifle / Tactical Scope
-* Either order:
-  * Super Shotgun
-  * Rocket Launcher / Lock-On
+* Rocket Launcher / Lock-On
+* Super Shotgun
 * Gauss Cannon / Siege Mode
+* Assault Rifle / Tactical Scope  (Often I get the first two upgrades before Siege Mode is available)
+* Pistol
+* Rocket Launcher / Remote-Detonation
 
 
 ## Monsters
@@ -270,8 +271,8 @@ These pull energy from demons in their radius and give it to you.  But the amoun
 Mission | Subtitle | Elite Guards | Argent Cells | Field Drones | Rune Trials | Secrets | Data Logs
 --- | --- | --- | --- | --- | --- | --- | ---
 Mission 1: The UAC | Rip and Tear | 1 | 0 | 1 | 0 | 3 | 2
-Mission 2: Resource Operations | Know Your Enemy | 3 | 0 | 1 | 0 | 8 | 2
-Mission 3: Foundry | Meltdown | 3 | 0 | 1 | 0 | 6 | 3
+Mission 2: Resource Operations | Know Your Enemy | 3 | 1 | 1 | 0 | 8 | 2
+Mission 3: Foundry | Meltdown | 3 | 1 | 1 | 0 | 6 | 3
 Mission 4: Argent Facility | Beginning of the End | 4 | 1 | 2 | 2 | 5 | 4
 Mission 5: Argent Energy Tower | Argent Tower | 3 | 2 | 1 | 2 | 7 | 4
 Mission 6: Kadingir Sanctum | Into the Fire | 4 | 1 | 1 | 2 | 6 | 7
@@ -428,6 +429,8 @@ Very useful, easy to upgrade, just keep it on a lot.
 
 ### Blood-Fueled
 
+Useful during Berserk Powerups - this is also a good time to get the upgrade.
+
 ### Intimacy is Best
 
 Upgrade hint: although you might think this would be efficient to get in conjunction with
@@ -441,7 +444,8 @@ Upgrade hint:  in Nightmare mode, getting up to full Armor is difficult, except 
 
 ### Saving Throw
 
-A possibly useful safeguard in Ultra-Nightmare, but not too useful.
+A possibly useful safeguard in Ultra-Nightmare or Arcade Mode, but otherwise, 
+not too useful.
 
 # Using this Guide
 Secrets, Field Drones, Argent Cells, Rune Challenges are all written in uppercase at their secret location, with dotted notation where the first number is the mission and the secret is the index of the location in the Dossier Overview/Map page.
@@ -640,7 +644,7 @@ No matter which way you go, you'll be in a locker room with some Shotgun Ammo, t
 A long hallway fight, with a bit of a side-corridor at the end.
 
 You can fight it from the entrance gate, or you can charge in.
-It doesn't really make much difference.
+There's a few barrels that you can shoot to good effect; grenades are also helpful here, as can be the chainsaw.
 
 ??? CHECKPOINT.
 
@@ -650,10 +654,14 @@ Cross the train-tracks on the far-side of the room from your entrance.  You will
 Drop drop and take out the few The Possesseds.
 
 ## Mission 2:  Mini Fight 2.5: In front of Security Station
-A few ??? The Possesseds.
+4 The Possesseds.
+
+Load up on health and armor before proceeding, since the next fight can be tough.
 
 Since you don't have the Yellow Keycard yet, you will have to go down the hall
 to a developed outdoor area.
+
+CHECKPOINT.
 
 ## Mission 2:  Fight 2.6: Developed Outdoor Gore Nest
 Before destroying the gore nest, take out the 6? The Possesseds possibly using Glory Kills to get more health.  I tend to use the pistol to save ammo.
@@ -727,7 +735,7 @@ CHECKPOINT.
 (Use a grenade or Heat Blast or a chainsaw.)
 
 ## Mission 2:  Fight 2.10: Entranceway / Control Room Area
-Three Imps and a few The Possesseds.
+Three Imps and a few The Possesseds.  In the entrance hallway, there's a door to the right that leads to a Munitions Crate.
 
 There's a assault rifle and CODEX ENTRY "Monsters / Possessed Security" here.
 
@@ -1019,7 +1027,7 @@ There is also a Plasma Rifle here.
 ## Mission 4: Rune and Secret
 From the small room containing the Argent Filter, turn right to a large floor with large lifts.  You can probably see the glowing green RUNE CHALLENGE 4.2: "Dazed and Confused" on the lift in the opposite corner of the building (from the entrance, look at the opposite corner - the rune is on the structure just to the right of center).
 
-Once done with the rune, look for a large hole that is serviced by a lift (now down).  Jump down there, and into a hallway.  On the left you should see a small block on a larger block, making a natural stairway. (A drone delivers it- wait a few seconds if the blocks aren't climbable.)  Climb up, and turn right to see a service walkway which you can jump onto to find SECRET 4.2, COLLECTIBLE 4.1, "Hell Knight Model, UACguy".
+Once done with the rune, look for a large hole that is serviced by a lift (now down).  Jump down there, and into a hallway.  On the left you should see a small block on a larger block, making a natural stairway. (A drone delivers it- wait a few seconds if the blocks aren't climbable - or you can have to go back to the argent filter you destroyed to trigger it)  Climb up, and turn right to see a service walkway which you can jump onto to find SECRET 4.2, COLLECTIBLE 4.1, "Hell Knight Model, UACguy".
 
 ## Mission 4: Back Access Walkway (Secrets, Optional)
 This lonely walkway is the only dirt path descending from Gore Nest #2 / Union Aerospace Tank.
@@ -1269,6 +1277,7 @@ This will cause two pairs of cars (drones) to transport stuff vertically from th
 Exit the control room and find that there's one pair of drones right in front of you.
 
 Instead, go around to the opposite side of the column where the second pair of drones is (this is also where the Invulnerability Powerup is).
+(These drones are illuminated in blue; the drones near the control room are green)
 Jump onto a drone and go up:  you'll see a platform at the top, with (if you look carefully) a lever.  Jump to it and actuate the Lever.  Hitch a ride down with the drone.  At the bottom, the drone will plug into a socket; when it disengages, you'll see SECRET 5.7, the CLASSIC MAP 5.1 "Doom - Halls of the Damned" in the back of the socket.
 
 After that, take any drone up to the top and jump up to the highest platform you can.  You'll see another rotating plug train.  When it stops you should be able to jump straight onto it.  When it stops again, follow the plug and some on to a platform on either side.
@@ -2028,7 +2037,7 @@ Use the Haste since this is the only fight in this area - use it to work on the 
 Once you get the CHECKPOINT, approach the Teleporter and the bars will lift.  Enter for an iconic fight.
 
 ## Mission 10: Fight: Bloody Cave
-Dave's Opening: I usually turn right coming out of the Teleporter, picking up shutgun ammo and a suit of armor.  Look left into a cave before a Yellow Lift: there should be Rockets on the ground and a Quad Powerup in the background.  In a few seconds, a Mancubus will appear right on the rockets:  lob some grenades and go up the stairs right past the Yellow Lift.  You should find a Gas can, and down the hallway, the only Pinkie in this fight.  Kill it and then run and fight as usual.
+Dave's Opening: I usually turn right coming out of the Teleporter, picking up shotgun ammo and a suit of armor.  Look left into a cave before a Yellow Lift: there should be Rockets on the ground and a Quad Powerup in the background.  In a few seconds, a Mancubus will appear right on the rockets:  lob some grenades and go up the stairs right past the Yellow Lift.  You should find a Gas can, and down the hallway, the only Pinkie in this fight.  Kill it and then run and fight as usual.
 
 The finale is 2 Hell Barons.  I often save the Quad Powerup for them (note that 4 Imps spawn when you take the Powerup).
 
@@ -2259,15 +2268,15 @@ Another Maintenance Door at ground level is followed by a green-lit hatch in the
 Drop down to the area with the Security Switches.
 
 ## Mission 12: First Switch Fight
-...
+Many Imps, Possessed Soldiers, and Revenants spawn when you activate the first switch (the second switch doesn't trigger any spawning).
+
+This multistory area has many pickups, and the area is reused for the next fight.
 
 ## Mission 12: Security Shutdown Fight
 Flipping the second switch does not cause any new demons to spawn.
 
 But, disabling security does cause 2 Cacodaemons and a Cyber-Mancubus to spawn.
 This fight can be won in a single BFG shot if you venture forward about 5 seconds after disabling the security system.
-
-...
 
 ## Mission 12: Cooling Access Fight
 Note: you can use the Berserk from the earlier fight.
@@ -2331,7 +2340,7 @@ There are 3 BFG ammo here - so you'll probably want to use it a few times.
 ## Mission 12: Destroy VEGA
 A waypoint leads to a platform that'll carry you up to ???.
 
-But first, look down below for another platform to jump onto.  Jump onto a ledge which should have SECRET 12.4, ELITE GUARD 12.3 on it.
+But first, look down below for another platform to jump onto.  Jump onto a ledge which should have SECRET 12.4, ELITE GUARD 12.3 on it (as well as a Munitions Crate).
 
 Take the elevator back up to the platform.
 
