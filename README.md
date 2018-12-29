@@ -1790,7 +1790,7 @@ The pre-fight is all Possessed Engineers and is unlikely to be a problem.  Often
 
 The initially a Cyber-Mancubus appears in front of you; then 2 Mancubi; then another Cyber-Mancubus; along with 6? Imps.
 
-## Mission 8: After Gore Nest 1: Secrets Galore
+## Mission 8: The Chasm: Secrets Galore
 Go to the marker indicated by the game, and interact with the screen
 to "Lower Security Field".
 
@@ -1802,7 +1802,7 @@ Jump across to the immediate platform, and turn left and drop onto the platform 
 You should see some pipes and a lever at your exact elevation:  you need to jump there.  The trick is that there is an invisible ledge about 12' (4 meters) below the level.  If you land on that it is confusing:  but if you have the In-Flight Mobility Rune you should easily be able to jump from this awkward position to the Lever.
 The upgraded In-Flight Mobility Rune helps too (make sure to activate it).
 
-It is also possible to access this switch from the platform near the megahealth described below.
+(It is also possible to access this switch from the platform near the megahealth described below.  It's perhaps a bit easier.)
 
 Third, from the Lever, face the piping and jump onto the pipe.  Duck and turn into the cave, and search around into you find SECRET 8.6, COLLECTIBLE 8.1, "Supershotgun Model / Phobosguy"
 
