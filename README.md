@@ -116,7 +116,7 @@ The Big F-ing Gun.  This will clear out a whole room of demons, but it can be a 
 Ammo is found individually, and you always have a limit of 3.  However, the Ammo Boost II rune WILL cause enemies to randomly drop BFG ammo when they die so there isn't too much of a shortage.
 
 ### Chainsaw (available Mission 2)
-This crazy melee weapon will definitely kill any monster in range that
+This crazy melee weapon will definitely kill any monster (except Bosses) in range that
 you have enough fuel to kill.  The initial capacity is 3 Fuel Units, which is the amount in every gas can.  Each Argent Cell upgrade to the Ammo Capacity increases your capacity by 1 Fuel.
 So fully upgraded, you have a capacity of 7 Fuel Units.
 
@@ -388,6 +388,7 @@ Nightmare            | ...                     | 1
 
 Ultra-Nightmare is the same as Nightmare for this information.
 
+
 ## Runes
 
 I provide hints about how to complete the Runes Challenges where you come across them.  These are hints about when to use runes, and how to upgrade them (as easily as possible- both on a single playthrough as well as using Mission Replay).
@@ -407,17 +408,18 @@ Very useful: I have this on much of the time.
 
 ### Equipment Power
 
-Usually not as useful as other available runes, but at least it's easy to upgrade.
+This will make your grenades pretty powerful, and is basically trivial to upgrade (just throw 30 grenades with the rune enabled).  If you upgrade your Equipment Power using Praetor Tokens, it'll make grenade throwing faster, and hence make the upgrade easier to get and more powerful.
 
 ### Seek and Destroy
-TODO: my theory is that this is useful with Berserk Powerups, but i need to test that.
+Useful for most berserk powerups - and those are great times for upgrades.
 
 ### Savagery
-TODO: my theory is that this is useful with Berserk Powerups, but i need to test that.
+Useful for most berserk powerups.
 
 ### In-Flight Mobility
-
 This rune is almost vital for the last boss fight - and the upgrade is pretty critical too.
+
+It might make sense to work on this upgrade at the same time as the Dazed and Confused upgrade.
 
 Challenge tips:  there is very little room for error.  You must single jump across the split every time - if you double-jump (which is tempting, because the separation is pretty wide for a single-jump), it'll waste valuable time.  The crux is probably hitting the annoying mid-air relic in the second half of this course, but note that you have two chances at it, since you have to jump left-to-right then right-to-left in that area.  Obviously most people aim to get it in the first jump, but it's good to keep cool if you miss it on the first jump since you have another chance.
 
@@ -426,26 +428,66 @@ Upgrade notes:  You need to get 25 Mid-Air kills.  Note that "Mid-Air" refers to
 ### Armored Offensive
 
 Very useful, easy to upgrade, just keep it on a lot.
+Also, the upgrade is measured it armor points you pick up.  In particular, picking up a Mega-Health will contribute 200 points for this upgrade.
 
 ### Blood-Fueled
 
 Useful during Berserk Powerups - this is also a good time to get the upgrade.
 
 ### Intimacy is Best
+There's only one place this upgrade is helpful (unless you count mission replay): the Atop the Mountain challenge in Mission 10.
 
 Upgrade hint: although you might think this would be efficient to get in conjunction with
 the various glory-kill upgrades, it's probably best to upgrade this by finding a group of The Possesseds and staggering them over and over again with the pistol.  It only takes about a minute or so.
 
 ### Rich Get Richer
 
-This is quite useful is several Argent D'Nur fights.
+This is quite useful in several Argent D'Nur fights.
 
-Upgrade hint:  in Nightmare mode, getting up to full Armor is difficult, except when the Mega-Health powerup.  There's a fairly easy way to do this in the Tablet Room if you mind dying 11 times.
+To upgrade this, you need 12 Armor Fillups.  An Argent Cell counts, as do Mega-Healths.  But you'll struggle to get about 6 of those.  One options is to use Toxic-Sludge to do a single point of damage -- Unfortunately there's really only one fight [....] that has easy access.
+
+Upgrade hint:  in Nightmare mode, getting up to full Armor is difficult, except when the Mega-Health powerup.  If you don't mind dying multiple times, there are a few Mega-Healths you can use to get the upgrade.
+you can die and multiply get several Mega-Health, Toxic Sludge is a convenient way to drop just a single health at a time.  
 
 ### Saving Throw
 
-A possibly useful safeguard in Ultra-Nightmare or Arcade Mode, but otherwise, 
-not too useful.
+A possibly useful safeguard in Ultra-Nightmare or Arcade Mode, but in casual play for campaign mode, not too useful.
+
+
+# Mission-by-Mission Plot Summary (SPOILERS!)
+For the most part, the plot in this game isn't very important.
+But I wanted to summarize the whole plot briefly so casual players can refresh their memories.
+
+Before any mission, you, Doomguy, are awoken from your slumber.
+You learn in a cut-scene that a satellite must be realigned to learn the status of the complex: THE UAC (Mission 1) (abbrev for Union Aerospace Complex). 
+First you must gain access to the .... 
+From there, you are taken to RESOURCE OPERATIONS (Mission 2): first half of mission is to realign the satellite (merely requires getting to a particular terminal).
+The second half of the mission is to get to a VEGA Terminal, where you learn the extent of the catastrophe.
+
+The discussion is interrupted by news of an emergency in THE FOUNDRY (Mission 3).
+At the end of Mission 3, you learn Olivia Pierce is the source of the disruption, and that she's headed for a hugely concentrated argent beam.
+The first plan of attack is to disable the filters that feed argent energy to the tower in the ARGENT FACILITY (Mission 4).  But, of course, it turns out that the Tower is still dangerous, and you have to get up there to try to disable it.
+
+Before climbing the ARGENT ENERGY TOWER (Mission 5), you have to get to it,
+which involves of a lot of jumping around on catwalks (what I call "The Bridge").  Getting up is similar.
+Ultimately, Olivia beats you to it, and the portal is opened.
+
+After that, the missions have a general arc: trying to close a portal to hell.
+
+The force of the portal opening transports you into hell.
+This area of hell is known as KADINGAR SACTUM (Mission 6): where you were excavated from.
+Somehow, they set up a portal at the end of the mission that returns you to the ARGENT FACILITY (DESTROYED) (Mission 7).
+
+This time, you are here to catch a tram to the ADVANCED RESEARCH COMPLEX (Mission 8).
+You'll finally meet Dr Samual Hayden.  Then you'll go to the weapons division, LAZARUS LABS (Mission 9).  This level concludes in a boss fight, in two parts.  Part 1: you fight the demon on Mars and rip out the argent accumulator, which sends you back to hell.  Part 2: in Hell, ... TODO
+
+TITAN'S REALM (Mission 10).
+
+NECROPOLIS (Mission 11).
+
+VEGA CENTRAL PROCESSION (Mission 12).
+
+ARGENT D'NUR (Mission 13).
 
 # Using this Guide
 Secrets, Field Drones, Argent Cells, Rune Challenges are all written in uppercase at their secret location, with dotted notation where the first number is the mission and the secret is the index of the location in the Dossier Overview/Map page.
@@ -573,7 +615,7 @@ After this, jump onto the crates at the end of the landing bay, and jump the cha
 At the end of this area, you may catch a glance of the Field Drone flying away to the right.  But go left to an area with Health and Armor, and the second CODEX ENTRY "Environments / The UAC".
 
 ## Mission 1: Fight 1.5: Just Across the Chasm
-Go back, and to the right where you saw the Field Drone; it's floating right ahead.  Interact with it:  I tend to get Explosive Shot as it makes an upcoming challenge easier, but it isn't necessary.
+Go back, and to the right where you saw the Field Drone; it's floating right ahead.  Interact with it:  I tend to get Charged Shot as it makes an upcoming challenge easier, but either (or none) can be used.
 
 You will come across some The Possesseds worshipping a corpse.  There are 3 Possessed Soldiers around in the peripheries as well, and they will be join in the fun by some Imps that'll spawn, potentially close to you.
 
@@ -678,7 +720,9 @@ On a catwalk area you'll find some health, FIELD DRONE 2.1, shotgun ammo and the
 
 Go through the hatch then drop down into the Industrial Train Depot, right in front of a Yellow Keycard Door.
 
-But, don't go there yet!  Instead, retrace your earlier steps to the Security Station which you can now access!  Take the supplies and ??? unlock the doors
+Optionally, you can go through the yellow door and then into a control-room area which has the ASSAULT RIFLE.  But go back to the industrial train depot to obtain a bunch of secret stuff.
+
+So, retrace your earlier steps to the Security Station which you can now access!  Take the supplies and interact with a terminal to unlock the doors
 
 Continue re-tracing your steps.  In the hallway, on the floor to the right, is a Hatch.  Open it and drop down for SECRET 2.2.  Find some The Possesseds and 2 Imps, along with ELITE GUARD 2.1 and a PLASMA RIFLE (SECRET 2.3).  To get out of this area, you'll find a Grate that you can kick open.
 
@@ -690,12 +734,12 @@ Now, instead of going forward, turn right into a door that was unlocked when you
 
 Exit the door by interacting with it, to the Industrial Train Depot.
 
-Go through the Yellow Keycard door, and Open the Airlock from the control room in this area.  You'll find an Assault Rifle here.
+Go through the Yellow Keycard door, and Open the Airlock from the control room in this area.  Take the Assault Rifle if you didn't get it earlier.
 
 Enter the Airlock, then Cycle it to access the red outdoors.
 
 ## Mission 2:  Fight 2.7:  Outdoor Fight
-This sprawling fight occurs mostly in the lower level of a two-level area.  It's mostly Possessed Soldiers and Imps- lot's of them.  I recommend running through using Heat Blast, and using the Chainsaw on the Possessed Security.  Then grab the Berserk Powerup to kill the majority of the remainder.
+This sprawling fight occurs mostly in the lower level of a two-level area.  It's mostly Possessed Soldiers and Imps- lot's of them.  I recommend running through using Heat Blast (watch out for explosive barrels), and using the Chainsaw on the Possessed Security.  Then grab the Berserk Powerup to kill the majority of the remainder.
 
 ## Mission 2:  Accessing the Secret after the Outdoor Fight
 Follow the uphill path from the entrance to the second floor.  Right as you get onto the second floor, look for a bloody crate.
@@ -706,9 +750,9 @@ Walk along it, with breathtaking martian views, keeping an eye out for a yellow 
 
 Jump onto the landing - and jump again to a rooftop.
 
-Walk through the building, turn left and go over a pipe, then turn right into a duct, to find SECRET 2.6, COLLECTIBLE 2.1: "Doom Marine Model, Doomguy".
+Walk on the roof to an alcove in the building (turn left and go over a pipe, then turn right into a duct), to find SECRET 2.6, COLLECTIBLE 2.1: "Doom Marine Model, Doomguy".
 
-Go back - and on the rooftop look for a hatch that you can use to drop down into the control room with the in-game waypoint.
+Go back - and on the rooftop look left for a hatch that you can use to drop down into the control room with the in-game waypoint.
 
 ## Mission 2:  Realigning the Communication Satellites
 There's a corpse whose handprint will grant you access to begin the realignment process.  Interact to achieve this morbid security victory.
@@ -832,7 +876,7 @@ This is more of an exploratory area than a fight, but it is strewn with minor de
 It is hard to describe all the turns and the 3 entrances to this area,
 but it can be explored easily enough.  Just make sure you find:
 * CODEX ENTRY "Monsters / Imp" in a dead-end room with some armor
-* SECRET 3.4:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the duct is just to the right of it.  Enter into it, and it'll twist around to get to the Secret, ELITE GUARD 3.3 and the ROCKET LAUNCHER.
+* SECRET 3.4:  To get to this secret area, you'll have to jump up to a nondescript ledge.  Look for a room with a rotating-red ceiling-mounted light, over which is painted "UAC-HAL".  Looking at that, the ledge is slightly higher and to the right of it.  Enter into it, and it'll twist around to get to the secret and the ROCKET LAUNCHER.
 
 There are three access points, all overlooking Gore Nest #2.
 Here's a description of each of them:
@@ -894,6 +938,8 @@ The map should probably show the Auto-Map - it's on the catwalk area.
 
 Exit through the upper down in this area and you'll immediately run into the Blue Keycard holder (a corpse).  Take the keycard.
 
+At this point, 2 Hell Knights will spawn far away.  First is back at the door you opened with the yellow keycard.  He is quiet and may surprise you.  The second Hell Knight spawns near the field drone at the beginning of the level.  (These will not respawn if you die.)
+
 Drop down to the area where you "found" the Yellow Keycard.
 This is a good time to get SECRET 3.6, COLLECTIBLE 3.2, "Possessed Engineer Model, Vaultguy".
 Look for the 3 streams of molten metal.  Get onto the walkway in front of them, and look straight down to see a little landing just inches above the molten metal.  Jump onto this platform and look for the doll.
@@ -912,10 +958,11 @@ You may be ambushed by some Imps as you find your way to the waypoint.
 
 The Turbine Room door, which the game will guide you to, is now unlocked.
 
-POINT OF NO RETURN:  Once you enter this area, you can't return to get anything.  Also, you will get a CHECKPOINT before a big fight, so it is advisable to stock up on supplies before entering.
+CHECKPOINT.
 
 ## Mission 3:  Fight:  Turbine Room
-This fight as two waves, both consisting of Imps and Hell Razers (XXX: are there PS?).  At the end of the first wave is 1 Hell Knight; the second wave ends with 2 Hell Knights.
+This fight has two waves, both start with a lot of Imps and Hell Razers.  At the end of the first wave is 1 Hell Knight; the second wave ends with 2 Hell Knights.
+The waves are separated by a little earthquake.
 
 After completing the fight, exit at the top of the room, on the opposite side as the entrance.
 
@@ -924,15 +971,17 @@ You come into a hall with ELITE GUARD 3.3 propped up on the left side.
 
 Open the Shutters (interact with the screen), to watch a cut-scene with Olivia Pierce.
 
-Immediately after that, an Imp and 2 The Possesseds will spawn.
+Immediately after that, an Imp and 2 The Possesseds will spawn. (You could get one more Heat Blast multikill here)
 
 # Mission 4:  Argent Facility "Beginning of the End"
 This area will be revisited in Mission 6: Argent Facility (Destroyed), which mostly shares the outdoor areas, but the indoor areas are completely separate.
 
 Notes on Combat Challenges:
 * Walk the Path and Bird's Eye View: easy with this walkthrough, hopefully.
-* To Be Knighted:  this is pretty hard since these guys are so tall.
+* To Be Knighted:  glory kills from above on these guys is pretty hard since they are so tall: unless you
+are replaying this with the jump boots, you'll have to jump from higher ground to do this.
 The Dazed and Confused rune can be useful to give you more time to figure out how to jump over them - it usually requires jumping from above, unless they are crouched.  Of course, a cheesy way is to replay this mission after you have the Jump Boots which make it substatially easier.
+* Bird's Eye View: See Secret 4.1 below
 
 ## Mission 4: Introduction
 Go forward and Open the Airlock to find yourself in an industrial open-air area:
@@ -1027,17 +1076,17 @@ There is also a Plasma Rifle here.
 ## Mission 4: Rune and Secret
 From the small room containing the Argent Filter, turn right to a large floor with large lifts.  You can probably see the glowing green RUNE CHALLENGE 4.2: "Dazed and Confused" on the lift in the opposite corner of the building (from the entrance, look at the opposite corner - the rune is on the structure just to the right of center).
 
-Once done with the rune, look for a large hole that is serviced by a lift (now down).  Jump down there, and into a hallway.  On the left you should see a small block on a larger block, making a natural stairway. (A drone delivers it- wait a few seconds if the blocks aren't climbable - or you can have to go back to the argent filter you destroyed to trigger it)  Climb up, and turn right to see a service walkway which you can jump onto to find SECRET 4.2, COLLECTIBLE 4.1, "Hell Knight Model, UACguy".
+Once done with the rune, look for a large hole that is serviced by a lift (now down).  Jump down there, and into a hallway.  On the left you should see a small block on a larger block, making a natural stairway. (A drone delivers it- wait a few seconds if the blocks aren't climbable - or you might have to go back to the argent filter you destroyed to trigger it)  Climb up, and turn right to see a service walkway which you can jump onto to find SECRET 4.2, COLLECTIBLE 4.1, "Hell Knight Model, UACguy".
 
 ## Mission 4: Back Access Walkway (Secrets, Optional)
 This lonely walkway is the only dirt path descending from Gore Nest #2 / Union Aerospace Tank.
-It provides alternate accesses to a Lab and the Icy Gore Nest #3; these are described below.
+It provides alternate accesses to a Lab and the icy Gore Nest #3; these are described below.
 It has a broken bridge midway.
 
 If you face the Union Aerospace text on the large tank,
 go down the dirt walkway to its left.  It is the only dirt walkway descending from this area - it'll turn to a metal grated walkway - then there's a gap you must jump.
 
-Look to your right for a misty cargo alcove with a lone crate.  Jump on it to get to the second level.
+Before the metal grated walkway, look to your right for a misty cargo alcove with a lone crate.  Jump on it to get to the second level.
 
 You should find a Munitions Crate here.
 
@@ -1141,7 +1190,10 @@ The tower is big and tall - most of the level is spent ascending it.
 
 Notes on Combat Challenges:
 * Chiropractor: Imps are a bit scarce in convenient locations.
-There are a lot on the bridge, but you'll have to be slightly patient to lure them into Glory Kill range, and even then sometimes they'll be at the back of a platform and it's not possible to get behind them.  There are a number in the fight outside the tower, including 4 near the entrance to the fight (and checkpoint).  There are a few in the first big fight, and there's 4 scattered at the upper regions of the tower.  Finally, there's some in the giant fight at the end of the level.
+There are a lot on the bridge, but you'll have to be slightly patient to lure them into Glory Kill range, and even then sometimes they'll be at the back of a platform and it's not possible to get behind them.  (Use the Dazed and Confused Rune whenever you are attempting this challenge).  
+
+There are a number in the fight outside the tower, including 4 near the entrance to the fight (and checkpoint).  There are a few in the first big fight, and there's 4 scattered at the upper regions of the tower.  Finally, there's some in the giant fight at the end of the level.
+
 * Searching High and Low: easy.
 * Overkiller: there are 3 Quad Damage Powerups: in the fight just outside the tower, in the fight in the base of the tower, and in the truncated big fight at the end of the mission.  It is quite possible to achieve this in any of those fights: as long as you use the powerup you'll probably be fine.  I recommend Plasma Gun/Heat Blast for bulk killing.
 
@@ -1150,7 +1202,7 @@ There are a lot on the bridge, but you'll have to be slightly patient to lure th
 You start on a useless platform, and have to jump left to get to the Maintenance Hangar that VEGA alludes to.
 Upon entering the building, look right, and you can see a Revenant eating a corpse.
 It soon comes down to attack you.
-There are a gaggle of demons on the floor below you, and more will spawn.
+There are a gaggle of demons on the floor below you, and more will spawn when you drop down to the lower level (as you must to get to the locker room with the needed boots).
 In total, there's about 3 Possessed Soldiers, 3 Hell Razers, 3 Possessed Engineers.
 (No Imps, unfortunately, as it would help with the Chiropracter challenge.)
 
@@ -1192,14 +1244,12 @@ They are all over this gigantic damaged catwalk bridge,
 you can kill them, ideally by Glory Killing them from behind,
 to work on achieving the Chiropracter Challenge.
 
-As you are working over, you'll go through a pair of tunnels.  The flat area ahead is where I usually kill the Imps, letting them come to me.  It's big enough that I can often get a few Neck Glory Kills.
-
 From the tunnels, you can and should access FIELD DRONE 5.1 and a SECRET 5.2.  Get on top of either tunnel, and double-jump across to a platform (it has a green light).  Jump left up a series of airy platforms to an enclosed bluish area with 8 The Possessed stumbling about with a Possessed Engineer on the upper deck (near a suit of armor).
 Right outside (on a bridge) is a Possessed Security.
 
 Across the bridge is a guard house, which is Secret #2.  Inside is a Hell Knight who will charge at you; and 2 Possessed Soldiers and a Possessed Security who will stay in the shed.  Take them out to find Field Drone #1, some health, CODEX ENTRY "Monsters / Revenant".  Continue along a walkway to some armor.
 
-When done, jump down to a long walkway that goes almost the whole length of the bridge.  There's a long gap that have been torn apart: you'll have to double-jump.
+When done, jump down to a long walkway that goes almost the whole length of the bridge.  There's a long gap torn in the walkway: you'll have to double-jump across (which is slightly hard to backtrack).
 
 ## Mission 5: The Far Side of the Bridge
 After the destroyed section of the bridge, look down and right to see ELITE GUARD 5.1 (SECRET 5.3) propped up against a wall.  Jump down.  Getting back up is slightly more difficult: jump across the gap to jump nearly vertically up a few ledges, looking for yellow ledges; you'll have to shimmy left at some point.
@@ -1243,7 +1293,7 @@ OK, continue down this short dingy corridor, and you'll find a Hatch, at left, a
 POINT OF NO RETURN: Dropping down this hatch is irreversible, and a CHECKPOINT is created immediately on hitting the ground.
 
 ## Mission 5: Fight: Base of Tower
-This fight begins with a cut-scene introducing us (somewhat) to the Mancubus.
+This fight begins with a cut-scene introducing us (somewhat) to the MANCUBUS.
 
 Use the Rocket Launcher or Gauss Cannon (etc) to damage this guy before running around for a while taking pot-shots at various demons.
 
@@ -1252,7 +1302,7 @@ Once you damage a lot of demons, look for the Yellow Lift that jams you into a Q
 
 Post-Fight:  pick up all the Gas and Ammo.
 
-Midway up there's a tricky little secret.  You'll find to and area where the central red beam (of Argent Energy) since surrounded by rotating and stridulating metal shields.
+Midway up there's a tricky little secret.  You'll find it after where the central red beam (of Argent Energy) is surrounded by rotating and stridulating metal shields.
 
 Continue up, across a long jump to where the red beam is protected by shutters that periodically open and close.  Look on the map.  You should see two symmetric arms going up.  But one of them has a walkway underneath.  This is SECRET 5.5, COLLECTIBLE 5.2 with "Summoner Model, Purpleguy".
 With the In-Flight Mobility Rune, this is a piece of cake, but you don't have that yet, so you'll have to use one of two approaches.
@@ -1400,14 +1450,15 @@ Jump, and turn around and look up to see a higher island.  Jump to it - then con
 After finishing it, go back to the main rock (where the Quad Powerup was), and jump to the "balcony" with the Blue Skull Door.  Interact, and you'll be in a pale green stone hallway: immediately on your right is an alcove containing Gas and a ARGENT CELL 6.1.  Further down, is rockets.
 
 ## Mission 6: Fight: Misc Small Fights in the Cliff Area
-First up, is 4 Unwilling (good Weapon Upgrade fodder for Super Shotgun or Heat Blast) with a Mancubus, and a second Mancubus that jumps up with the first dies.
+First up, is 4 Unwilling (good Weapon Upgrade fodder for Super Shotgun or Heat Blast) with a Mancubus, and a second Mancubus that jumps up when the first dies.
 
 Now is not a bad time to use the Invulnerability which is on a lower level near where you exit the tunnel.
 
 Walking along the ledge, some Imps, 2 Lost Souls, a Revenant spawn.
+(Kill them while Invulnerable to work on the Momentum Swing challenge)
 (Another good strategy here is to retreat and pick them off with the Assault Rifle. Often they'll kill each other)
 
-Island-Jump across to be surprised by 3 Lost Souls, and a Hell Razer.  The HR can be used to work on the Combat Challenge.
+Island-Jump across to be surprised by 3 Lost Souls, and a Hell Razer (if you haven't completed the Sweep the Leg challenge yet).
 
 Walk through the tunnel behind the Hell Razer, and you'll be on a new cliff, with a fire and ELITE GUARD 6.2.  First, look left and down and you'll see the first Cacodaemon.  There is second one, probably behind that rocky pinnacle.  Lock-On Rocket Launcher is a fool-proof way to deal with these guys.
 
@@ -1749,6 +1800,9 @@ Look out onto the big chasm and turn 90 degrees left to find an airlock.  Use it
 Second, there's the Classic Doom Level, SECRET 8.10.  This jump to the lever is pretty tricky.  
 Jump across to the immediate platform, and turn left and drop onto the platform below the Gas can.  Turn around and look to the left to see a green light-bar, indicating a platform you can jump to.  Keep going around this rock and jumping up:  the top has a suit of armor on it.  From this top, look directly opposite from the entrance area.
 You should see some pipes and a lever at your exact elevation:  you need to jump there.  The trick is that there is an invisible ledge about 12' (4 meters) below the level.  If you land on that it is confusing:  but if you have the In-Flight Mobility Rune you should easily be able to jump from this awkward position to the Lever.
+The upgraded In-Flight Mobility Rune helps too (make sure to activate it).
+
+It is also possible to access this switch from the platform near the megahealth described below.
 
 Third, from the Lever, face the piping and jump onto the pipe.  Duck and turn into the cave, and search around into you find SECRET 8.6, COLLECTIBLE 8.1, "Supershotgun Model / Phobosguy"
 
@@ -1768,7 +1822,7 @@ So, walk through the tunnel: an Imp will jump out.
 
 Keep going: you'll get to the other intake.  Turn it off using the panel, and jump down the hatch (just like the one you came up).  You should find a shaft with FIELD DRONE 8.1 in it.
 
-Reverse your steps, and turn the air intake back on.  Step in, and even the ride up!
+Reverse your steps, and turn the air intake back on.  Step in, and enjoy the ride up!
 
 Climbing up you'll get to a 4-way shaft intersection:  directly in front and in back of you are each of the twin intakes.  The in-game waypoint points you toward BFG Labs Lobby.  The other direction has some armor if you need it.
 
@@ -1889,7 +1943,9 @@ Post-Fight:  Going back to the entrance door of the room, and look at the stone 
 
 There's also a Mega-Health you should take before leaving the backstage area.  (Hint: equip Rich Get Richer before taking the health to get one of the Upgrades)
 
-Cheap Strategy:  If you want to get the Rich Get Richer upgrade in an easy but slightly repetitive way, do NOT get the Mega Health before opening the door.  Instead, open the door, getting a checkpoint.  Then, grab the Mega Health (with Rich Get Richer equipped, obviously), and commit suicide (shoot the ground next to you repeatedly with the Rocket Launcher).  When you revive, you'll have to open the gate again, then repeat (starting with grabbing the Mega Health).  Repeat as many times as you like- you'll probably only get 3 more before Mission 13, which is where it is really useful.
+Cheap Strategy for upgrading the Rich get Richer Rune here:
+If you don't use the Mega-Health during the fight, then
+you can obtain it repetitively after checkpointing.  But you'll have to die in order to reset the checkpoint.  (the cheap strategy is not appealing anymore since a non-dying strategy is available in Titan's Realm.)
 
 Press the screen as indicated by the in-game waypoint.
 Enter what looks like an elevator to transfer you to the Lazarus Archives.
@@ -2074,16 +2130,19 @@ After that, the Yellow Skull Door is accessible, and a CHECKPOINT.
 Before going through the Yellow Door, though, note that another passage has opened and get ARGENT CELL 10.1 and CODEX ENTRY "Monster / Pinky".
 
 ## Mission 10: Fight: Pounding Rock Area
-The Yellow Skull Door opens to reveal what appears to be a red skull switch, but it's a trap: the floor drops out and suddenly you are fighting a Mancubus, then 2 Revenants with some Imps in the background.
+The Yellow Skull Door opens to reveal what appears to be a red skull switch, but it's a trap: the floor drops out and suddenly you are fighting a Mancubus, then 2 Revenants and a Hell Knight with some Imps in the background.
 
 At some point, 2 more Mancubi and a Cyber-Mancubus spawn as well.
 
 Note that there's BFG ammo here, so if you are full, feel free to use it!
 
+NOTE: the nearby acid pools allow you to reliably inflict just 1 point of damage, which makes this area very convenient to get the Rich Get Richer Rune upgrade.
+In order to do that, do NOT pick up all the armor during the fight, you want about 4-8 stray armor left, at least.
+
 ## Mission 10: Pounding Rock Area
 When the pounding rock is down, quickly climb onto it.  It'll lift you up to a Skull Switch: press it, and drop down.
 
-Before continuing, to toward the Yellow Door, which is currently gated off.  Look for a small alcove continuing the Classic Doom Map Lever.  Pull it.  The gate to the Yellow Skull Door will open: go that way and go back to the lower Toxic Sludge room (where the Mancubi appeared with the Elite Guard), and you'll find CLASSIC MAP 10.1 "Phobos Anomaly": SECRET 10.5.
+Before continuing, to toward the Yellow Door, which is currently gated off.  Look for a small alcove continuing the Classic Doom Map Lever.  Pull it.  The gate to the Yellow Skull Door will open: go that way and go back to the lower Toxic Sludge room (where the Mancubi appeared with the Elite Guard), and you'll find CLASSIC MAP 10.1 "Phobos Anomaly": SECRET 10.5.   TODO:VERIFY: This area also has a Mega-Health.  Go down a corridor and interact with a discolored wall-panel on the right-side: it'll open to reveal the prize.
 
 Go back to the Pounding Rock Area.
 Go toward a gated off green teleporter.  Look left to see a large room with 2 Yellow Lifts and a Suit of Armor in the middle.
@@ -2299,7 +2358,7 @@ Turn Left to find the Auto Map (if you haven't already), and continue in through
 
 You'll find a SECRET 12.2, ELITE GUARD 12.2 here, and get surprised by a Revenant.
 
-Behind the crate that the Guard is leaning on is a Lever:  pull it to open access to the classic doom level.  Then go back past the Blue Keycard guy and look for a nested pair of crude circles on the map.  That is SECRET 12.5, CLASSIC MAP 12.1 "Doom - Commend Control".
+Behind the crate that the Guard is leaning on is a Lever:  pull it to open access to the classic doom level.  Then go back past the Blue Keycard guy and look for a nested pair of crude circles on the map.  That is SECRET 12.5, CLASSIC MAP 12.1 "Doom - Command Control".
 
 Look down the shaft the Revenant popped out of.  You'll see a Mega Health, drop down, making sure to get it.
 
@@ -2478,7 +2537,7 @@ along with 6 Weapon Upgrade points.
 After that, watch a cut-scene and the credits.
 
 # Appendix: Ultra-Nightmare Practice Sheet: Abbreviations
-You can download a practice sheet if you want to try to train for Ultra-Nightmare, and any player could use it to improve their skills.  (TODO: as of 10-31-2017 I haven't yet actually made the practice sheet)
+You can download a practice sheet if you want to try to train for Ultra-Nightmare, and any player could use it to improve their skills.  (TODO: as of 12-20-2018 I haven't yet actually made the practice sheet)
 
 Abbreviations for the Demon that killed you:
 * tp: The Possessed
