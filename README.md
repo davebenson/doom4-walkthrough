@@ -444,7 +444,7 @@ the various glory-kill upgrades, it's probably best to upgrade this by finding a
 
 This is quite useful in several Argent D'Nur fights.
 
-To upgrade this, you need 12 Armor Fillups.  An Argent Cell counts, as do Mega-Healths.  But you'll struggle to get about 6 of those.  One options is to use Toxic-Sludge to do a single point of damage -- Unfortunately there's really only one fight [....] that has easy access.
+To upgrade this, you need 12 Armor Fillups.  An Argent Cell counts, as do Mega-Healths.  But you'll struggle to get about 6 of those.  One options is to use Toxic-Sludge to do a single point of damage -- Unfortunately there's really only one fight [Mission 10, Pounding Rock Area] that has easy access.
 
 Upgrade hint:  in Nightmare mode, getting up to full Armor is difficult, except when the Mega-Health powerup.  If you don't mind dying multiple times, there are a few Mega-Healths you can use to get the upgrade.
 you can die and multiply get several Mega-Health, Toxic Sludge is a convenient way to drop just a single health at a time.  
@@ -1850,7 +1850,7 @@ That's it: now go to the in-game waypoint and interact with it.
 You can probably figure out how to get the BFG from here, but the next section will spare no details.
 
 ## Mission 8: Accessing the BFG (Defeating the Security Measure)
-Enter the chamber; the alarm will sound, i guess it noticed that the retina was attached to a corpse.  Anyways, jump onto any of the symmetric metal platforms, and watch the crazy security apparatus.
+Enter the chamber; the alarm will sound, i guess it noticed that the retina was attached to a corpse.  Anyways, jump onto any of the symmetric metal platforms (on the walls), and watch the crazy security apparatus.
 
 After about 10 seconds, a sequence of lamps will light up and you can to shoot the obvious cells (you need to shoot 4 of the 6 cells).  Do so, and the security system collapses and you can claim the BFG for your arsenal.
 
@@ -1865,10 +1865,10 @@ But it's probably better to work on all kinds of Weapon Upgrades (Super Shotgun,
 
 Watch the holographic replay.
 
-Before going ahead, go right through a newly green-lit door; turn left into a yellow-gold-lit narrow opening to SECREt 8.9, RUNE CHALLENGE 8.2 "Intimacy is Best"
+Before going ahead, go right through a newly green-lit door; turn left into a yellow-gold-lit narrow opening to SECRET 8.9, RUNE CHALLENGE 8.2 "Intimacy is Best"
 
 ## Mission 8: Gore Nest 2
-Now, charge forward into a battle designed to showcase the BFG (and you may as well use it, since you can only store 3 charges.
+Now, charge forward into a battle designed to showcase the BFG (and you may as well use it, since you can only store 3 charges.)
 
 Prefight: use a few Siege Mode/Gauss Cannons to kill the incoming hordes from the Checkpoint.  After that, coming into this area, 3 Lost Souls will spawn: one straight in front, one left, one right.  After you learn where they spawn they are easy to deal with - and since you have to re-kill them every time you die in this battle, you'll probably learn where they spawn too.
 
@@ -1893,6 +1893,8 @@ Notes on Combat Challenges:
 ## Mission 9: Intro
 Grab Gas, the CODEX ENTRY "Environments / Lazarus Labs", and recharge your health (you can't get back here).  In the next room you can get the rarely used Siphon Grenade.  Then jump down the chute.
 
+There's a number of The Possesseds, Possessed Soldier and Hell Razers (glory kill them different ways to work on the Combat Challenge), and a Pinkie.
+
 Following the waypoint, you'll remove a corpse-chunk that's blocking the elevator, and 3 Imps will jump out.  Kill them, then use the Munitions Crate.  The non-Secret flow is to jump into the shaft and open a grate.  Instead, look behind the crates behind the Munitions Crate.  There's a duct (SECRET 9.1):  follow it to a Mega Health that'll drop you into the next fight.
 
 ## Mission 9: Fight: First Warehouse
@@ -1902,11 +1904,11 @@ Kill all these guys, and enter the green-lit doorway.
 
 ## Mission 9: More Secrets
 
-Go up some stairs in a red-lit area.  Before continuing on, turn around to see a duct with shotgun ammo.  Jump into the duct, and follow it to a grate, that you must interact with.  Enter SECRET 9.5.  Here is ELITE GUARD 9.1 and CODEX ENTRY "Database / Elite Guard 2".
+Go up some stairs in a red-lit area.  Before continuing on, turn around to see a duct with shotgun ammo.  Jump into the duct, and follow it to a grate, that you may open.  Enter SECRET 9.5.  Here is ELITE GUARD 9.1 and CODEX ENTRY "Database / Elite Guard 2".
 
 Now, continue toward the in-game waypoint.  You'll pass through a transparent walkway while Dr Hayden tries to explain things.  There's lots of activity outside.
 
-At the end of this walkway, find FIELD DRONE 9.1 (probably unnecessary if you have used most of the Field Drones up to this point).
+At the end of this walkway, find FIELD DRONE 9.1 (although you may have already gotten the good upgrades).
 
 You'll find yourself in a curving hallway with 4 The Possesseds, and CODEX ENTRY "Monsters / Cyberdaemon 2".
 
@@ -1923,7 +1925,7 @@ The first room has a few Possessed Securities and many The Possesseds and a coup
 
 The second room has a CHECKPOINT (used for the next fight) and 4 Possessed Soldiers and a Hell-Razer.  The next room has a bunch of ammo and a Health Station, then drop down the hatch to enter the next fight.
 
-POINT OF NO RETURN:  Once you finish the next fight, you cannot get back to this tunnel area (so make sure you interacts with Rich Get Richer, even if you didn't solve it)
+POINT OF NO RETURN:  Once you finish the next fight, you cannot get back to this tunnel area (so make sure you interact with Rich Get Richer, even if you don't solve it)
 
 ## Mission 9: Fight: Mancubus Operating Room
 Many Possessed Securities, The Possessed, Hell Razers, Possessed Solders, 3 Mancubi will spawn.  Toward the end of the fight is 2 Hell Knights.  I like using the Plasma Rifle Heat Wave with the Quad Damage to plow through the bad guys - but your mileage may vary.
@@ -1933,7 +1935,7 @@ After the fight look at the empty mancubus bed at the back of the room, between 
 ## Mission 9: Fight: Stone Tablet Exhibit Hall
 There's a Munitions Crate in the entrance hallway to this area.  Once you've looted the area, look through the door to see if you're going to be ambushed by a Possessed Soldier right next to the entrance.  Open the door.
 
-This fight begins with 3? Possessed Soldiers (one is close-by and needs to be dealt with urgently) and a large number of The Possesseds (use a grenade or two maybe).  Shortly, 2 Pinkies spawn at the back of the room.
+This fight begins with 3? Possessed Soldiers (one is close-by and needs to be dealt with urgently) and a large number of The Possesseds (use a grenade or two maybe).  (Here's your first good change to get the Thread the Needle combat challenge).  Shortly, 2 Pinkies spawn at the back of the room.
 
 Killing those Pinkies will cause the spawning of 4 more Pinkies and a bevy of Imps.  Use the BFG, Chainsaw, and general evasive maneuvering.
 
@@ -1973,7 +1975,7 @@ When cleared, there will be a hologram of Olivia watching over a ritualistic sac
 
 There's armor behind you as you stand in the entranceway to this area.
 
-## Mission 9: ???
+## Mission 9: Circular Hatch Room
 Exit to the right to a blood-strewn corridor with books and candles.
 
 You will get to a circular room with a pit in the center.  Looking in, you can see an Elite Guard, but before that, look right for a Lever to access a Classic Map.
@@ -1982,7 +1984,7 @@ Now, jump in (SECRET 9.7) and get ELITE GUARD 9.3 and SECRET 9.8, CLASSIC MAP 8.
 
 Jump back out, and go to the screen with the waypoint:  "Cycle Hatch".
 
-Do this, and jump onto the platform while is plugging the hole.  Wait for it to lift you up, like an elevator.
+Do this, and jump onto the platform while it is plugging the hole.  Wait for it to lift you up, like an elevator.
 
 Drop down, and keep going and you'll get to a yellow-lit door labeled "Maintenance Only".  Enter for a fight.
 
@@ -1992,7 +1994,7 @@ You catch a few Possessed Securities off-guard, use grenades etc.  There's also 
 ## Mission 9: Server Hall
 The hallway become increasingly bloody, and you finally open a door onto a console area.  A hologram with Olivia is playing, and you must interact with a terminal at the waypoint here, the energy refractor control.  It opens the twin doors.
 
-## Mission 9: Fight: Two Level Lounges
+## Mission 9: Fight: Two-Level Lounges
 
 Two identical hallways (with bloody skeleton wallpaper), take you to a symmetric 2-level area strewn with Imps, Possessed Soldiers but mostly The Possessed.
 
@@ -2128,6 +2130,7 @@ Once they are gone, take the Invulnerability if you haven't and run up the stair
 After that, the Yellow Skull Door is accessible, and a CHECKPOINT.
 
 Before going through the Yellow Door, though, note that another passage has opened and get ARGENT CELL 10.1 and CODEX ENTRY "Monster / Pinky".
+(Actually, if you want to get the Rich is Richer upgrade, I recommend waiting for after the following fight)
 
 ## Mission 10: Fight: Pounding Rock Area
 The Yellow Skull Door opens to reveal what appears to be a red skull switch, but it's a trap: the floor drops out and suddenly you are fighting a Mancubus, then 2 Revenants and a Hell Knight with some Imps in the background.
@@ -2142,7 +2145,7 @@ In order to do that, do NOT pick up all the armor during the fight, you want abo
 ## Mission 10: Pounding Rock Area
 When the pounding rock is down, quickly climb onto it.  It'll lift you up to a Skull Switch: press it, and drop down.
 
-Before continuing, to toward the Yellow Door, which is currently gated off.  Look for a small alcove continuing the Classic Doom Map Lever.  Pull it.  The gate to the Yellow Skull Door will open: go that way and go back to the lower Toxic Sludge room (where the Mancubi appeared with the Elite Guard), and you'll find CLASSIC MAP 10.1 "Phobos Anomaly": SECRET 10.5.   TODO:VERIFY: This area also has a Mega-Health.  Go down a corridor and interact with a discolored wall-panel on the right-side: it'll open to reveal the prize.
+Before continuing, to toward the Yellow Door, which is currently gated off.  Look for a small alcove continuing the Classic Doom Map Lever.  Pull it.  The gate to the Yellow Skull Door will open: go that way and go back to the lower Toxic Sludge room (where the Mancubi appeared with the Elite Guard), and you'll find CLASSIC MAP 10.1 "Phobos Anomaly": SECRET 10.5.   This area also has a Mega-Health:  Go down a corridor and interact with a discolored wall-panel on the right-side to get the Mega-Health.
 
 Go back to the Pounding Rock Area.
 Go toward a gated off green teleporter.  Look left to see a large room with 2 Yellow Lifts and a Suit of Armor in the middle.
@@ -2274,7 +2277,7 @@ Exiting, 2 Cacodaemons will immediately stalk you:  kill them with the rocket la
 
 Walk down to the treasure trove with a big armor.  This will trigger 2 Mancubi to spawn.  Retreat back to the original area and use Rockets, Gauss Cannon.  Once you kill a Mancubi, 2 Hell Barons will spawn.  Gauss Cannon or BFG is recommended: it won't take long for them to get to you.
 
-Now, you can get an obscure secret, SECRET 11.1.  Look at the large statue / structure that is shaped like the head of a horned screaming demon.  In its forehead, is a glowing pink rune symbol.  Shoot it (with Gauss Cannon or Rocket Launcher, since you need range), and a weird cubic capsule will spit out of it and land next to you.  This is COLLECTIBLE 11.2 "Gauss Cannon Model, Hazmatguy".
+Now, you can get an obscure secret, SECRET 11.1.  Look at the large statue / structure that is shaped like the head of a horned screaming demon.  In its forehead, is a glowing pink rune symbol.  Shoot it (with Gauss Cannon or Rocket Launcher or Assault Rifle/Tactical Scope, since you need range), and a weird cubic capsule will spit out of it and land next to you.  This is COLLECTIBLE 11.2 "Gauss Cannon Model, Hazmatguy".
 
 Stock up, there are two Boss Fights coming up.
 
@@ -2311,7 +2314,7 @@ After killing them, access the Crucible (which looks more like a dagger with a S
 
 Notes on Combat Challenges:
 * Variety is the Spice of Death III:  there's a lot of Imps, including 4 right soon after entering the building.  Possessed Engineers also can be glory-killed to satisfy this requirement.
-* Gore Pinata: Plenty of opportunities for this as well.
+* Gore Pinata: Plenty of opportunities for this as well. (The Equipment Rune and its upgrade help quite a bit)
 * My Teeth are Sharper: you can jump and chainsaw if needed.
 
 ## Mission 12: Intro
@@ -2498,7 +2501,7 @@ This fight starts with a Pinkie but I think there's only 1.  There's tons of Hel
 
 There's a Berserk Powerup here.  Don't forget to use the chainsaw if you're low on ammo.
 
-Post Fight: on the way up to the waypoint (a Wraith's Soul), there's a bunch of supplies.  On the left stairs going up, look for a big in the upper half of the stairs that's so big you can walk in under the stairs.  This is SECRET 13.1, COLLECTIBLE 13.1: "Chaingun Model, Cosmoguy".
+Post Fight: on the way up to the waypoint (a Wraith's Soul), there's a bunch of supplies.  On the left stairs going up, look for a big hole  in the upper half of the stairs that's so big you can walk in under the stairs.  This is SECRET 13.1, COLLECTIBLE 13.1: "Chaingun Model, Cosmoguy".
 
 Continue up to interact with the waypoint, then follow the waypoint to the next fight.
 
