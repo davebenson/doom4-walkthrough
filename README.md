@@ -31,21 +31,22 @@ Over the missions, you'll see that cutting-edge research into new energy sources
 It's up to you to stop the unleashed demons.
 
 ## Controls
-PS 4 | X-Box | Description
-:---: | :---: | ---
-L1 | LB | Use equipment (usually Grenade)
-L2 | LT | Weapon Modifier (meaning depends on weapon)
-R1 | RB | Switch or Select Weapon
-R2 | RT | Fire Weapon
-R3 | Press Right Stick | Melee Attack / Glory Kill
-Square | X | Chainsaw
-Triangle | Y | BFG
-Circle | B | Crouch / Stand (toggle)
-X | A | Jump
-Up Arrow | DPad Up | Swap Weapon Mod
-Left Arrow | DPad Left | Previous Equipment
-Right Arrow | DPad Right | Next Equipment
-Down Arrow | DPad Down | Mission Objective Summary
+<table>
+<tr> <th>PS 4</th><th>X-Box</th><th>Description</th> </tr>
+<tr><td>L1</td><td>LB</td><td>Use equipment (usually Grenade)</td></tr>
+<tr><td>L2</td><td>LT</td><td>Weapon Modifier (meaning depends on weapon)</td></tr>
+<tr><td>R1</td><td>RB</td><td>Switch or Select Weapon</td></tr>
+<tr><td>R2</td><td>RT</td><td>Fire Weapon</td></tr>
+<tr><td>R3</td><td>Press Right Stick</td><td>Melee Attack / Glory Kill</td></tr>
+<tr><td>Square</td><td>X</td><td>Chainsaw</td></tr>
+<tr><td>Triangle</td><td>Y</td><td>BFG</td></tr>
+<tr><td>Circle</td><td>B</td><td>Crouch / Stand (toggle)</td></tr>
+<tr><td>X</td><td>A</td><td>Jump</td></tr>
+<tr><td>Up Arrow</td><td>DPad Up</td><td>Swap Weapon Mod</td></tr>
+<tr><td>Left Arrow</td><td>DPad Left</td><td>Previous Equipment</td></tr>
+<tr><td>Right Arrow</td><td>DPad Right</td><td>Next Equipment</td></tr>
+<tr><td>Down Arrow</td><td>DPad Down</td><td>Mission Objective Summary</td></tr>
+</table>
 
 ## Weapons
 
@@ -268,55 +269,57 @@ These have both good radius and damage and are recommended.  I know that as a be
 These pull energy from demons in their radius and give it to you.  But the amount transferred isn't that great, so it tends to be overlooked.
 
 ## Level Overview
-Mission | Subtitle | Elite Guards | Argent Cells | Field Drones | Rune Trials | Secrets | Data Logs
---- | --- | --- | --- | --- | --- | --- | ---
-Mission 1: The UAC | Rip and Tear | 1 | 0 | 1 | 0 | 3 | 2
-Mission 2: Resource Operations | Know Your Enemy | 3 | 1 | 1 | 0 | 8 | 2
-Mission 3: Foundry | Meltdown | 3 | 1 | 1 | 0 | 6 | 3
-Mission 4: Argent Facility | Beginning of the End | 4 | 1 | 2 | 2 | 5 | 4
-Mission 5: Argent Energy Tower | Argent Tower | 3 | 2 | 1 | 2 | 7 | 4
-Mission 6: Kadingir Sanctum | Into the Fire | 4 | 1 | 1 | 2 | 6 | 7
-Mission 7: Argent Facility (Destroyed)  | Hell on Mars | 4 | 1 | 1 | 2 | 6 | 5
-Mission 8: Advanced Resource Complex | A Brighter Tomorrow | 3 | 2 | 1 | 2 | 10 | 4
-Mission 9: Lazarus Labs | Lazarus | 4 | 1 | 1 | 2 | 9 | 5
-Mission 10: Titan's Realm | Titan's Realm | 2 | 1 | 1 | 0 | 6 | 4
-Mission 11: The Necropolis | The Crucible | 2 | 1 | 1 | 0 | 3 | 3
-Mission 12: VEGA Central Processing | I am VEGA | 3 | 0 | 0 | 0 | 5 | 4
-Mission 13: Argent D'Nur | The Well | 0 | 0 | 0 | 0 | 5 | 0
+<table>
+<tr><th>Mission</th><th>Subtitle</th><th>Elite Guards</th><th>Argent Cells</th><th>Field Drones</th><th>Rune Trials</th><th>Secrets</th><th>Data Logs</th></tr>
+<tr><td>Mission 1: The UAC</td><td>Rip and Tear</td><td>1</td><td>0</td><td>1</td><td>0</td><td>3</td><td>2</td></tr>
+<tr><td>Mission 2: Resource Operations</td><td>Know Your Enemy</td><td>3</td><td>1</td><td>1</td><td>0</td><td>8</td><td>2</td></tr>
+<tr><td>Mission 3: Foundry</td><td>Meltdown</td><td>3</td><td>1</td><td>1</td><td>0</td><td>6</td><td>3</td></tr>
+<tr><td>Mission 4: Argent Facility</td><td>Beginning of the End</td><td>4</td><td>1</td><td>2</td><td>2</td><td>5</td><td>4</td></tr>
+<tr><td>Mission 5: Argent Energy Tower</td><td>Argent Tower</td><td>3</td><td>2</td><td>1</td><td>2</td><td>7</td><td>4</td></tr>
+<tr><td>Mission 6: Kadingir Sanctum</td><td>Into the Fire</td><td>4</td><td>1</td><td>1</td><td>2</td><td>6</td><td>7</td></tr>
+<tr><td>Mission 7: Argent Facility (Destroyed) </td><td>Hell on Mars</td><td>4</td><td>1</td><td>1</td><td>2</td><td>6</td><td>5</td></tr>
+<tr><td>Mission 8: Advanced Resource Complex</td><td>A Brighter Tomorrow</td><td>3</td><td>2</td><td>1</td><td>2</td><td>10</td><td>4</td></tr>
+<tr><td>Mission 9: Lazarus Labs</td><td>Lazarus</td><td>4</td><td>1</td><td>1</td><td>2</td><td>9</td><td>5</td></tr>
+<tr><td>Mission 10: Titan's Realm</td><td>Titan's Realm</td><td>2</td><td>1</td><td>1</td><td>0</td><td>6</td><td>4</td></tr>
+<tr><td>Mission 11: The Necropolis</td><td>The Crucible</td><td>2</td><td>1</td><td>1</td><td>0</td><td>3</td><td>3</td></tr>
+<tr><td>Mission 12: VEGA Central Processing</td><td>I am VEGA</td><td>3</td><td>0</td><td>0</td><td>0</td><td>5</td><td>4</td></tr>
+<tr><td>Mission 13: Argent D'Nur</td><td>The Well</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td></tr>
+</table>
 
 ## Weapon Upgrade Tokens
 You spend these to improve your weapons:
 
-Weapon | Upgrades | Upgrade Points Required For All Mods
---- | --- | ---
-Assault Right | Tactical Scope, Mini Missiles | 18
-Combat Shotgun | Charged Shot, Explosive Shot | 18
-Plasma Rifle | Heat Blast, Stun Gun | 18
-Chain Gun | Gattling Revolver, Mobile Turret | 18
-Gauss Cannon | Precision Bolt, Siege Mode | 18
-Rocket Launcher | Lock-On, Remote Detonation | 18
-Super Shotgun | - | 9
-Pistol | - | 9
---- | --- | ---
-Total | | 126
+<table>
+<tr><th>Weapon</th><th>Upgrades</th><th>Upgrade Points Required For All Mods</th></tr>
+<tr><td>Assault Right</td><td>Tactical Scope, Mini Missiles</td><td>18</td><tr>
+<tr><td>Combat Shotgun</td><td>Charged Shot, Explosive Shot</td><td>18</td><tr>
+<tr><td>Plasma Rifle</td><td>Heat Blast, Stun Gun</td><td>18</td><tr>
+<tr><td>Chain Gun</td><td>Gattling Revolver, Mobile Turret</td><td>18</td><tr>
+<tr><td>Gauss Cannon</td><td>Precision Bolt, Siege Mode</td><td>18</td><tr>
+<tr><td>Rocket Launcher</td><td>Lock-On, Remote Detonation</td><td>18</td><tr>
+<tr><td>Super Shotgun</td><td>-</td><td>9</td><tr>
+<tr><td>Pistol</td><td>-</td><td>9</td><tr>
+<tr><td>Total</td><td></td><td>126</td><tr>
+</table>
 
 You earn Weapon Upgrade Tokens as follows:
 
-Mission | Exploration | Challenges | Combat | Bonus | Bosses | Total | Cumulative
---- | --- | --- | --- | --- | --- | --- | ---
-1: The UAC | 2 | 0 | 0 | 0 | 0 | 2 | 2
-2: Resource Operations | 2 | 3 | 0 | 0 | 0 | 5 | 7
-3: Foundry | 2 | 3 | 5 | 0 | 0 | 10 | 17
-4: Argent Facility | 2 | 3 | 5 | 0 | 0 | 0 | 10 | 27
-5: Argent Energy Tower | 2 | 3 | 5 | 0 | 0 | 10 | 37
-6: Kadingir Sanctum | 2 | 3 | 5 | 0 | 0 | 10 | 47
-7: Argent Facility (Destroyed) | 2 | 3 | 5 | 0 | 0 | 10 | 57
-8: Advanced Resource Complex | 2 | 3 | 5 | 0 | 0 | 10 | 67
-9: Lazarus Labs | 2 | 3 | 5 | 2 | 6 | 18 | 85
-10: Titan's Realm | 2 | 3 | 5 | 0 | 0 | 10 | 95
-11: The Necropolis | 2 | 3 | 5 | 0 | 6 | 16 | 111
-12: VEGA Central Processing | 2 | 3 | 5 | 5 | 0 | 15 | 126
-13: Argent D'Nur | 2 | 3 | 5 | 0 | 6 | 16 | 142
+<table>
+<tr><th>Mission</th><th>Exploration</th><th>Challenges</th><th>Combat</th><th>Bonus</th><th>Bosses</th><th>Total</th><th>Cumulative</th></tr>
+<tr><td>1: The UAC</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>2</td></tr>
+<tr><td>2: Resource Operations</td><td>2</td><td>3</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+<tr><td>3: Foundry</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>17</td></tr>
+<tr><td>4: Argent Facility</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>0</td><td>10</td><td>27</td></tr>
+<tr><td>5: Argent Energy Tower</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>37</td></tr>
+<tr><td>6: Kadingir Sanctum</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>47</td></tr>
+<tr><td>7: Argent Facility (Destroyed)</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>57</td></tr>
+<tr><td>8: Advanced Resource Complex</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>67</td></tr>
+<tr><td>9: Lazarus Labs</td><td>2</td><td>3</td><td>5</td><td>2</td><td>6</td><td>18</td><td>85</td></tr>
+<tr><td>10: Titan's Realm</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>95</td></tr>
+<tr><td>11: The Necropolis</td><td>2</td><td>3</td><td>5</td><td>0</td><td>6</td><td>16</td><td>111</td></tr>
+<tr><td>12: VEGA Central Processing</td><td>2</td><td>3</td><td>5</td><td>5</td><td>0</td><td>15</td><td>126</td></tr>
+<tr><td>13: Argent D'Nur</td><td>2</td><td>3</td><td>5</td><td>0</td><td>6</td><td>16</td><td>142</td></tr>
+</table>
 
 So, if you 100% the game you should have 142 - 126 = 16 unusable Weapon Upgrade points at the end.  Another way to look at it:  there are 16 extra Weapon Upgrades Points.
 
@@ -378,13 +381,6 @@ Based on my own experience (and I could be wrong):
   * damage of user's weapons
   * environmental damage to the user
   * environmental damage to the demons
-
-Difficulty level     | Max Imp Fireball Damage | Small Armor Pickup
----                  | ---                     | ---
-Please Don't Hurt Me | ...                     | 5
-Hurt Me Plenty       | ...                     | ...
-Ultra-Violence       | ...                     | ...
-Nightmare            | ...                     | 1
 
 Ultra-Nightmare is the same as Nightmare for this information.
 
