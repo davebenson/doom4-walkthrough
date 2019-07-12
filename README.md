@@ -309,7 +309,7 @@ You earn Weapon Upgrade Tokens as follows:
 <tr><td>1: The UAC</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>2</td></tr>
 <tr><td>2: Resource Operations</td><td>2</td><td>3</td><td>0</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
 <tr><td>3: Foundry</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>17</td></tr>
-<tr><td>4: Argent Facility</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>0</td><td>10</td><td>27</td></tr>
+<tr><td>4: Argent Facility</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>27</td></tr>
 <tr><td>5: Argent Energy Tower</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>37</td></tr>
 <tr><td>6: Kadingir Sanctum</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>47</td></tr>
 <tr><td>7: Argent Facility (Destroyed)</td><td>2</td><td>3</td><td>5</td><td>0</td><td>0</td><td>10</td><td>57</td></tr>
@@ -370,12 +370,10 @@ Based on my own experience (and I could be wrong):
 * difficulty levels affect:
   * damage done by demons
   * gains from ammo, armor, and healh pickups
-  * runes: Rich Get Richer
 * difficulty levels do not affect:
   * number or placement of demons
   * chainsaw
   * secrets (except the size of an Armor pickup)
-  * runes: In-Flight Mobility
 * i'm not sure if these are affected:
   * health of monsters
   * damage of user's weapons
