@@ -1268,7 +1268,7 @@ Leave this area through a Maintenance door on the far end.
 ## Mission 5: Lower Railway (Description and Secret)
 As you can probably see by the Map (in the Dossier),
 you are at the outside of the tall circular Argent Energy Tower.
-Unmanned trains run around it's exterior, and you'll encounter them a few times.
+Unmanned trains run around its exterior, and you'll encounter them a few times.
 
 You should see such an unmanned train going right every 5 seconds or so.  Use the Munitions Crate, then follow the next convenient train, and drop into an unused track.  Keep going, and you should see an entrance to a human-sized passageway on your left.
 
@@ -1822,7 +1822,7 @@ Reverse your steps, and turn the air intake back on.  Step in, and enjoy the rid
 
 Climbing up you'll get to a 4-way shaft intersection:  directly in front and in back of you are each of the twin intakes.  The in-game waypoint points you toward BFG Labs Lobby.  The other direction has some armor if you need it.
 
-Proceed toward the in-game waypoint, to a lobby.  This area has TWO green door: the big one directly in front of you with the waypoint, and a smaller door to the left housing SECRET 8.3: ELITE GUARD 8.3.
+Proceed toward the in-game waypoint, to a lobby.  This area has TWO green door: the big one directly in front of you with the waypoint, and a smaller door to the left housing SECRET 8.3: ELITE GUARD 8.2.
 
 ## Mission 8: Fight:  The BFG Labs Access Hallway
 
