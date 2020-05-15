@@ -64,7 +64,7 @@ Because of this, it isn't really worth putting Weapon Upgrade points into the sh
 
 When you get to the first Field Drone, the Shotgun is the only weapon you have to modify, so you have to get a mod at this early point:  go for Explosive Shot, which is easier to use to get the "Twofer" Challenge (for Mission 2).
 
-Cyber-Mancubi count as Mancubi for the Changed Shot Upgrade Challenge.
+Cyber-Mancubi count as Mancubi for the Charged Shot Upgrade Challenge.
 
 (Technically, the game refers to this weapon as the "Combat Shotgun", but nobody calls it that.)
 
@@ -79,10 +79,10 @@ I haven't found the Stun modification to be very useful: it wastes ammo, it's ha
 
 ### Assault Rifle (available Mission 2)
 
-Each individual shot from the Assault Rifle is rather weak and becomes weaker and harder to hit from a difference.  Few demons can be killed with a single shot;
+Each individual shot from the Assault Rifle is rather weak and becomes weaker and harder to hit from a distance.  Few demons can be killed with a single shot;
 expect a cacodaemoon (etc) to take 30+ shots even up close.
 
-ihe Tactical Scope changes things a bit: it makes the thing pretty effective for sniping, and the upgrades make it pretty damaging.
+The Tactical Scope changes things a bit: it makes the thing pretty effective for sniping, and the upgrades make it pretty damaging.
 Even so, it's a bit tedious killing things with this weapon.  
 However, it makes for a nice change, since the opportunities for sniping are few in this game.
 You can usually get the challenge upgrade naturally over the course of the game, but you can also replay an earlier mission to get it pretty easily.
@@ -115,6 +115,10 @@ The Precision Bolt mod is also pretty good but it's a lot harder to fully upgrad
 The Big F-ing Gun.  This will clear out a whole room of demons, but it can be a little unpredictable in how it works.
 
 Ammo is found individually, and you always have a limit of 3.  However, the Ammo Boost II rune WILL cause enemies to randomly drop BFG ammo when they die so there isn't too much of a shortage.
+
+People have spent a lot a time modelling how this thing works:  basically its a projectile that zaps things near it.
+
+A well-known trick or bug is that the BFG deliver damage at the same rate while the weapons selector is open, even though the projectile itself is slowed down.  Thus it does a lot more damage overall.
 
 ### Chainsaw (available Mission 2)
 This crazy melee weapon will definitely kill any monster (except Bosses) in range that
@@ -514,7 +518,7 @@ I welcome contributions, compliments, suggestions, errata, strategies, complaint
 
 # Mission 0:  Pre-UAC
 
-At the beginning of the game, you wake up chained to an operating table.
+At the beginning of the game, you wake up chained to a stone table.
 As you break out of your bonds, four demons surround you, your first encounter with THE POSSESSED.
 
 Before you have control, you kill one by hand, and grab a pistol.
